@@ -1,44 +1,3 @@
-# msw2
-This is an incomplete digital archive of original resources used to compile:
-
-DE Wilson and DM Reeder (eds.). 1993. Mammal Species of the World, A Taxonomic and Geographic Reference, Second Edition. Smithsonian Institution Press, Washington D.C., 1206 pp. ISBN 1-56098-217-9
-
-Included digital resources in ```data-raw/``` folder were provided by DeeAnn M. Reeder in July 2022.
-
-## limitations
-
-Note that these files were transferred from a collection of [floppy disks](https://en.wikipedia.org/wiki/Floppy_disk). Some of these floppy disks were unreadable, causing some files to be missing.
-
-## Preston Archive
-
-A Preston archive was generated from a all files in the ```'data-raw/MSW2/all readable files from floppy disks/DBASE FILES/'``` directory, subset of the provided MSW2 digital files. A preston archive packages the digital resources in a location-agnostic, verifiable, digital archive format. For more information see [https://preston.guoda.bio](https://preston.guoda.bio), [https://github.com/bio-guoda/preston](https://github.com/bio-guoda/preston), or Poelen, Jorrit, Elliott, Michael, & Alzuru, Icaro. (2022). bio-guoda/preston: (0.3.10). Zenodo. https://doi.org/10.5281/zenodo.1410543. 
-
-Also, the ```preston dbase-stream``` command was used to extract TAXON records into [msw2.csv](./msw2.csv) and [msw2.json](./msw2.json) files. For ease of inspection, the first 10 records of these files are available in [msw2-sample.csv](./msw2-sample.csv) and [msw2-sample.json](./msw2-sample.json) respectively.
-
-# feedback 
-
-Please [open an issue](../../issues/new) or send an email to Jorrit Poelen (software/data engineer) or DeeAnn Reeder (MSW2 editor). 
-
-# citation 
-
-Please follow academic tradition and cite the original and derived works when re-using this data:
-
-DE Wilson and DM Reeder (eds.). 1993. Mammal Species of the World, A Taxonomic and Geographic Reference, Second Edition. Smithsonian Institution Press, Washington D.C., 1206 pp. ISBN 1-56098-217-9
-
-# license 
-CC-0
-
-# digital signatures
-
-## provenance 
-```
-$ preston history
-<urn:uuid:0659a54f-b713-4f86-a917-5be166a14110> <http://purl.org/pav/hasVersion> <hash://sha256/078fe7631cb760a1bcbf42c40f37c634a9cf12b8ccbb83d7daf44195364651fe> .
-```
-with
-
-```
-$ preston cat hash://sha256/078fe7631cb760a1bcbf42c40f37c634a9cf12b8ccbb83d7daf44195364651fe
 <https://preston.guoda.bio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#SoftwareAgent> <urn:uuid:dffe539b-2ef4-4226-9d5d-7122fa54a805> .
 <https://preston.guoda.bio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Agent> <urn:uuid:dffe539b-2ef4-4226-9d5d-7122fa54a805> .
 <https://preston.guoda.bio> <http://purl.org/dc/terms/description> "Preston is a software program that finds, archives and provides access to biodiversity datasets."@en <urn:uuid:dffe539b-2ef4-4226-9d5d-7122fa54a805> .
@@ -583,4 +542,3 @@ $ preston cat hash://sha256/078fe7631cb760a1bcbf42c40f37c634a9cf12b8ccbb83d7daf4
 <urn:uuid:ad9f5206-ddb3-4f0a-8151-29a59545458e> <http://www.w3.org/ns/prov#wasInformedBy> <urn:uuid:dffe539b-2ef4-4226-9d5d-7122fa54a805> <urn:uuid:ad9f5206-ddb3-4f0a-8151-29a59545458e> .
 <urn:uuid:ad9f5206-ddb3-4f0a-8151-29a59545458e> <http://www.w3.org/ns/prov#used> <https://raw.githubusercontent.com/jhpoelen/msw2/main/data-raw/MSW2/all%20readable%20files%20from%20floppy%20disks/DBASE%20FILES/HOOVES.DBF> <urn:uuid:ad9f5206-ddb3-4f0a-8151-29a59545458e> .
 <https://raw.githubusercontent.com/jhpoelen/msw2/main/data-raw/MSW2/all%20readable%20files%20from%20floppy%20disks/DBASE%20FILES/HOOVES.DBF> <http://purl.org/pav/hasVersion> <hash://sha256/2862b2bf97165fb6f601dcb224ba1931de75899ed218764a7db1eeca8e887b33> <urn:uuid:ad9f5206-ddb3-4f0a-8151-29a59545458e> .
-```
