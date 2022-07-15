@@ -1,0 +1,5 @@
+STATUS=ON
+COLOR=BG+/B, GR+/N, B+
+TEDIT= c:\wped\ED
+wp = c:\pcw\ed
+COMMAND = DO TAXA

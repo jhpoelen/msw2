@@ -1,0 +1,33 @@
+ORDER DERMOPTERA by Don E. Wilson
+
+ORDER DERMOPTERA
+
+Family Cynocephalidae Simpson, 1945. Bull. Am. Mus.
+     Nat. Hist., 85:54.
+SYNONYMS: Colugidae, Galeopithecidae, Galeopteridae. 
+
+Cynocephalus Boddaert, 1768. Dierk. Meng., 2:8.
+TYPE SPECIES: Lemur volans Linnaeus, 1758.
+SYNONYMS: Colugo, Dermopterus, Galeolemur,
+     Galeopithecus, Galeopterus, Galeopus,
+     Pleuropterus. 
+COMMENTS: See Ellerman and Morrison-Scott (1966). 
+
+Cynocephalus variegatus (Audebert, 1799). Hist. Nat.
+     Singes Makis, sig. Rr. Java.
+TYPE LOCALITY: Indonesia, Java.
+DISTRIBUTION: Indochina to Java (Indonesia) and Borneo.
+SYNONYMS: abbotti, aoris, borneanus, chombolis,
+     gracilis, hantu, lautensis, lechei, natunae,
+     peninsulae, pumilis, saturatus, taylori, tellonis,
+     ternatensis, terutaus, tuancus, varius. 
+
+Cynocephalus volans (Linnaeus, 1758). Syst. Nat., 10th
+     ed., 1:30.
+TYPE LOCALITY: Philippine Isls, S Luzon, Pampanga Prov.
+DISTRIBUTION: Philippine Isls: Dinagat, Mindanao,
+     Basilan, Samar, Siargao, Leyte, and Bohol.
+SYNONYMS: marmoratus, philippinensis, rufus,
+     temminckii, undatus. 
+
+

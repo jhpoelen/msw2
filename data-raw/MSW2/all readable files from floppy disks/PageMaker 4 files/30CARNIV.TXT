@@ -1,0 +1,2935 @@
+ORDER CARNIVORA by W. Christopher Wozencraft
+
+ORDER CARNIVORA
+COMMENTS: Recent studies on family level relationships
+     have agreed in several key areas, among which are:
+     (1) The sister group to the Carnivora is the 
+     Creodonta. (2) The Recent Carnivora are organized
+     into two monophyletic groups; Suborder Feliformia:
+     felids, herpestids, hyaenids and viverrids; and
+     Suborder Caniformia: canids, ursids, mustelids,
+     odobenids, otariids, phocids, and procyonids. (3)
+     The pinnipeds (otariids, odobenids, and phocids)
+     are included within the suborder Caniformia;
+     placing them in a separate Order would make the
+     Carnivora paraphyletic (Flynn et al., 1988;
+     Tedford, 1976; Wozencraft, 1989a; Berta, 1991).
+
+Family Canidae G. Fischer, 1817. MÇm. Soc. Imp. Nat.
+     Moscow, 5:372.
+COMMENTS: Conservation status and distribution reviewed
+     by Ginsberg and Macdonald (1990). Reviewed by
+     Langguth (1975) and Stains (1975). Revisions by
+     Langguth (1969), Clutton-Brock et al. (1976), Van
+     Gelder (1978), Berta (1987, 1988), Wayne and
+     O'Brien (1987), and Wayne et al. (1987a, b, 1989)
+     gave little support to the subfamilies recognized
+     by Simpson (1945); therefore, no subfamilies are
+     recognized here. Van Gelder's (1977b)
+     hybridization criteria for generic classification
+     resulted in the recognition of only a few genera,
+     including some paraphyletic groups. 
+
+Alopex Kaup, 1829. Skizz. Entwickel. Gesch. Nat. Syst.
+     Europ. Theirwelt, 1:85.
+TYPE SPECIES: Canis lagopus Linnaeus, 1758, by monotypy
+     (International Commission on Zoological
+     Nomenclature, 1956a; Melville and Smith, 1987).
+COMMENTS: Bobrinskii et al. (1965) considered Alopex a
+     subgenus of Vulpes; Van Gelder (1978) considered
+     it a subgenus of Canis. 
+
+Alopex lagopus (Linnaeus, 1758). Syst. Nat., 10th ed.,
+     1:40.
+TYPE LOCALITY: "alpibus Lapponicis, Sibiria,"
+     restricted by Thomas (1911a) to "Sweden
+     (Lapland)."
+DISTRIBUTION: Circumpolar, entire tundra zone of the
+     Holarctic, including most of the Arctic islands.
+SYNONYMS: arctica Oken, 1816; argenteus Billberg, 1827;
+     beringensis Merriam, 1902; beringianus Cherski,
+     1920; caerulea Nilsson, 1820; fuliginosus
+     Bechstein, 1799; groenlandicus Bechstein, 1799;
+     hallensis Merriam, 1900; innuitus Merriam, 1902;
+     kenaiensis Brass, 1911; pribilofensis Merriam,
+     1902; spitzbergenensis Barrett-Hamilton and
+     Bonhote, 1898; typicus Barrett-Hamilton and
+     Bonhote, 1898; ungava Merriam, 1902.    
+COMMENTS: Viable hybrids have been recorded between Alopex
+lagopus and Vulpes vulpes (Chiarelli, 1975). 
+
+Atelocynus Cabrera, 1940. Notas Mus. La Plata 5:14.
+TYPE SPECIES: Canis microtis Sclater, 1883, by original
+     designation.
+COMMENTS: See comments under Dusicyon. Placed in
+     Atelocynus by Cabrera (1931, 1958), Langguth
+     (1975), Stains (1975), and Berta (1985, 1986,
+     1988). Van Gelder (1978) considered Atelocynus a
+     subgenus of Canis. 
+
+Atelocynus microtis (Sclater, 1883). Proc. Zool. Soc.
+     Lond., 1882:631 [1883].
+TYPE LOCALITY: "Amazons," restricted by Hershkovitz
+     (1957a) to "south bank of the Rio Amazonas, Par†,
+     Brazil."
+DISTRIBUTION: Amazonian Brazil, Peru, Ecuador, and
+     Colombia; perhaps Bolivia, and a second,
+     allopatric population in S Brazil, Paraguay and N
+     Argentina (Ginsberg and Macdonald, 1990).
+STATUS: IUCN - Insufficiently known.
+SYNONYMS: sclateri J. A. Allen, 1905. 
+COMMENTS: Reviewed by Hershkovitz (1961a) and Berta
+     (1986, Mammalian Species, 256). 
+
+Canis Linnaeus, 1758. Syst. Nat., 10th ed., 1:38.
+TYPE SPECIES: Canis familiaris Linnaeus, 1758 (= Canis
+     lupus Linnaeus, 1758) by Linnean tautonomy
+     (Melville and Smith, 1987).
+COMMENTS: Van Gelder (1978) included Alopex,
+     Atelocynus, Cerdocyon, Pseudalopex, Lycalopex,
+     Dusicyon, and Vulpes as subgenera. However, this
+     arrangement is not currently employed by most
+     mammalogists (Berta, 1987, 1988; Corbet, 1978c;
+     Corbet and Hill, 1980; Gromov and Baranova, 1981;
+     Hall, 1981; Wozencraft, 1989b).
+
+Canis adustus Sundevall, 1847. Ofv. K. Svenska
+     Vet.-Akad. Forhandl. Stockholm, 1846, 3:121
+     [1847].
+TYPE LOCALITY: "Caffraria Interiore"; listed as
+     "Magaliesberg" [South Africa] by Sclater (1900).
+DISTRIBUTION: Open woodland and semi-arid grassland
+     from Senegal to Ethiopia, south to N Namibia, N
+     Botswana, Zimbabwe, Mozambique, and N South
+     Africa. The W African population is largely
+     "unknown" (Ginsberg and Macdonald, 1990).
+SYNONYMS: bweha Heller, 1914; centralis Schwarz, 1915;
+     holubi Lorenz, 1895; kaffensis Neumann, 1902;
+     lateralis Sclater, 1870; notatus Heller, 1914;
+     studeri Hilzheimer, 1906; wunderlichi Noack, 1897.
+     
+
+Canis aureus Linnaeus, 1758. Syst. Nat., 10th ed.,
+     1:40.
+TYPE LOCALITY: "oriente", restricted by Thomas (1911a)
+     to "Benn† Mts., Laristan, S. Persia" [Iran].
+DISTRIBUTION: N and E Africa, south to Senegal,
+     Nigeria, and Tanzania; SW Asia; SE Europe;
+     Transcaucasia; C Asia; Iran; Afghanistan; S Asia
+     to Thailand, including Sri Lanka.
+STATUS: CITES - Appendix III (India).
+SYNONYMS: algirensis Wagner, 1841; anthus Cuvier, 1820;
+     balcanicus Brusina, 1892; barbarus H[amilton].
+     Smith, 1839; bea Heller, 1914; caucasica Kolenati,
+     1858; cruesemanni Matschie, 1900; dalmatinus
+     Wagner, 1841; doederleini Hilzheimer, 1906;
+     ecsedensis Kretzoi, 1947; gallaensis Lorenz, 1906;
+     graecus Wagner, 1841; grayi Hilzheimer, 1906;
+     hadramauticus Noack, 1896; hungaricus Ehik, 1938;
+     indicus Hodgson, 1833; kola Wroughton, 1916; lanka
+     Wroughton, 1916; lupaster Hemprich and Ehrenberg,
+     1833; maroccanus Cabrera, 1921; mengesi Noack,
+     1897; minor Mojsisovico, 1897; moreotica I.
+     Geoffroy Saint-Hilaire, 1835; naria Wroughton,
+     1916; nubianus Cabrera, 1921; riparius Hemprich
+     and Ehrenberg, 1832; sacer Hemprich and Ehrenberg,
+     1833; senegalensis H[amilton]. Smith, 1839;
+     somalicus Lorenz, 1906; soudanicus Thomas, 1903;
+     studeri Hilzheimer, 1906; syriacus Hemprich and
+     Ehrenberg, 1833; thooides Hilzheimer, 1906;
+     tripolitanus Wagner, 1841; typicus Kolenati, 1858;
+     variegatus Cretzschmar, 1826; vulgaris Wagner,
+     1841. 
+
+Canis latrans Say, 1823. In James, Account Exped.
+     Pittsburgh to Rocky Mtns, 1:168.
+TYPE LOCALITY: "Engineer cantonment" reported at
+     "latitude 41¯25'N, and longitude...95¯47'30'W" (p.
+     XVIII, vol. 2). Reported in Honacki et al. (1982)
+     as "U.S.A., Nebraska, Washington Co., Engineer
+     Cantonment, about 12 mi. (19.2 km) S. E. Blair".
+DISTRIBUTION: Originally may have occurred west of the
+     Mississippi R., north to about 55¯N, and south to
+     Mexico City. Has extended its range north to N
+     Alaska (USA), Northwest Territories, and Hudson
+     Bay (Canada), approximately to 70¯N, south to
+     Costa Rica to approximately 10¯N, and east to the
+     Atlantic coast. Introduced in Florida and Georgia
+     (Bekoff, 1977).
+SYNONYMS: cagottis H[amilton]. Smith, 1839; clepticus
+     Elliot, 1903; dickeyi Nelson, 1932; estor Merriam,
+     1897; frustror Woodhouse, 1850; goldmani Merriam,
+     1904; hondurensis Goldman, 1936; impavidus Allen,
+     1903; jamesi Townsend, 1912; lestes Merriam, 1897;
+     mearnsi Merriam, 1897; microdon Merriam, 1897;
+     ochropus Eschscholtz, 1829; peninsulae Merriam,
+     1897; texensis Bailey, 1905; thamnos Jackson,
+     1949; umpquensis Jackson, 1949; vigilis Merriam,
+     1897. 
+COMMENTS: Revised by Young (1951), and reviewed by
+     Bekoff (1977, Mammalian Species, 79). 
+
+Canis lupus Linnaeus, 1758. Syst. Nat., 10th ed., 1:39.
+TYPE LOCALITY: "Europë sylvis, etjam frigidioribus",
+     restricted by Thomas (1911a) to "Sweden".
+DISTRIBUTION: Throughout the N hemisphere: North
+     America south to 20¯N in Oaxaca (Mexico); Europe;
+     Asia, including the Arabian Peninsula and Japan,
+     excluding Indochina and S India. Extirpated from
+     most of the continental USA, Europe, and SE China
+     and Indochina (Ginsberg and Macdonald, 1990).
+STATUS: CITES - Appendix I (Indian, Pakistan, Bhutan,
+     and Nepal populations); otherwise Appendix II.
+     U.S. ESA - Endangered in the USA (48 conterminous
+     States, except Minnesota) and Mexico; Threatened
+     in Minnesota (USA). IUCN - Vulnerable.
+SYNONYMS: albus Kerr, 1792; alces Goldman, 1941;
+     altaicus Noak, 1911; arabs Pocock, 1934; arctos
+     Pocock, 1935; argunensis Dybowski, 1922; ater
+     Richardson, 1839; baileyi Nelson and Goldman,
+     1929; banksianus Anderson, 1943; beothucus G. M.
+     Allen and Barbour, 1937; bernardi Anderson, 1943;
+     campestris Dwigubski, 1804; canadensis de
+     Blainville, 1843; canus de SÇlys Longchamps, 1839;
+     chanco Gray, 1863; columbianus Goldman, 1941;
+     communis Dwigubski, 1804; coreanus Abe, 1923;
+     crassodon Halla, 1932; cubanensis Ognev, 1923;
+     deitanus Cabrera, 1907; desertorum Bogdanov, 1992;
+     dybowskii Kerr, 1792; ekloni Przewalski, 1883;
+     familiaris Linnaeus, 1758; filchneri Matschie,
+     1908; flavus Kerr, 1792; fulvus de SÇlys
+     Longchamps, 1839; fusca Richardson, 1839; gigas
+     Townsend, 1850; griseoalbus Baird, 1858; hattai
+     Kishida, 1931; hodophilax Temminck, 1839;
+     hudsonicus Goldman, 1941; irremotus Goldman, 1937;
+     italicus Altobello, 1921; japonicus Nehring, 1883;
+     kamtschaticus Dybowski, 1922; karanorensis
+     Matschie, 1908; knightii Anderson, 1947; kurjak
+     Bolkay, 1925; labradorius Goldman, 1937; laniger
+     Hodgson, 1847; ligoni Goldman, 1937; lupus-griseus
+     Sabine, 1823; lycaon Schreberrt, 1775; mackenzii
+     Anderson, 1943; major OgÇrien, 1863; manningi
+     Anderson, 1943; minor OgÇrien, 1863; mogollonensis
+     Goldman, 1937; monstrabilis Goldman, 1937; nubilus
+     Say, 1823; occidentalis Richardson, 1829;
+     orientalis Wagner, 1841; orion Pocock, 1935;
+     pallipes Sykes, 1831; pambasileus Elliot, 1905;
+     rex Pocock, 1935; signatus Cabrera, 1907; sticte
+     Richardson, 1839; tschiliensis Matschie, 1908;
+     tundrarum Miller, 1912; turuchanensis Ognev, 1923;
+     ungavensis Comeau, 1940; variabilis Say, 1823;
+     youngi Goldman, 1937.
+COMMENTS: Reviewed by Mech (1974, Mammalian Species,
+     37). C. familiaris has page priority over C. lupus
+     in Linnaeus (1758), but both were published
+     simultaneously, and C. lupus has been universally
+     used for this species.
+
+Canis mesomelas Schreber, 1775. Die SÑugethiere,
+     2(14):pl. 95[1775]; text, 3(21):370[1776],
+     586[1777].
+TYPE LOCALITY: "Vorgebirge der guten Hofnung" [South
+     Africa, Cape Prov., Cape of Good Hope].
+DISTRIBUTION: Africa, south of the tropical rain-forest
+     in the west and as far north as Ethiopia and Sudan
+     in the east; two populations, (1) Angola across to
+     mid-Mozambique and south; and (2) Ethiopia to
+     Tanzania and northern most Zimbabwe east of Zaire
+     (Ginsberg and Macdonald, 1990).    
+SYNONYMS: achrotes Thomas, 1926; arenarum Thomas, 1926;
+elgonae Heller, 1914; mcmillani Heller, 1914; schmidti
+Noack, 1897; variegatoides Smith, 1834. 
+
+Canis rufus Audubon and Bachman, 1851. Viviparous
+     Quadrupeds of North America, 2:240.
+TYPE LOCALITY: Not given. Restricted by Goldman (1937)
+     to "15 miles west of Austin, Texas" [USA], based
+     on accounts from Audubon and Bachman (1851).
+DISTRIBUTION: SE and SC USA, from Florida to C Texas
+     and north to S Indiana and Missouri.
+STATUS: U.S. ESA - Endangered (except Dare, Tyrrell,
+     Hyde, and Washington Counties, North Carolina,
+     which have a nonessential experimental
+     population); IUCN - Endangered.
+SYNONYMS: floridanus Miller, 1912; gregoryi Goldman,
+     1937; niger Bartram, 1791. 
+COMMENTS: Reviewed and recognized by Paradiso and Nowak
+     (1972, Mammalian Species, 22); also recognized by
+     Paradiso (1968), Atkins and Dillion (1971), and
+     Nowak (1979). The widely used name C. niger is
+     invalid (International Commission on Zoological
+     Nomenclature, 1957a). The validity of rufus as a
+     full species was questioned by Clutton-Brock et
+     al. (1976), due to the existence of natural
+     hybrids with lupus and latrans. Natural
+     hybridization may be a consequence of habitat
+     disruption by man (Paradiso and Nowak, 1971).
+     Nowak (1979) provided evidence for specific
+     distinctness. All specimens examined by Wayne and
+     Jenks (1991) had either a lupus or latrans mtDNA
+     genotype.
+
+Canis simensis RÅppell, 1840. Neue Wirbelt. Fauna
+     Abyssin. Gehîrig. SÑugeth., 1:39, pl. 14.
+TYPE LOCALITY: "Wir beobachteten diesen wolfsartigen
+     Hund in den Bergen von Simen..." [Ethiopia,
+     mountains of Simen].
+DISTRIBUTION: C Ethiopia.
+STATUS: U.S. ESA and IUCN - Endangered.
+SYNONYMS: sinus Gervais, 1855; walgie Heuglin, 1863. 
+COMMENTS: Sometimes placed in subgenus Simenia Gray,
+     1868. 
+
+Cerdocyon H[amilton]. Smith, 1839. Jardine's Natur.
+     Libr., 9:259. 
+TYPE SPECIES: Canis azarae Wied, 1824 (= Canis Thous
+     Linnaeus, 1766) by subsequent designation (Thomas,
+     1914a).
+
+Cerdocyon thous (Linnaeus, 1766). Syst. Nat., 12th ed.,
+     1:60. 
+TYPE LOCALITY: "Surinamo" [Surinam].
+DISTRIBUTION: Uruguay and N Argentina to lowlands of
+     Bolivia, Venezuela; Colombia and Guyanas; Brazil
+     except Amazonia.
+STATUS: CITES - Appendix II.
+SYNONYMS: affinis Marelli, 1931; angulensis Thomas,
+     1903; apollinaris Thomas, 1914; aquilus Bangs,
+     1898; azarae Wied, 1824; brachyteles de
+     Blainville, 1843; brasiliensis Wied, 1824;
+     cancrivora Brongniart, 1792; fronto Lînnberg,
+     1919; fulvogriscus Zukowsky, 1950; germanus G. M.
+     Allen, 1923; guaraxa H[amilton]. Smith, 1829;
+     jucundus Thomas, 1921; lunaris Thomas, 1914;
+     melampus Wagner, 1841; melanostomus Wagner, 1843;
+     mimax Thomas, 1914; riograndensis Ihering, 1911;
+     robustior Lund, 1843; rudis GÅnther, 1879;
+     savannarum Osgood, 1912; tucumanus Thomas, 1921;
+     vetulus Studer, 1905. 
+COMMENTS: Reviewed by Berta (1982, Mammalian Species,
+     186). Placed in Cerdocyon by Langguth (1975),
+     Stains (1975), and Berta (1982); placed in
+     subgenus Canis (Cerdocyon) by Van Gelder (1978).
+
+Chrysocyon H[amilton]. Smith, 1839. Jardine's Natur.
+     Libr., 9:241.
+TYPE SPECIES: Canis jubatus Desmarest, 1820 (= Canis
+     brachyurus Illiger, 1815).
+COMMENTS: Recognized by Langguth (1975), Stains (1975),
+     Van Gelder (1978), and Berta (1988). 
+
+Chrysocyon brachyurus (Illiger, 1815). Abh. Phys.
+     Klasse K. Pruess. Akad. Wiss., 1804-1811:121.
+TYPE LOCALITY: Listed by Cabrera (1958) as "los esteros
+     del Paraguay".
+DISTRIBUTION: NE Argentina; Paraguay; lowlands of
+     Bolivia; Brazil from Rio Grande do Sul to Minas
+     Gerais, Goi†s and Mato Grosso.
+STATUS: CITES - Appendix II; U.S. ESA - Endangered;
+     IUCN - Vulnerable.
+SYNONYMS: campestris Wied[-Neuwied], 1826; cancrosa
+     Oken, 1816; isodactylus Ameghino, 1906; jubatus
+     Desmarest, 1820; vulpes Larranaga, 1923. 
+COMMENTS: See Dietz (1985, Mammalian Species, 234). 
+
+Cuon Hodgson, 1838. Ann. Mag. Nat. Hist., [ser. 1],
+     1:152.
+TYPE SPECIES: Canis primaevus Hodgson, 1838, by
+     monotypy (Melville and Smith, 1987).
+COMMENTS: Placed in subfamily Simocyoninae Dawkins,
+     1868, by Simpson (1945) and Stains (1975). 
+
+Cuon alpinus (Pallas, 1811). Zoogr. Rosso-Asiat., 1:34.
+     
+TYPE LOCALITY: "Udskoi Ostrog"; reported in Honacki et
+     al. (1982) as "U.S.S.R., Amurskaya Obl.,
+     Udskii-Ostrog."
+DISTRIBUTION: Java; Sumatra; Malaysia; montane forest
+     areas of the Indian peninsula and N Pakistan
+     through Tibet and Xinjiang (Tian Shan and
+     Altai--extinct); Indochina and China to Korea and
+     Ussuri region (Russia), and mountains of S Siberia
+     and N Mongolia.
+STATUS: CITES - Appendix II; U.S. ESA - Endangered;
+     IUCN - Vulnerable.
+SYNONYMS: clamitans Heude, 1892; dukhunensis Sykes,
+     1831; fumosus Pocock, 1936; grayiformes Hodgson,
+     1863; hesperius Afanasiev and Zolotarev, 1935;
+     infuscus Pocock, 1936; javanicus Desmarest, 1820;
+     laniger Pocock, 1936; lepturus Heude, 1892;
+     primaevus Hodgson, 1833; rutilans Blanford, 1839;
+     sumatrensis Hardwicke, 1822.
+COMMENTS: Reviewed by Cohen (1978, Mammalian Species,
+     100). 
+
+Dusicyon H[amilton]. Smith, 1839. Jardine's Natur.
+     Libr., 9:248.
+TYPE SPECIES: Canis antarcticus Bechstein, 1799 (= C.
+     australis Kerr, 1792), by subsequent designation
+     by Cabrera (1931).
+COMMENTS: There has been general disagreement as to
+     generic classification of the South American
+     canids, with most of the disagreement centered on
+     the species australis, culpaeus, griseus,
+     gymnocercus, microtis, sechurae, thous, and
+     vetulus. Van Gelder (1978) proposed placing these
+     taxa into Canis and giving only subgeneric
+     recognition. The other extreme is best represented
+     by Cabrera (1931) who recognized 5 genera for this
+     group. Langguth (1969) first followed Cabrera's
+     classification, but later (1975) decided to group
+     most taxa into Canis, because he felt differences
+     were not sufficient to warrant generic
+     distinctions. The phenetic approaches of
+     Clutton-Brock et al. (1976) and Wayne and O'Brien
+     (1987) confirmed the close similarities of these
+     taxa. Berta's (1987, 1988) phylogenetic hypothesis
+     is followed here.
+
+Dusicyon australis (Kerr, 1792). In Linnaeus, Anim.
+     Kingdom, p. 144.
+TYPE LOCALITY: "America and Falkland islands."
+DISTRIBUTION: Falkland Islands.
+STATUS: IUCN - Extinct.
+SYNONYMS: antarcticus Bechstein, 1799; darwini Thomas,
+     1914. 
+COMMENTS: Placed in Dusicyon by Cabrera (1931) and
+     Berta (1987, 1988), and considered as a subgenus
+     separate from other "foxes" (i.e., culpaeus,
+     griseus, gymnocercus, and sechurae) by Langguth
+     (1975) and Van Gelder (1978).
+
+Lycaon Brookes, 1827. In Griffith et al., Anim.
+     Kingdom, 5:151.
+TYPE SPECIES: Lycaon tricolor Brookes, 1827 (= Hyaena
+     picta Temminck, 1820) by monotypy (Melville and
+     Smith, 1987).
+COMMENTS: Placed in Simocyoninae Dawkins, 1868, by
+     Simpson (1945) and Stains (1975). 
+
+Lycaon pictus (Temminck, 1820). Ann. Gen. Sci. Phys.,
+     3:54, pl. 35. 
+TYPE LOCALITY: "Ö la cìte de Mosambique" [Mozambique].
+DISTRIBUTION: Subsaharan Africa, except in the desert
+     area of the north and the tropical rain-forest of
+     the west. See Ginsberg and Macdonald (1990, fig.
+     6) for present status of population.
+STATUS: U.S. ESA and IUCN - Endangered.
+SYNONYMS: cacondae Matschie, 1915; dieseneri Matschie,
+     1915; ebermaieri Matschie, 1915; fuchsi Matschie,
+     1915; gansseri Matschie, 1915; gobabis Matschie,
+     1915; hennigi Matschie, 1915; huebneri Matschie,
+     1915; kondoae Matschie, 1915; krebsi Matschie,
+     1915; lademanni Matschie, 1915; lalandei Matschie,
+     1915; langheldi Matschie, 1915; luchsingeri
+     Matschie, 1915; lupinus Thomas, 1902; manguensis
+     Matschie, 1915; mischlichi Matschie, 1915; prageri
+     Matschie, 1912; richteri Matschie, 1915; ruppelli
+     Matschie, 1915; ruwanae Matschie, 1915; sharicus
+     Thomas, 1907; ssongeae Matschie, 1915; stierlingi
+     Matschie, 1915; styxi Matschie, 1915; taborae
+     Matschie, 1915; takanus Matschie, 1915; tricolor
+     Brookes, 1827; typicus A. Smith, 1833; venatica
+     Burchell, 1822; windhorni Matschie, 1915;
+     wintgensi Matschie, 1915; zedlitzi Matschie, 1915;
+     zuluensis Thomas, 1904. 
+
+Nyctereutes Temminck, 1839. Tijdschr. Nat. Gesch.
+     Physiol., 5:285. 
+TYPE SPECIES: Canis viverrinus Temminck, 1839 (= Canis
+     procyonoides Gray, 1834).
+
+Nyctereutes procyonoides (Gray, 1834). Illustr. Indian
+     Zool., 2:pl. 1. 
+TYPE LOCALITY: Unknown; restricted to "vicinity of
+     Canton, China" by Allen (1938).
+DISTRIBUTION: Ussuri region (Russia), Korea, China,
+     Japan, and N Indochina.
+SYNONYMS: albus Hornaday, 1904; amurensis Matschie,
+     1908; koreensis Mori, 1922; orestes Thomas, 1923;
+     sinensis Brass, 1904; stegmanni Matschie, 1908;
+     ussuriensis Matschie, 1908; viverrinus Temminck,
+     1839. 
+COMMENTS: See Ward and Wurster-Hill (1990, Mammalian
+     Species, 358). 
+
+Otocyon MÅller, 1836. Arch. Anat. Physiol., Jahresber.
+     Fortschr. Wiss., 1835:1 [1836]. 
+TYPE SPECIES: Otocyon caffer MÅller, 1836 (= Canis
+     megalotis Desmarest, 1822), by monotypy (Melville
+     and Smith, 1987).
+
+Otocyon megalotis (Desmarest, 1822). Mammalogie, in
+     Encyclop. Meth., 2(Suppl.):538. 
+TYPE LOCALITY: "le Cap de Bonne-EspÇrance" [South
+     Africa, Cape Prov., Cape of Good Hope].
+DISTRIBUTION: Allopatric south (Botswana, Namibia,
+     South Africa) and east (Kenya, Ethiopia, Tanzania)
+     African popultions (Ginsberg and Macdonald, 1990).
+SYNONYMS: auritus H[amilton]. Smith, 1840; caffer
+     MÅller, 1836; canescens Cabrera, 1910; lalandi
+     Desmoulins, 1823; steinhardti Zukowsky, 1924;
+     virgatus Miller, 1909. 
+
+Pseudalopex Burmeister, 1856. ErlÑut Fauna Brasiliens,
+     p. 24. 
+TYPE SPECIES: Canis magellanicus Gray, 1836 (= Canis
+     culpaeus Molina, 1782), by subsequent designation
+     by Cabrera (1931).
+COMMENTS: See comments under Dusicyon. Although
+     combining taxa included here with Dusicyon would
+     not be in conflict with Berta (1987, 1988), her
+     analyses suggested that other genera, now extinct,
+     are more closely related to Dusicyon. Berta (1987,
+     1988) presented derived features that would
+     support a single origin for those taxa recognized
+     here in Pseudalopex (which would also agree with
+     Cabrera, 1958 and Stains, 1975). A detailed
+     comparative morphological study by Langguth (1969)
+     caused him to conclude (1975:193) that Pseudalopex
+     merited generic rank. 
+
+Pseudalopex culpaeus (Molina, 1782). Sagg. Stor. Nat.
+     Chile, p. 293.
+TYPE LOCALITY: "Chili" restricted by Cabrera (1931) to
+     "the Santiago Province."
+DISTRIBUTION: From Tierra del Fuego through the Andes
+     of Chile and Argentina to the highlands of
+     Bolivia, Peru, Ecuador, and Colombia.
+STATUS: CITES - Appendix II.
+SYNONYMS: albigula Philippi, 1903; amblyodon Philippi,
+     1903; andina Thomas, 1914; chilensis Kerr, 1792;
+     culpaeolus Thomas, 1914;  ferrugineus Huber, 1925;
+     inca Thomas, 1914; lycoides Philippi, 1896;
+     magellanicus Gray, 1836; montanus Prichard, 1902;
+     prichardi Thomas, 1914; reissii Hilzheimer, 1906;
+     riveti Trouessart, 1906; smithersi Thomas, 1914. 
+COMMENTS: Placed in Pseudalopex by Berta (1987, 1988);
+     and in Dusicyon by Cabrera (1958). Considered in
+     Canis (Pseudalopex) by Langguth (1975),
+     Clutton-Brock et al. (1976), and Van Gelder
+     (1978). Includes culpaeolus and inca, see Langguth
+     (1967).
+
+Pseudalopex griseus (Gray, 1837). Mag. Nat. Hist.
+     [Charlesworth's], 1:578.
+TYPE LOCALITY: "Magellan", listed in Cabrera (1958) as
+     "Costa del Estrecho de Magallanes" [Chile].
+DISTRIBUTION: Atacama (Chile) and Santiago del Estero
+     (Argentina) south to Tierra del Fuego.
+STATUS: CITES - Appendix II; IUCN - Vulnerable.
+SYNONYMS: domeykoanus Philippi, 1901; fulvipes Martin,
+     1837; gracilis Burmeister, 1861; lagopus Molina,
+     1782; maullinicus Philippi, 1903; patagonicus
+     Philippi, 1866; rufipes Philippi, 1901; torquatus
+     Philippi, 1903; zorrula Thomas, 1921. 
+COMMENTS: Placed in Pseudalopex by Berta (1988) and
+     Dusicyon by Cabrera (1958). Considered in Canis
+     (Pseudalopex) by Langguth (1975, and Van Gelder
+     (1978). Cabrera (1958) and Osgood (1943)
+     considered Vulpes fulvipes distinct, however,
+     Langguth (1969) presented data to support its
+     inclusion.
+
+Pseudalopex gymnocercus (G. Fischer, 1814). Zoognosia,
+     3:xi, 178. 
+TYPE LOCALITY: "Paraguay", restricted by Cabrera (1958)
+     to "a los alrededores de Asunci¢n."
+DISTRIBUTION: Argentina, north of Rio Negro; Paraguay;
+     Uruguay; S Brazil; E Bolivia.
+STATUS: CITES - Appendix II.
+SYNONYMS: antiquus Ameghino, 1889; brasiliensis Schinz,
+     1821; cinereoargenteus Larranaga, 1923;
+     entrerianus Burmeister, 1861; fossilis H. Gervais
+     and Ameghino, 1889; protalopex Lund, 1839. 
+COMMENTS: Placed in Pseudalopex by Berta (1988) and in
+     Dusicyon by Cabrera (1958). Considered in Canis
+     (Pseudalopex) by Langguth (1975) and Van Gelder
+     (1978).
+
+Pseudalopex sechurae (Thomas, 1900). Ann. Mag. Nat.
+     Hist., ser. 7, 5:148.
+TYPE LOCALITY: "Desert of Sechura, N.W. Peru. . .
+     Sullana".
+DISTRIBUTION: NW Peru and SW Ecuador.
+STATUS: IUCN - Insufficiently known.
+COMMENTS: Placed in Pseudalopex by Berta (1988) and in
+     Dusicyon by Cabrera (1958). Considered in Canis
+     (Pseudalopex) by Langguth (1975) and Van Gelder
+     (1978). 
+
+Pseudalopex vetulus (Lund, 1842). K. Dansk. Vid. Selsk.
+     Naturv. Math. Afhandl., 9:4.
+TYPE LOCALITY: Listed by Cabrera (1958) as "Lagoa
+     Santa, Minas Gerais" [Brazil].
+DISTRIBUTION: C Brazilian Highlands in the States of
+     Mato Grosso, Goi†s, Minas Gerais, Bahia, and Sao
+     Paulo.
+STATUS: IUCN - Insufficiently known.
+SYNONYMS: azarae Lund, 1839; chilensis Gray, 1868;
+     fulvicaudus Lund, 1843; parvidens Mivart, 1890;
+     sladeni Thomas, 1903; urostictus Mivart, 1890. 
+COMMENTS: Placed in Pseudalopex by Berta (1987, 1988);
+     in Dusicyon (Lycalopex) by Cabrera (1958) (and
+     implied by Stains, 1975); in Lycalopex by Langguth
+     (1975); and considered in Canis (Lycalopex) by Van
+     Gelder (1978). 
+
+Speothos Lund, 1839. Ann. Sci. Nat. Zool. (Paris), ser.
+     2, 11:224. 
+TYPE SPECIES: Speothos pacivorus Lund, 1839 (extinct).
+COMMENTS: Berta and Marshall (1978) included Icticyon.
+     Placed in Simocyoninae Dawkins, 1868, by Simpson
+     (1945) and Stains (1975). 
+
+Speothos venaticus (Lund, 1842). K. Dansk. Vid. Selsk.
+     Naturv. Math. Afhandl., 9:67. 
+TYPE LOCALITY: "Lagoa Santa" [Minas Gerais, Brazil].
+DISTRIBUTION: Forested areas of Bolivia, Paraguay and
+     Brazil (except the semiarid NE); E Peru; Ecuador;
+     Colombia; Venezuela; Guyana; French Guiana;
+     Surinam; Panama.
+STATUS: CITES - Appendix I; IUCN - Vulnerable.
+SYNONYMS: baskii Schinz, 1849; melanogaster Gray, 1846;
+     wingei Ihering, 1911. 
+
+Urocyon Baird, 1857. Mammalia, in Repts. U.S. Expl.
+     Surv., 8(1):121, 138.
+TYPE SPECIES: Canis virginianus Schreber, 1775 (= Canis
+     cinereo argenteus Schreber, 1775) by subsequent
+     designation (Elliot, 1901; Melville and Smith,
+     1987).
+COMMENTS: Considered a subgenus of Vulpes by
+     Clutton-Brock et al. (1976). 
+
+Urocyon cinereoargenteus (Schreber, 1775). Die
+     SÑugethiere, 2(13):pl. 92[1775]; text:
+     3(21):361[1776].
+TYPE LOCALITY: "Sein Vaterland ist Carolina und die
+     WÑrmeren Gegenden von Nordamerica, vielleicht auch
+     Surinam."
+DISTRIBUTION: North America from Oregon, Nevada, Utah,
+     and Colorado in the West and the USA-Canadian
+     border in the East through Central America to N
+     Colombia and Venezuela.
+SYNONYMS: borealis Merriam, 1903; californicus Mearns,
+     1897; colimensis Goldman, 1938; costaricensis
+     Goodwin, 1938; floridanus Rhoads, 1895;
+     fraterculus Elliot, 1896; furvus Allen and
+     Barbour, 1923; guatemalae Miller, 1899; inyoensis
+     Elliot, 1904; madrensis Burt and Hooper, 1941;
+     nigrirostris Lichtenstein, 1850; ocythous Bangs,
+     1899; orinomus Goldman, 1938; parvidens Miller,
+     1899; peninsularis Huey, 1928; pensylvanicus
+     Boddaert, 1784; scottii Mearns, 1891; sequoiensis
+     Dixon, 1910; texensis Mearns, 1897; townsendi
+     Merriam, 1899; virginianus Schreber, 1775. 
+COMMENTS: Reviewed by Fritzell and Haroldson (1982,
+     Mammalian Species, 189). Placed in Canis (Vulpes)
+     by Van Gelder (1978); Clutton-Brock et al. (1976)
+     placed it in Vulpes (Urocyon). 
+
+Urocyon littoralis (Baird, 1857). Mammalia, in Repts.
+     U.S. Expl. Surv., 8(1):143. 
+TYPE LOCALITY: "island of San Miguel, on the coast of
+     California."
+DISTRIBUTION: Islands off the Pacific coast of S
+     California (USA).
+STATUS: IUCN - Rare.
+SYNONYMS: catalinae Merriam, 1903; clementae Merriam,
+     1903; dickeyi Grinnell and Linsdale, 1930;
+     santacruzae Merriam, 1903; santarosae Grinnell and
+     Linsdale, 1930. 
+COMMENTS: Placed in Canis (Vulpes) by Van Gelder
+     (1978); Clutton-Brock et al. (1976) placed it in
+     Vulpes (Urocyon). May be conspecific with U.
+     cinereoargenteus (Stains, 1975; Van Gelder, 1978).
+
+Vulpes Frisch, 1775. Das Natur-System der VierfÅssigen
+     Thiere, p. 15. 
+TYPE SPECIES: Canis vulpes Linnaeus, 1758, by
+     designation under the plenary powers (Melville and
+     Smith, 1978).
+SYNONYMS: Fennecus Desmarest, 1804. 
+COMMENTS: Although Frisch (1774[1775]) has been ruled a
+     rejected work for nomenclatural purposes, Vulpes
+     has been retained (International Commission on
+     Zoological Nomenclature, 1979). Considered a
+     subgenus of Canis by Van Gelder (1978); however,
+     this arrangement is not currently employed by most
+     mammalogists (Corbet, 1978c; Corbet and Hill,
+     1980; Gromov and Baranova, 1981; Hall, 1981;
+     Wozencraft, 1989b). Includes Fennecus; see
+     comments under V. zerda and Urocyon.
+
+Vulpes bengalensis (Shaw, 1800). Gen. Zool. Syst. Nat.
+     Hist., 1(2), Mammalia, p. 330. 
+TYPE LOCALITY: "Bengal."
+DISTRIBUTION: India, Pakistan, S Nepal.
+STATUS: CITES - Appendix III (India); IUCN -
+     Indeterminate.
+SYNONYMS: chrysurus Gray, 1837; hodgsonii Gray, 1837;
+     indicus Hodgson, 1833; kokree Sykes, 1831;
+     rufescens Gray, 1833; xanthura Gray, 1837. 
+
+Vulpes cana Blanford, 1877. J. Asiat. Soc. Bengal,
+     2:321.
+TYPE LOCALITY: "Gwadar, Baluchistan", [Pakistan].
+DISTRIBUTION: Turkmenistan, Afghanistan, NE Iran,
+     Pakistan.
+STATUS: CITES - Appendix II; IUCN - Insufficiently
+     known.
+
+Vulpes chama (A. Smith, 1833). S. Afr. Quart. J., 2:89.
+     
+TYPE LOCALITY: "Namaqualand and the country on both
+     sides of the Orange river" [Namibia]; fixed by
+     Shortridge (1942) as "Port Nolloth, Little
+     Namaqualand."
+DISTRIBUTION: Southern Africa, S Angola, and S of
+     Zambia.
+SYNONYMS: caama Smith, 1839; hodgsoni Noack, 1910;
+     variegatoides Layard, 1861. 
+
+Vulpes corsac (Linnaeus, 1768). Syst. Nat., 12th ed.,
+     3: appendix 223. 
+TYPE LOCALITY: "in campis magi deserti ab Jaco fluvio
+     verus Irtim"; listed by Honacki et al. (1982) as
+     "U.S.S.R., N. Kazakhstan, steppes between Ural and
+     Irtysh rivers, near Petropavlovsk."
+DISTRIBUTION: Kazakhstan, Russia, C Asia, Mongolia,
+     Transbaikalia, NE China, N Afghanistan.
+STATUS: IUCN - Insufficiently known.
+SYNONYMS: kalmykorum Ognev, 1935; nigra Kastschenko,
+     1912; scorodumovi Bobrinskii, 1944; turkmenica
+     Ognev, 1935. 
+
+Vulpes ferrilata Hodgson, 1842. J. Asiat. Soc. Bengal,
+     11:278.
+TYPE LOCALITY: "brought from Lassa" [Tibet, China].
+DISTRIBUTION: China: Tibet, Tsinghai, Kansu, and
+     Yunnan; Nepal.
+
+Vulpes pallida (Cretzschmar, 1827). In RÅppell, Atlas
+     Reise Nordl. Afr., Zool., SÑugeth., p. 33, pl. 11.
+TYPE LOCALITY: "Kordofan" [Sudan].
+DISTRIBUTION: Semiarid sahelian region of Africa from
+     Senegal through Nigeria, Cameroon, and Sudan to
+     Somalia.
+STATUS: IUCN - Insufficiently known.
+SYNONYMS: edwardsi Rochebrune, 1883; harterti Thomas
+     and Hinton, 1921; oertzeni Matschie, 1910; sabbar
+     Hemprich and Ehrenberg, 1832. 
+
+Vulpes rueppellii (Schinz, 1825). In G. Cuvier, Das
+     Thierreich, 4:508. 
+TYPE LOCALITY: "Vatherland Dongola".
+DISTRIBUTION: Arid areas of N Africa from Morocco to
+     Somalia; Egypt; Sinai; Arabia; Iran; parts of
+     Pakistan and Afghanistan.
+STATUS: IUCN - Insufficiently known.
+SYNONYMS: caesia Thomas, 1921; cyrenaica Festa, 1921;
+     famelicus Cretzschmar, 1826; sabaea Pocock, 1934;
+     somaliae Thomas, 1918; zarudnyi Birula, 1912. 
+
+Vulpes velox (Say, 1823). In James, Account of an
+     Exped. from Pittsburgh to the Rocky Mtns, 1:487.
+TYPE LOCALITY: "camp on the river Platte, at the fording
+place of the Pawnee Indians, twenty-seven miles below
+the confluence of the North and South, or Paduca
+Forks." [Camp on 20 June 1820 reported to be at
+40¯59'15'N (vol. 2)].
+DISTRIBUTION: C North America from SE British Columbia,
+     SC Alberta and SW Saskatchewan (Canada) to NW
+     Texas (panhandle) and E New Mexico, east of
+     Rockies (USA).
+STATUS: U.S. ESA - Endangered as V. v. hebes (Canada
+     populations) and as V. macrotis mutica.
+SYNONYMS: arizonensis Goldman, 1931; arsipus Elliot,
+     1903; devia Nelson and Goldman, 1909; hebes
+     Merriam, 1902; macrotis Merriam, 1888; muticus
+     Merriam, 1902; neomexicana Merriam, 1902;
+     nevadensis Goldman, 1931; tenuirostris Nelson and
+     Goldman, 1931; zinseri Benson, 1938. 
+COMMENTS: Reviewed by Egoscue (1979, Mammalian Species,
+     122) and McGrew (1979, Mammalian Species, 123, as
+     V. macrotis). Revised by Waithman and Roest (1977)
+     and Dragoo et al. (1990). Blair et al. (1968),
+     Lechleitner (1969), Bueler (1973), and Dragoo et
+     al. (1990) considered macrotis and velox
+     conspecific. Packard and Bowers (1970), Rohwer and
+     Kilgore (1973), and Thornton and Creel (1975) (who
+     found hybrids between velox and macrotis but
+     concluded they were of reduced viability) retained
+     both as species. 
+
+Vulpes vulpes (Linnaeus, 1758). Syst. Nat., 10th ed.,
+     1:40. 
+TYPE LOCALITY: "Europa, Asia, Africa, antrafodiens,"
+     restricted by Thomas (1911a), to "Sweden
+     (Upsala)."
+DISTRIBUTION: Europe and continental Asia except the
+     tundra; N India and peninsular Indochina; Japan;
+     Palearctic Africa; N America as far south as Texas
+     and New Mexico (USA), but absent in part of the
+     Central Plains and the Arctic. Introduced to
+     Australia; see Corbet and Hill (1980:93).
+STATUS: CITES - Appendix III (India) as V. v.
+     griffithi, V. v. montana, and V. v. pusilla        
+       (= leucopus).
+SYNONYMS: abietorum Merriam, 1900; acaab Cabrera, 1916;
+     aegyptiacus Sonnini, 1816; alascensis Merriam,
+     1900; alba Borkhausen, 1797; algeriensis Loche,
+     1858; alopex Blanford, 1881; alpherakyi Satunin,
+     1906; alticola Ognev, 1926; anadyrensis J. A.
+     Allen, 1903; anatolica Thomas, 1920; anubis
+     Hemprich and Ehrenberg, 1833; arabica Thomas,
+     1902; atlantica Wagner, 1841; aurantioluteus
+     Matschie, 1907; bangsi Merriam, 1900; barbarus
+     Shaw, 1800; beringiana Middendorff, 1875;
+     cascadensis Merriam, 1900; caucasica Dinnik, 1914;
+     cinera Bechstein, 1801; communis Burnett, 1830;
+     crucigera Bechstein, 1789; daurica Ognev, 1931;
+     deletrix Bangs, 1898; dolichocrania Ognev, 1926;
+     dorsalis Gray, 1837; eckloni Jacobi, 1923;
+     flavescens Gray, 1843; fulvus Desmarest, 1820;
+     griffithii Blyth, 1854; harrimani Merriam, 1900;
+     himalaicus Ogilby, 1837; hoole Swinhoe, 1870; huli
+     Sowerby, 1923; hypomelas Wagner, 1841; ichnusae
+     Miller, 1907; indutus Miller, 1907; jakutensis
+     Ognev, 1923; japonica Gray, 1868; kamtschadensis
+     Brass, 1911; karagan Erxleben, 1777; kenaiensis
+     Merriam, 1900; kiyomasai Kishida and Mori, 1929;
+     krimeamontana Brauner, 1914; kurdistanica Satunin,
+     1906; ladacensis Matschie, 1907; leucopus Blyth,
+     1854; lineatus Billberg, 1827; lineiventer
+     Swinhoe, 1871; lutea Bechstein, 1801; macrourus
+     Baird, 1852; melanogaster Bonaparte, 1832;
+     melanotus Pallas, 1811; meridionalis Fitzinger,
+     1855; montana Pearson, 1836; necator Merriam,
+     1900; nepalensis Gray, 1837; nigra Borkhausen,
+     1797; nigro-argenteus Nillson, 1820; nigrocaudatus
+     Billberg, 1827; niloticus Desmarest, 1820;
+     ochroxantha Ognev, 1926; palaestina Thomas, 1920;
+     peculiosa Kishida, 1924; pennsylvanicus Rhoads,
+     1894; persicus Blanford, 1875; pusilla Blyth,
+     1854; regalis Merriam, 1900; rubricosa Bangs,
+     1898; schrencki Kishida, 1924; silaceus Miller,
+     1907; sitkaensis Brass, 1911; splendens Thomas,
+     1902; splendidissima Kishida, 1924; stepensis
+     Brauner, 1914; tobolica Ognev, 1926; tschiliensis
+     Matschie, 1907; ussuriensis Dybowski, 1922; vafra
+     Bangs, 1897; variagatus Billberg, 1827; vulgaris
+     Oken, 1816; vulpecula Hemprich and Ehrenberg,
+     1833; waddelli Bonhote, 1906.
+
+Vulpes zerda (Zimmermann, 1780). Geogr. Gesch. Mensch.
+     Vierf. Thiere, 2:247. 
+TYPE LOCALITY: "Es bewohnt die Soara und andere Theile
+     von Nordafrika hinter den Atlas, der Ritter Bruce
+     behauptet, man fÑnde es auch in tripolitanischen."
+DISTRIBUTION: Morocco to Arabia.
+STATUS: CITES - Appendix II; IUCN - Insufficiently
+     known.
+SYNONYMS: arabicus Desmarest, 1804; aurita Meyer, 1793;
+     brucei Desmarest, 1820; cerdo Gmelin, 1788;
+     denhamii Boitard, 1842; fennecus Lesson, 1827;
+     saarensis Skjîldebrand, 1777; zaarensis Gray,
+     1843. 
+COMMENTS: Placed in Fennecus by Stains (1975). 
+
+Family Felidae G. Fischer, 1817. MÇm. Soc. Imp. Nat.
+     Moscow, 5:372.
+COMMENTS: Revised by Pocock (1917, 1951), Weigel
+     (1961), Hemmer (1978), Kr†l and Zima (1980),
+     Kratochv°l (1982c), Groves (1982a), and Collier
+     and O'Brien (1985). Some (Honacki et al., 1982;
+     Van Gelder, 1977b) have followed Simpson (1945)
+     and placed the majority of taxa in Felis, except
+     for the large cats (Panthera and Acinonyx);
+     however, this is not well supported by primary
+     systematic studies and only poorly represents
+     relationships below the family level. Although
+     taxonomic disagreements appear at first to be
+     considerable, most revolve around the recognition
+     of categories at the generic versus the subgeneric
+     level and interpretations of degrees of
+     similarity. 
+
+Subfamily Acinonychinae Pocock, 1917. Ann. Mag. Nat.
+     Hist., ser. 8, 20:332.
+COMMENTS: Type genus: Acinonyx Brookes, 1828. 
+
+Acinonyx Brookes, 1828. Cat. Anat. Zool. Mus. J.
+     Brookes, London, p. 16, 33.
+TYPE SPECIES: Acinonyx Venator Brookes, 1828 (= Felis
+     jubata Schreber, 1775), by monotypy (International
+     Commission on Zoological Nomenclature, 1956a;
+     Melville and Smith, 1987).
+SYNONYMS: Cynaelurus Gloger, 1841; Cynailurus Wagler,
+     1830; Cynofelis Lesson, 1842; Guepar Boitard,
+     1842; Guepardus Duvernoy, 1834. 
+
+Acinonyx jubatus (Schreber, 1775). Die SÑugethiere,
+     2(15):pl. 105[1775]; text 3(22):392[1777].
+TYPE LOCALITY: "sÅdliche Afrika; man bekîmmt die Felle
+     vom Vorgebirge der guten Hofnung" [South Africa,
+     Cape Province, Cape of Good Hope].
+DISTRIBUTION: Afghanistan, Angola, Benin, Botswana,
+     Burkina Faso, Cameroon, Central African Republic,
+     Chad, Egypt, Ethiopia, India, Iran, Iraq, Kenya,
+     Libya, Malawi, Mali, Mauritania, Morocco,
+     Mozambique, Namibia, Niger, Nigeria, Pakistan,
+     Saudia Arabia, Senegal, Somalia, South Africa,
+     Sudan, Tadzhikistan, Tanzania, Turkmenistan,
+     Uganda, Western Sahara, Zaire, Zambia, Zimbabwe.
+     Now restricted to N Iran and Subsaharan Africa,
+     except rain forest and some areas in the south.
+STATUS: CITES - Appendix I; U.S. ESA - Endangered; IUCN
+     - Endangered as A. j. venaticus, otherwise
+     Vulnerable.
+SYNONYMS: fearonii Smith, 1834; fearonis Fitzinger,
+     1869; guttata Hermann, 1804; hecki Hilzheimer,
+     1913; lanea Sclater, 1877; megabalica Heuglin,
+     1863; ngorongorensis Hilzheimer, 1913; obergi
+     Hilzheimer, 1913; raddei Hilzheimer, 1913; raineyi
+     Heller, 1913; rex Pocock, 1927; senegalensis
+     Blainville, 1843; soemmeringii Fitzinger, 1855;
+     velox Heller, 1913; venatica Griffith, 1821;
+     venator Brookes, 1828; wagneri Hilzheimer, 1913. 
+COMMENTS: Placed in Acinonyx by Pocock (1917), Weigel
+     (1961), Hemmer (1978), Kr†l and Zima (1980),
+     Kratochv°l (1982c), and Groves (1982a). 
+
+Subfamily Felinae G. Fischer, 1817. MÇm. Soc. Imp. Nat.
+     Moscow, 5:372.
+COMMENTS: Type genus: Felis Linnaeus, 1758. 
+
+Caracal Gray, 1843. List. Specimens Mamm. Coll. Brit.
+     Mus. p. 46.
+TYPE SPECIES: Caracal melanotis Gray, 1843 (= Felis
+     caracal Schreber, 1776), by monotypy.
+SYNONYMS: Urolynchus Severtzov, 1858. 
+
+Caracal caracal (Schreber, 1776). Die SÑugethiere,
+     3(16):pl. 110[1776]; text 3(24):413, 587[1777].
+TYPE LOCALITY: "Vorgebirge der guten Hofnung",
+     restricted by Allen (1924:281) to "Table Mountain,
+     near Cape Town, South Africa".
+DISTRIBUTION: Aden, Afghanistan, Algeria, Angola,
+     Arabia, Botswana, Egypt, Ethiopia, Gabon, India,
+     Iran, Iraq, Israel, Kenya, Kuwait, Libya, Malawi,
+     Mauritania, Morocco, Mozambique, Namibia, Niger,
+     Pakistan, Senegal, Somalia, South Africa, Sudan,
+     Syria, Tanzania, Turkey, Turkmenistan, Uganda,
+     Zaire, Zambia, Zimbabwe. See Stuart (1984) for
+     distribution and status information.
+STATUS: CITES - Appendix I as Felis caracal (Asian
+     population); otherwise, Appendix II; IUCN - Rare
+     as F. c. michaelis.
+SYNONYMS: aharonii Matschie, 1912; algira Wagner, 1841;
+     bengalensis Fischer, 1829; berberorum Matschie,
+     1892; coloniae Thomas, 1926; corylinus Matschie,
+     1912; damarensis Roberts, 1926; limpopoensis
+     Roberts, 1926; lucani Rochebrune, 1885; medjerdae
+     Matschie, 1912; melanotis Gray, 1843; michaelis
+     Heptner, 1945; nubicus Fischer, 1829; poecilotis
+     Thomas and Hinton, 1921; roothi Roberts, 1926;
+     schmitzi Matschie, 1912; spatzi Matschie, 1912. 
+COMMENTS: Allen (1924) discussed the authority and the
+     type locality. Several recent studies (Groves,
+     1982a; Kr†l and Zima, 1980) emphasized the
+     closeness of this taxon to Felis and the
+     separation of it from Lynx (sensu Simpson, 1945).
+     Weigel (1961), Hemmer (1978), and Werdelin (1981),
+     placed caracal in the monotypic Caracal          
+     (= Urolynchus of Kratochv°l, 1982c) followed here.
+     
+
+Catopuma Severtzov, 1858. Rev. Mag. Zool. Paris, ser.
+     2, 10:387.
+TYPE SPECIES: Felis moormensis Hodgson, 1831 (= Felis
+     temminckii Vigors and Horsfield, 1827), by
+     monotypy.
+SYNONYMS: Badiofelis Pocock, 1932. 
+
+Catopuma badia (Gray, 1874). Proc. Zool. Soc. Lond.,
+     1874:322.
+TYPE LOCALITY: "Borneo, Sarawak" [Malaysia].
+DISTRIBUTION: Borneo.
+STATUS: CITES - Appendix II; IUCN - Rare.
+COMMENTS: This poorly known species was placed in
+     Catopuma by Hemmer (1978) and Groves (1982a).
+     Placed in the monotypic Badiofelis by Pocock
+     (1932d:749), followed by Weigel (1961). 
+
+Catopuma temminckii (Vigors and Horsfield, 1827). Zool.
+     J., 3:451.
+TYPE LOCALITY: "Sumatra" [Indonesia].
+DISTRIBUTION: Bangladesh, Burma, China (from Shaanxi
+     and Jiangxi to the south), Indonesia (Sumatra),
+     India, Cambodia, Laos, Malaysia, Nepal, Thailand,
+     Vietnam.
+STATUS: CITES - Appendix I; U.S. ESA - Endangered; IUCN
+     - Indeterminate.
+SYNONYMS: aurata Blyth, 1863; badiodorsalis Howell,
+     1926; bainsei Sowerby, 1924; dominicanorum
+     Sclater, 1898; mitchelli Lydekker, 1908;
+     moormensis Hodgson, 1831; nigrescens Gray, 1863;
+     semenovi Satunin, 1904; tristis Milne-Edwards,
+     1872. 
+COMMENTS: Placed in Catopuma by Hemmer (1978) and
+     Groves (1982a). Placed in Profelis by Pocock
+     (1932d), followed by Weigel (1961), Kr†l and Zima
+     (1980), and Kratochv°l (1982c). 
+
+Felis Linnaeus, 1758. Syst. Nat., 10th ed., 1:41.
+TYPE SPECIES: Felis catus Linnaeus, 1758 (= Felis
+     silvestris Schreber, 1775), by Linnean tautonymy
+     (Melville and Smith, 1987).
+SYNONYMS: Catolynx Severtzov, 1858; Chaus Gray, 1843;
+     Eremaelurus Ognev, 1927; Microfelis Roberts, 1926;
+     Otailurus Severtzov, 1858. 
+COMMENTS: Revised by Schwangart (1943), Pocock (1951),
+     and Haltenorth (1953). 
+
+Felis bieti Milne-Edwards, 1892. Rev. Gen. Sci. Pures
+     Appl., 3:671.
+TYPE LOCALITY: "Batang † Tatsien-Lou", restricted by
+     Pousargues (1898:358) to "environ de Tongolo et de
+     Ta-tsien-lou" [China, Sichuan].
+DISTRIBUTION: Endemic to the dry steppe from the
+     eastern flanks of the Tibetan plateau in C China
+     north to Nei Monggol; perhaps to Mongolia.
+STATUS: CITES - Appendix II.
+SYNONYMS: chutuchta Birula, 1917; pallida BÅchner,
+     1894; subpallida Jacobi, 1922; vellerosa Pocock,
+     1943. 
+COMMENTS: Haltenorth (1953) suggested chutuchta and
+     vellerosa belonged in sylvestris. 
+
+Felis chaus Schreber, 1777. Die SÑugethiere, 2(13):pl.
+     110.B[1777]; text, 3(24):414[1777].
+TYPE LOCALITY: "wohnt in den sumpfigen mit Schilf
+     bewachsenen oder bewaldeten Gegenden der Steppen
+     um das kaspische Meer, und die in selbiges
+     fallenden FlÅse. Auf der Nordseite des
+     Terekflusses und der Festung Kislar . . . desto
+     HÅnfiger aber bey der MÅndung der Kur . . .".
+     Listed in Honacki et al. (1982) as "U.S.S.R.,
+     Dagestan, Terek River, N. of the Caucasus".
+DISTRIBUTION: Afghanistan, Algeria, Arabia, Benin,
+     Burma, China, Egypt, India, Iran, Iraq, Israel,
+     Kenya, Malawi, Morocco, Mozambique, Nepal,
+     Pakistan, Sri Lanka, Syria, Thailand, republics of
+     the former USSR, Vietnam, Yemen, Zambia, Zimbabwe.
+STATUS: CITES - Appendix II.
+SYNONYMS: affinis Gray, 1830; catolynx Pallas, 1811;
+     chrysomelanotis Nehring, 1902; erythrotus Hodgson,
+     1836; fulvidina Thomas, 1929; furax de Winton,
+     1898; jacquemonti Geoffroy, 1844; kelaarti Pocock,
+     1939; kutas Pearson, 1832; libycus Olivier, 1804;
+     nilotica de Winton, 1898; prateri Pocock, 1939;
+     ruppelii Brandt, 1832; shawiana Blanford, 1876;
+     typica de Winton, 1898. 
+COMMENTS: F. chaus GÅldenstÑdt, 1776, is invalid
+     (Allen, 1920). 
+
+Felis margarita Loche, 1858. Rev. Mag. Zool. Paris,
+     ser. 2, 10:49.
+TYPE LOCALITY: "environs de NÇgonca (Sahara)"
+     [Algeria].
+DISTRIBUTION: Deserts in Algeria, Egypt, Iran, Libya,
+     Morocco, Niger, Oman, Pakistan, Qatar, Saudia
+     Arabia, Sudan, Tunisia, Turkmenistan, Uzbekistan,
+     Yemen.
+STATUS: CITES - Appendix II; U.S. ESA and IUCN -
+     Endangered as F. margarita scheffeli.
+SYNONYMS: airensis Pocock, 1938; harrisoni Hemmer,
+     Grubb, and Groves, 1976; margaritae Trouessart,
+     1897; margueritei Trouessart, 1904; meinertzhageni
+     Pocock, 1938; scheffeli Hemmer, 1974; thinobius
+     Ognev, 1927. 
+COMMENTS: Revised by Schauenberg (1974) and Hemmer et
+     al. (1976). F. marginata Gray, 1867, is an
+     incorrect subsequent spelling. Pocock (1951) and
+     Schauenberg (1974) included Eremaelurus thinobia,
+     which was recognized as separate by Haltenorth
+     (1953) and Weigel (1961), but see discussion by
+     Hemmer et al. (1976). Kr†l and Zima (1980)
+     suggested this species was closely related to O.
+     manul. 
+
+Felis nigripes Burchell, 1824. Travels in Interior of
+     Southern Africa, 2:592.  
+TYPE LOCALITY: Burchell (1824:509) implied the country of
+the "Bachapins", presumably in the capital, "the town
+of Lit†kun
+(Let†rkoon)...27¯.6'.44".[S]...24¯.39'.27"[E]" [South
+Africa].
+DISTRIBUTION: South Africa, Namibia, Botswana.
+STATUS: CITES - Appendix I; U.S. ESA - Endangered.
+SYNONYMS: thomasi Shortridge, 1931. 
+COMMENTS: Kr†l and Zima (1980) noted a distinctly
+     different karotype from other Felis. 
+
+Felis silvestris Schreber, 1775. Die SÑugethiere,
+     2(15):pl. 107[1775]; text 3(23):397[1777].
+TYPE LOCALITY: Not given. Fixed by Haltenorth (1953) as
+     "vielleicht Nordfrankreich". Listed by Pocock
+     (1951) as "Germany".
+DISTRIBUTION: Afghanistan, Algeria, Angola, Arabia,
+     Botswana, Chad, China, Egypt, Ethiopia, France,
+     Germany, Guinea, India, Iran, Iraq, Israel, Italy,
+     Kazakhstan, Libya, Malawi, Mali, Mauritania,
+     Morocco, Mozambique, Namibia, Pakistan, Poland,
+     Senegal, South Africa, Spain, Sudan, Syria,
+     Tanzania, Tunisia, Turkistan, United Kingdom,
+     Zambia, Zimbabwe. Introduced to: Australia,
+     Brazil, Canada, and Madagascar.
+STATUS: CITES - Appendix II (the domestic cat, Felis
+     catus, is specifically excluded from protection).
+SYNONYMS: agrius Bate, 1906; algiricus Fischer, 1829;
+     angorensis Gmelin, 1788; antiquorum Fischer, 1829;
+     aureus Kerr, 1792; bouvieri Rochebrune, 1883;
+     brevicaudata Schinz, 1844; brockmani Pocock, 1944;
+     bubastis Hemprich and Ehrenberg, 1832; caeruleus
+     Erxleben, 1777; caffra A. Smith, 1826; cafra
+     Desmarest, 1822; caligata Temminck, 1824; catus
+     Linnaeus, 1758; caucasicus Satunin, 1905; caudatus
+     Gray, 1874; cretensis Haltenorth, 1953; cristata
+     Lataste, 1885; cumana Schinz, 1844; cyrenarum
+     Ghigi, 1920; daemon Satunin, 1904; domesticus
+     Erxleben, 1777; euxina Pocock, 1943; ferox
+     Martorelli, 1896; ferus Erxleben, 1777; foxi
+     Pocock, 1944; grampia Miller, 1907; griselda
+     Thomas, 1926; griseoflava Zukowski, 1914; gulata
+     Herman, 1804; haussa Thomas and Hinton, 1921;
+     hispanicus Erxleben, 1777; huttoni Blyth, 1846;
+     iraki Cheesman, 1920; issikulensis Ognev, 1930;
+     japonica Fischer, 1829; jordansi Schwarz, 1930;
+     kozlovi Satunin, 1905; longiceps Bechstein, 1800;
+     longipilis Zukowsky, 1915; lowei Pocock, 1944;
+     lybica Forster, 1780; lybiensis Kerr, 1792; lynesi
+     Pocock, 1944; macrothrix Zukowsky, 1915;
+     madagascariensis Kerr, 1792; maniculata Temminck,
+     1824; matschiei Zukowsky, 1914; mauritana Cabrera,
+     1906; mediterranea Martorelli, 1896; megalotis
+     MÅller, 1839; mellandi Schwann, 1904; molisana
+     Altobello, 1921; morea Trouessart, 1904;
+     murgabensis Zukowsky, 1914; namaquana Thomas,
+     1926; nandae Heller, 1913; nesterovi Birula, 1916;
+     nubiensis Kerr, 1792; obscura Desmarest, 1822;
+     ocreata Gmelin, 1791; ornata Gray, 1830; pulchella
+     Gray, 1837; pyrrhus Pocock, 1944; reyi Lavauden,
+     1929; ruber Gmelin, 1788; rubida Schwann, 1904;
+     ruppelii Schinz, 1825; rusticana Thomas, 1928;
+     salvanicola Dekeyser, 1950; sarda Lataste, 1885;
+     schnitnikovi Birula, 1914; servalina Jardine,
+     1834; shawiana Blanford, 1876; siamensis
+     Trouessart, 1904; sinensis Kerr, 1792; striatus
+     Bechstein, 1800; syriaca Fischer, 1829; taitae
+     Heller, 1913; tartessia Miller, 1907; torquata
+     Blyth, 1863; tralatitia Fischer, 1829; trapezia
+     Blackler, 1916; tristrami Pocock, 1944; ugandae
+     Schwann, 1904; vernayi Roberts, 1932; vulgaris
+     Fischer, 1829; xanthella Thomas, 1926.
+COMMENTS: Revised by Ragni and Randi (1986), who
+     included libyca, and by Haltenorth (1953), who
+     included chutuchta, libyca, and vellerosa;
+     however, chutuchta and vellerosa were placed in
+     bieti in Pocock's (1951) revision, provisionally
+     followed here. Includes F. catus (worldwide),
+     which was domesticated from this species (Corbet,
+     1978c:181). Ellerman and Morrison-Scott (1951)
+     argued that lybica Foster, 1780, was a lapsus for
+     libyca; however, there is no clear internal
+     evidence that the name was misspelled (Meester et
+     al., 1986). Rosevear (1974), Ansell (1978),
+     Smithers (1983), and Meester et al. (1986)
+     retained lybica as separate from silvestris.
+
+Herpailurus Severtzov, 1858. Rev. Mag. Zool. Paris,
+     ser. 2, 10:390.
+TYPE SPECIES: Felis yaguarondi LacÇpäde, 1809, by
+     monotypy.
+
+Herpailurus yaguarondi (LacÇpäde, 1809). In Azara, Voy.
+     Am. MÇrid., Atlas, 1809: pl. 10.
+TYPE LOCALITY: "Paraguay", restricted by Hershkovitz
+     (1951) to "Cayenne, French Guiana".
+DISTRIBUTION: Argentina, Belize, Bolivia, Brazil,
+     Colombia, Costa Rica, El Salvador, French Guiana,
+     Guatemala, Guyana, Honduras, Nicaragua, Panama,
+     Paraguay, Peru, Mexico, Surinam, USA (Arizona and
+     Texas), Venezuela.
+STATUS: CITES - Appendix I (North and Central American
+     populations); otherwise Appendix II. U.S. ESA -
+     Endangered as F. y. cacomitli, F. y. fossata, F.
+     y. panamensis, and F. y. tolteca; IUCN -
+     Indeterminate.
+SYNONYMS: ameghinoi Holmberg, 1898; apache Mearns,
+     1901; cacomitli Berlandier, 1859; darwini Martin,
+     1837; eira Desmarest, 1816; eyra Fischer, 1814;
+     fossata Mearns, 1901; melantho Thomas, 1914;
+     panamensis Allen, 1904; tolteca Thomas, 1898;
+     unicolor Traill, 1819. 
+COMMENTS: Others have used yagouaroundi ê. Geoffroy
+     Saint-Hilaire, 1803, or yaguarondi Desmarest,
+     1816, however, the former was never officially
+     published (see Appendix I) and the latter is a
+     junior synonym. Placed in Herpailurus by Weigel
+     (1961), Hemmer (1978), and Kratochv°l (1982c). 
+
+Leopardus Gray, 1842. Ann. Mag. Nat. Hist., [ser. 1],
+     10:260.
+TYPE SPECIES: Leopardus griseus Gray, 1842 (= Felis
+     pardalis Linnaeus, 1758), by subsequent
+     designation by Pocock (1916b:316).
+SYNONYMS: Margay Gray, 1867; Oncilla Allen, 1919;
+     Oncoides Severtzov, 1858; Pardalis Gray, 1867. 
+COMMENTS: Revised by Allen (1919a) and Pocock (1941b).
+     Considered at the subgeneric level by Cabrera
+     (1958), who also included Oncifelis geoffroyi and
+     O. guigna (but not O. colocolo). Hemmer (1978)
+     placed tigrinus in Oncifelis.
+
+Leopardus pardalis (Linnaeus, 1758). Syst. Nat., 10th
+     ed., 1:42.
+TYPE LOCALITY: "America", restricted to "Mexico", by
+     Thomas (1911a:136), further restricted by Allen
+     (1919a:345) to "State of Vera Cruz".
+DISTRIBUTION: N Argentinia, Belize, E Bolivia, Brazil,
+     Colombia, Costa Rica, Ecuador, El Salvador, French
+     Guiana, Guatemala, Guyana, Honduras, Mexico,
+     Nicaragua, Panama, Paraguay, E Peru, Surinam,
+     Trinidad, USA (Arizona and Texas), Uruguay,
+     Venezuela.
+STATUS: CITES - Appendix I; U.S. ESA - Endangered; IUCN
+     - Vulnerable.
+SYNONYMS: aequatorialis Mearns, 1902; albescens
+     Pucheran, 1855; armillatus F. Cuvier, 1832;
+     brasiliensis Schinz, 1844; buffoni Brass, 1911;
+     canescens Swainson, 1838; chati Gray, 1827;
+     chibigouazou Gray, 1827; chibiguazu Fischer, 1830;
+     costaricensis Mearns, 1902; griffithii Fischer,
+     1830; griseus Gray, 1842; hamiltoni Fischer, 1830;
+     limitis Mearns, 1901; ludoviciana Brass, 1911;
+     maracaya Wagner, 1841; maripensis J. A. Allen,
+     1904; mearnsi J. A. Allen, 1904; melanura Ball,
+     1844; mexicana Kerr, 1792; minimus Wilson, 1860;
+     mitis F. Cuvier, 1820; nelsoni Goldman, 1925;
+     ocelot Link, 1795; pseudopardalis Boitard, 1842;
+     pusaea Thomas, 1914; sanctaemartae J. A. Allen,
+     1904; smithii Swainson, 1838; sonoriensis Goldman,
+     1925; steinbachi Pocock, 1941; tumatumari J. A.
+     Allen, 1915. 
+COMMENTS: Placed in Leopardus by Allen (1919a:345),
+     Weigel (1961), Hemmer (1978), and Kratochv°l
+     (1982c). 
+
+Leopardus tigrinus (Schreber, 1775). Die SÑugethiere,
+     2(15):pl. 106[1775]; text, 3(23):396[1777].
+TYPE LOCALITY: "sÅdlichen Amerika", restricted by Allen
+     (1919a:356), to "Cayenne" [French Guiana].
+DISTRIBUTION: N Argentina, Brazil, Colombia, Costa
+     Rica, Ecuador, French Guiana, Guyana, Paraguay,
+     Peru, Surinam, Venezuela.
+STATUS: CITES - Appendix I; U.S. ESA - Endangered; IUCN
+     - Vulnerable.
+SYNONYMS: andina Thomas, 1903; carrikeri J. A. Allen,
+     1904; caucensis J. A. Allen, 1915; elenae J. A.
+     Allen, 1915; emerita Thomas, 1912; emiliae Thomas,
+     1914; geoffroyi Elliot, 1872; guttula Hensel,
+     1872; margay MÅller, 1776; oncilla Thomas, 1903;
+     pardinoides Gray, 1867. 
+COMMENTS: Placed in Leopardus by Allen (1919a:345),
+     Weigel (1961), and Kratochv°l (1982c); placed in
+     Oncifelis (with O. guigna and O. geoffroyi) by
+     Hemmer (1978). L. tigrinus shares a derived
+     chromosomal number with pardalis and wiedii
+     (Wurster-Hill, 1973). Includes Felis pardinoides
+     (Cabrera, 1958:286); Allen (1919a:345) and Weigel
+     (1961) considered pardinoides as distinct, but
+     closely related to tigrinus. 
+
+Leopardus wiedii (Schinz, 1821). In G. Cuvier, Das
+     Thierreich, 1:235.
+TYPE LOCALITY: "Brasilien", restricted by Allen
+     (1919a:357) to "northern Espirito Santo, Brazil",
+     and further restricted by Cabrera (1958:290), to
+     "Brasil, restringida al Morro de Arar†, sobre el
+     rio Mucur°, estado de Ba°a".
+DISTRIBUTION: N Argentina, Belize, Bolivia, Brazil,
+     Colombia, Costa Rica, Ecuador, El Salvador,
+     Guatemala, Guyana, Honduras, Mexico, Nicaragua,
+     Panama, Paraguay, Peru, Surinam, USA (Texas),
+     Uruguay, Venezuela.
+STATUS: CITES - Appendix I; U.S. ESA - Endangered (from
+     Mexico southward); IUCN - Vulnerable.
+SYNONYMS: amazonica Cabrera, 1917; andina Allen, 1916;
+     boliviae Pocock, 1941; catenata H. Smith, 1827;
+     cooperi Goldman, 1943; elegans Lesson, 1830;
+     geoffroyi Rochebrune, 1895; glaucula Thomas, 1903;
+     ludovici Lînnberg, 1925; macroura Wied, 1823;
+     macrura Hensel, 1872; mexicana Saussure, 1860;
+     nicaraguae J. A. Allen, 1919; oaxacensis Nelson
+     and Goldman, 1931; pardictis Pocock, 1941;
+     pirrensis Goldman, 1914; salvinia Pocock, 1941;
+     sanctaemartae Allen, 1906; tigrinoides Gray, 1842;
+     vigens Thomas, 1904; yucatanica Nelson and
+     Goldman, 1931. 
+COMMENTS: Placed in Leopardus by Weigel (1961), Hemmer
+     (1978), and Kratochv°l (1982c). Allen (1919a) and
+     Weigel (1961) suggested that wiedii (in part) may
+     be conspecific with tigrinus; however, Hemmer
+     (1978) considered differences between wiedii and
+     tigrinus to warrant generic distinction.
+
+Leptailurus Severtzov, 1858. Rev. Mag. Zool. Paris,
+     ser. 2, 10:389.
+TYPE SPECIES: Felis serval Schreber, 1776, by monotypy.
+
+Leptailurus serval (Schreber, 1776). Die SÑugethiere,
+     3(16):pl. 108[1776]; text 3(23):407[1777].
+TYPE LOCALITY: "Ostindien und Tibet in gebirgegen
+     Gegenden, vielleicht auch am Vorgebirge der guten
+     Hofnung und dem heissern Afrika"; restricted by
+     Allen (1924) to the "Cape region of South Africa".
+DISTRIBUTION: Algeria, Angola, Benin, Botswana,
+     Burundi, Cameroon, Central African Republic, Chad,
+     Equatorial Guinea, Ethiopia, Gabon, Gambia, Ghana,
+     Guinea, Ivory Coast, Kenya, Liberia, Malawi, Mali,
+     Mauritania, Mozambique, Namibia, Niger, Nigeria,
+     Rwanda, Senegal, N Sierra Leone, Somalia, South
+     Africa, Sudan, Tanzania, Togo, Tunisia, Uganda,
+     Zaire, Zambia, Zimbabwe; formerly in Morocco.
+STATUS: CITES - Appendix II; U.S. ESA - Endangered as
+     F. s. constantina.
+SYNONYMS: algiricus Fischer, 1829; beirae Wroughton,
+     1910; brachyura Wagner, 1841; capensis Forster,
+     1781; constantina Forster, 1780; faradjius Allen,
+     1924; ferrarii de Beaux, 1924; galeopardus
+     Desmarest, 1820; hamiltoni Roberts, 1931; hindei
+     Wroughton, 1910; ingridi Lundholm, 1955; kempi
+     Wroughton, 1910; kivuensis Lînnberg, 1919; larseni
+     Thomas, 1913; limpopoensis Roberts, 1926;
+     liposticta Pocock, 1907; lonnbergi Cabrera, 1910;
+     mababiensis Roberts, 1932; niger Lînnberg, 1897;
+     ogilbyi Schinz, 1844; pantasticta Pocock, 1907;
+     phillipsi Allen, 1914; pococki Cabrera, 1910;
+     poliotricha Pocock, 1907; senegalensis Lesson,
+     1839; servalina Ogilby, 1839; tanae Pocock, 1944;
+     togoensis Matschie, 1893. 
+COMMENTS: Placed in Leptailurus by Weigel (1961),
+     Hemmer (1978), and Kratochv°l (1982c); Groves
+     (1982a) considered Leptailurus a subgenus of
+     Felis. 
+
+Lynx Kerr, 1792. In Linnaeus, Anim. Kingdom, 1:155.
+TYPE SPECIES: Felis lynx Linnaeus, 1758; type species
+     by absolute tautonymy (Melville and Smith, 1987).
+SYNONYMS: Cervaria Gray, 1867; Eucervaria Palmer, 1903;
+     Lynchus Jardine, 1834; Lynceus Gray, 1821; Lyncus
+     Gray, 1825; Pardina; Kaup, 1829. 
+COMMENTS: Revised by Matyushkin (1979), Werdelin
+     (1981), and Garc°a-Perea (1992), who recognized
+     the generic status of Lynx; Groves (1982a) and
+     Hemmer (1978) considered Lynx a subgenus of Felis.
+
+Lynx canadensis Kerr, 1792. In Linnaeus, Anim. Kingdom,
+     1:157.
+TYPE LOCALITY: "Canada"; listed in Miller (1912b) as
+     "Eastern Canada".
+DISTRIBUTION: Taiga zone of North America, south to C
+     Utah and SW Colorado, NE Nebraska, S Indiana, and
+     West Virginia (USA).
+STATUS: CITES - Appendix II.
+SYNONYMS: mollipilosus Stone, 1900; subsolanus Bangs,
+     1897. 
+COMMENTS: Considered distinct from L. lynx by KurtÇn
+     and Anderson (1980), Matyushkin (1979), Werdelin
+     (1981), and Garc°a-Perea (1992). Weigel (1961) and
+     Tumlison (1987) considered these taxa conspecific.
+     
+
+Lynx lynx (Linnaeus, 1758). Syst. Nat., 10th ed., 1:43.
+TYPE LOCALITY: "Europë sylvis and desertis",
+     subsequently restricted by Thomas (1911a:136) to
+     "Wennersborg, S. Sweden".
+DISTRIBUTION: Taiga forests from Scandinavia through E
+     Siberia and Sakhalin; from China (Gansu, Qinghai,
+     Shaanxi, and Sichuan) through montane Europe
+     (formerly widespread, now restricted to Balkans,
+     Carpathians, Pyreneans [French side], and Alps;
+     reintroduced to French Vosges and Jura Mt., Swiss
+     Alps, Austria, and Yugoslavia).
+STATUS: CITES - Appendix II.
+SYNONYMS: borealis Thunberg, 1798; carpathicus
+     Kratochv°l and Stollmann, 1963; cervaria Temminck,
+     1824; dinniki Satunin, 1915; isabellina Blyth,
+     1847; kamensis Satunin, 1904; kozlovi Fetisov,
+     1950; lupulinus Thunberg, 1825; lyncula Nilsson,
+     1820; martinoi Mir°c, 1978; neglectus Stroganov,
+     1962; orientalis Satunin, 1905; stroganovi
+     Heptner, 1969; tibetanus Gray, 1863; vulgaris
+     Kerr, 1792; vulpinus Thunberg, 1825; wardi
+     Lydekker, 1904; wrangeli Ognev, 1928. 
+COMMENTS: Does not include L. canadensis or L. pardina,
+     following Matyushkin (1979), Garc°a-Perea (1992),
+     and Werdelin (1981). Includes isabellina (Gao, in
+     Gao, 1987:336). Reviewed by Tumlison (1987,
+     Mammalian Species, 269, as Felis lynx). 
+
+Lynx pardinus (Temminck, 1827). Monogr. Mamm., 1:116.
+TYPE LOCALITY: "Portugal, puisque le commerce reáoit
+     des peaux prÇparÇes de Lisbonne, et que M. le
+     baron de VionÇnil tua, en 1818, sur les bords du
+     Tage, Ö dix lieues de Lisbonne".
+DISTRIBUTION: SW Spain and Portugal.
+STATUS: CITES - Appendix I; U.S. ESA and IUCN -
+     Endangered.
+SYNONYMS: pardella Miller, 1907. 
+COMMENTS: Given specific status by Matyushkin (1979),
+     Garc°a-Perea (1992), and Werdelin (1981); however
+     Weigel (1961) and Tumlison (1987) considered
+     pardinus conspecific with L. lynx. 
+
+Lynx rufus (Schreber, 1777). SÑugethiere, 3(25):pl.
+     109.B[1777]; text 3(24):412[1777].
+TYPE LOCALITY: "Provinz New York in Amerika".
+DISTRIBUTION: S British Columbia to Nova Scotia
+     (Canada), south to Oaxaca (Mexico).
+STATUS: CITES - Appendix II. U.S. ESA - Endangered as
+     Felis rufus escuinapae.
+SYNONYMS: baileyi Merriam, 1890; californicus Mearns,
+     1897; eremicus Mearns, 1897; escuinapae Allen,
+     1903; fasciatus Rafinesque, 1817; floridanus
+     Rafinesque, 1817; gigas Bangs, 1897; maculata
+     Horsfield and Vigors, 1829; montanus Rafinesque,
+     1817; oaxacensis Goodwin, 1963; oculeus Bangs,
+     1899; pallescens Merriam, 1899; peninsularis
+     Thomas, 1898; superiorensis Peterson and Downing,
+     1952; texensis Allen, 1895; uinta Merriam, 1902. 
+
+Oncifelis Severtzov, 1858. Rev. Mag. Zool. Paris, ser.
+     2, 10:386.
+TYPE SPECIES: Felis geoffroyi d'Orbigny and Gervais,
+     1842, by monotypy.
+SYNONYMS: Dendrailurus Severtzov, 1858; Lynchailurus
+     Severtzov, 1858; Noctifelis Severtzov, 1858;
+     Pajeros Gray, 1867. 
+COMMENTS: Although there is general agreement as to the
+     monophyletic nature of this genus, some have
+     chosen to emphasize the distinctiveness of O.
+     colocolo and placed it in monotypic Lynchailurus.
+     Cabrera (1958) suggested that O. geoffroyi and O.
+     guigna were more closely related to taxa
+     considered here under Leopardus rather than to O.
+     colocolo, which he placed in a separate subgenus.
+     Hemmer (1978) also included L. tigrinus in this
+     genus.
+
+Oncifelis colocolo (Molina, 1782). Sagg. Stor. Nat.
+     Chile, p. 295.
+TYPE LOCALITY: "che abitano i boschi del Chili",
+     restricted by Osgood (1943) to "Province of
+     Valparaiso" [Chile].
+DISTRIBUTION: Argentina, Bolivia, Brazil, Chile,
+     Ecuador, Paraguay, Peru, Uruguay.
+SYNONYMS: albescens Fitzinger, 1869; braccata Cope,
+     1889; budini Pocock, 1941; crespoi Cabrera, 1957;
+     crucina Thomas, 1901; garleppi Matschie, 1912;
+     huina Pocock, 1941; munoai XimÇnez, 1961;
+     neumayeri Matschie, 1912; pajeros Desmarest, 1816;
+     pampa Schinz, 1831; pampanus Gray, 1867; passerum
+     Sclater, 1871; steinbachi Pocock, 1941; thomasi
+     Lînnberg, 1913. 
+COMMENTS: The validity of colocolo was questioned by
+     Osgood (1943), with the next available name that
+     of pajeros Desmarest, 1816 (used by Weigel, 1961;
+     Hemmer, 1978; Kr†l and Zima, 1980; and Kratochv°l,
+     1982c). However, Wolffsohn (1908) and Cabrera
+     (1940, 1958) defended the original description.
+
+Oncifelis geoffroyi (d'Orbigny and Gervais, 1844).
+     Bull. Sci. Soc. Philom. Paris, 1844:40.
+TYPE LOCALITY: "des rives du Rio Negro, en Patagonie".
+DISTRIBUTION: Argentina, Andean Bolivia, S Paraguay, S
+     Brazil, Uruguay.
+STATUS: CITES - Appendix I.
+SYNONYMS: euxanthus Pocock, 1940; himalayanus Gray,
+     1843; leucobaptus Pocock, 1940; macdonaldi
+     Marelli, 1932; melas Bertoni, 1914; paraguae
+     Pocock, 1940; pardoides Gray, 1867; salinarum
+     Thomas, 1903; warwickii Gray, 1867. 
+COMMENTS: Revised by Pocock (1940b) and reviewed by
+     Ximenez (1975, Mammalian Species, 54, as Felis
+     geoffroyi). Placed in Oncifelis by Allen (1919a),
+     Weigel (1961), Hemmer (1978), Kr†l and Zima
+     (1980), and Kratochv°l (1982c). Ximenez (1975)
+     followed Cabrera (1958), and placed geoffroyi in
+     subgenus Leopardus of Felis. Includes F. pardoides
+     (Cabrera, 1958:280).
+
+Oncifelis guigna (Molina, 1782). Sagg. Stor. Nat.
+     Chile, p. 295.
+TYPE LOCALITY: "Chili", restricted by Thomas (1903:240)
+     to "Valdivia" [Chile].
+DISTRIBUTION: Argentina and Chile.
+STATUS: CITES - Appendix II.
+SYNONYMS: guina Philippi, 1870; molinae Osgood, 1943;
+     santacrucensis Artayeta, 1950; tigrillo Schinz,
+     1844. 
+COMMENTS: Placed in Oncifelis by Weigel (1961) and
+     Hemmer (1978). Placed in subgenus Leopardus of
+     Felis by Cabrera (1958). 
+
+Oreailurus Cabrera, 1940. Notas Mus. La Plata 5(29):16.
+TYPE SPECIES: Felis jacobita Cornalia, 1865, by
+     original designation.
+
+Oreailurus jacobita (Cornalia, 1865). Mem. Soc. Ital.
+     Sci. Nat., 1:3.
+TYPE LOCALITY: "Bolivia, circa Potosi et Humacuaca in
+     montibus sat elevatis"; further clarified by
+     Cabrera (1958:297) as "Sur del departamento
+     boliviano de Potosi, cerca de la frontera
+     argentina, entre Potosi y Humahuaca".
+DISTRIBUTION: NW Argentina, SE Bolivia, NE Chile, S
+     Peru.
+STATUS: CITES - Appendix I; U.S. ESA - Endangered; IUCN
+     - Rare.
+COMMENTS: Placed in Oreailurus by Cabrera (1940),
+     Weigel (1961), and Hemmer (1978). Later, Cabrera
+     (1958:297) reconsidered Oreailurus as a subgenus
+     of Felis. 
+
+Otocolobus Brandt, 1842. Bull. Sci. Acad. Imp. Sci. St.
+     Petersbourg, 9:col. 38.
+TYPE SPECIES: Felis manul Pallas, 1776, by original
+     designation.
+SYNONYMS: Trichaelurus Satunin, 1905. 
+COMMENTS: Palmer (1904:487) and Allen (1938) believed
+     that Otocolobus Severtzov, 1858, was a junior
+     homonym of Otocolobus Brandt, 1844, a subgenus of
+     Sciuridae, and suggested using Trichaelurus
+     Satunin, 1905. Brandt apparently reassigned the
+     generic name in 1844 after his initial use for a
+     felid in 1842.
+
+Otocolobus manul (Pallas, 1776). Reise Prov. Russ.
+     Reichs., 3:692.
+TYPE LOCALITY: "Frequens in rupestribus, apricis totius
+     Tatariae Mongoliaeque desertae". Listed in Honacki
+     et al. (1982) as "U.S.S.R., S.W. Transbaikalia,
+     Buryat. Mongolsk. A.S.S.R.;S. of Lake Baikal,
+     Kulusutai".
+DISTRIBUTION: Steppe and semidesert from Caspian Sea to
+     Kashmir, Transbaikalia, Mongolia, and C China,
+     north to Inner Mongolia and east to Hopei.
+STATUS: CITES - Appendix II.
+SYNONYMS: ferrugineus Ognev, 1928; mongolicus Satunin,
+     1905; nigripectus Hodgson, 1842; satuni Lydekker,
+     1907. 
+COMMENTS: Revised by Pocock (1907), Birula (1913,
+     1916), Ognev (1935), and Schwangart (1936). 
+
+Prionailurus Severtzov, 1858. Rev. Mag. Zool. Paris,
+     ser. 2, 10:387.
+TYPE SPECIES: Felis pardochrous Hodgson, 1844 (= Felis
+     bengalensis Kerr, 1792), by original designation.
+SYNONYMS: Ictailurus Severtzov, 1858; Mayailurus
+     Imaizumi, 1967; Viverriceps Gray, 1867;
+     Zibethailurus Severtzov, 1858. 
+COMMENTS: Although there is little dispute that these
+     four taxa are distinct and represent a single
+     monophyletic group, some have chosen to emphasize
+     their distinctiveness by placing them in monotypic
+     genera. 
+
+Prionailurus bengalensis (Kerr, 1792). In Linnaeus,
+     Anim. Kingdom, 1:151.
+TYPE LOCALITY: "Bengal" [India].
+DISTRIBUTION: Afghanistan, Bangladesh, Burma, Cambodia,
+     China, India, Indonesia, Japan (Tsushima and
+     Iriomote Isls), Korea, Laos, Malaysia, Nepal,
+     Pakistan, Philippine Isls, Taiwan, Thailand,
+     republics of the former USSR, and Vietnam.
+STATUS: CITES - Appendix I as Felis bengalensis
+     bengalensis (except for Chinese population);
+     otherwise Appendix II. U.S. ESA - Endangered; IUCN
+     - Endangered as F. iriomotensis.
+SYNONYMS: alleni Sody, 1949; anastasiae Satunin, 1905;
+     borneoensis Brongersma, 1935; chinensis Gray,
+     1837; ellioti Gray, 1842; euptilura Elliot, 1871;
+     horsfieldi Gray, 1842; ingrami Bonhote, 1903;
+     iriomotensis Imaizumi, 1967; javanensis Desmarest,
+     1816; manchurica Mori, 1922; microtis
+     Milne-Edwards, 1872; minuta Temminck, 1827;
+     nipalensis Horsfield and Vigors, 1829; pardochrous
+     Hodgson, 1844; raddei Trouessart, 1904; reevesii
+     Gray, 1843; ricketti Bonhote, 1903; scripta
+     Milne-Edwards, 1872; sumatrana Horsfield, 1821;
+     tenasserimensis Gray, 1867; tingia Lyon, 1908;
+     trevelyani Pocock, 1939; undata Radde, 1862;
+     wagati Gray, 1867. 
+COMMENTS: Placed in Prionailurus by Pocock (1917),
+     Weigel (1961), Hemmer (1978), Groves (1982a), and
+     Kratochv°l (1982c). Includes euptilura following
+     Allen (1939) and Gao (in Gao, 1987). Heptner
+     (1971) and Gromov and Baranova (1981), considered
+     euptilura a distinct species; however, Gao (in
+     Gao, 1987) pointed out that Heptner compared
+     Russian specimens with those from Southeast Asia,
+     whereas when intervening Chinese populations are
+     included, his distinctions do not hold. Includes
+     minuta following Chasen (1940). Imaizumi (1967)
+     described Mayailurus iriomotensis, but his key
+     characters are polymorphic in bengalensis (Glass
+     and Todd, 1977; Petzsch, 1970). Groves (1982a)
+     believed that iriomotensis warranted species level
+     recognition. 
+
+Prionailurus planiceps (Vigors and Horsfield, 1827).
+     Zool. J., 3:449.
+TYPE LOCALITY: "Sumatra" [Indonesia].
+DISTRIBUTION: Peninsular Thailand and Malaysia;
+     Indonesia (Sumatra, Borneo).  
+STATUS: CITES - Appendix I; U.S. ESA - Endangered; IUCN -
+Indeterminate.
+COMMENTS: Placed in Prionailurus by Weigel (1961),
+     Hemmer (1978), Kratochv°l (1982c), and Groves
+     (1982a). 
+
+Prionailurus rubiginosus (I. Geoffroy Saint-Hilaire,
+     1831). In BÇlanger (ed.), Voy. Indes Orient.,
+     Mamm., 3(Zoologie):140.  
+TYPE LOCALITY: "bois de lataniers qui couvrent une hauteur
+voisine de PondichÇry" [India, Pondicherry].
+DISTRIBUTION: India and Sri Lanka (see Chakraborty,
+     1978).
+STATUS: CITES - Appendix I (Indian population),
+     otherwise Appendix II; IUCN - Insufficiently
+     known.
+SYNONYMS: koladivinus Deraniyagala, 1956; phillipsi
+     Pocock, 1939. 
+COMMENTS: Placed in Prionailurus by Weigel (1961),
+     Hemmer (1978), Kratochv°l (1982c), and Groves
+     (1982a). 
+
+Prionailurus viverrinus (Bennett, 1833). Proc. Zool.
+     Soc. Lond., 1833:68.
+TYPE LOCALITY: "from the continent of India".
+DISTRIBUTION: Bangladesh, Burma, S China, India,
+     Indonesia, Malaysia, Nepal, Pakistan, Sri Lanka,
+     Taiwan, Thailand, and Vietnam.
+STATUS: CITES - Appendix II.
+SYNONYMS: bennettii Gray, 1867; himalayanus Jardine,
+     1834; rizophoreus Sody, 1936; viverriceps Hodgson,
+     1836. 
+COMMENTS: Placed in Prionailurus by Weigel (1961),
+     Hemmer (1978), Kratochv°l (1982c), and Groves
+     (1982a). 
+
+Profelis Severtzov, 1858. Revue Mag. Zool. Paris, ser.
+     2, 10:386.
+TYPE SPECIES: Felis celidogaster Temminck, 1827 (=
+     Felis aurata Temminck, 1827), by monotypy.
+
+Profelis aurata (Temminck, 1827). Monogr. Mamm., 1:120.
+TYPE LOCALITY: "Nous ne savons pas au juste dans quelle
+     partie du globe a ÇtÇ trouvÇ"; fixed by Van Mensch
+     and Van Bree (1969) to "probably the coastal
+     region of Lower Guinea (Between Cross River and
+     River Congo. . .)".
+DISTRIBUTION: N Angola, Burundi, Cameroon, Central
+     African Republic, Gabon, Gambia, Ghana, Kenya,
+     Liberia, Nigeria, Rwanda, Sierra Leone, Uganda, S
+     Zaire.
+STATUS: CITES - Appendix II.
+SYNONYMS: celidogaster Temminck, 1827; chalybeata
+     H[amilton]. Smith, 1827; chrysothrix Temminck,
+     1827; cottoni Lydekker, 1906; maka Van Saceghem,
+     1942; neglecta Gray, 1838; rutilus Waterhouse,
+     1843. 
+COMMENTS: Revised by Van Mensch and Van Bree (1969).
+     Placed in Profelis by Pocock (1917), Weigel
+     (1961), Hemmer (1978), Kratochv°l (1982c), and
+     Groves (1982a). Kr†l and Zima (1980) placed in
+     Felis.
+
+Puma Jardine, 1834. Natur. Libr., 2:266.
+TYPE SPECIES: Felis concolor Jardine, 1834, by original
+     designation.
+
+Puma concolor (Linnaeus, 1771). Mantissa Plantarum,
+     2:522.
+TYPE LOCALITY: "Brassilia", restricted by Goldman (in
+     Young and Goldman, 1946:200); to "Cayenne region,
+     French Guiana".
+DISTRIBUTION: Argentina, Belize, Bolivia, Brazil,
+     Canada, Chile, Colombia, Costa Rica, Ecuador, El
+     Salvador, Honduras, Guatemala, Guyana, Mexico,
+     Nicaragua, Panama, Paraguay, Peru, Surinam, USA,
+     Venezuela.
+STATUS: CITES - Appendix I as F. c. coryi, F. c.
+     costaricensis, and F. c. couguar; otherwise
+     Appendix II. U.S. ESA - Endangered as F. c. coryi,
+     F. c. costaricensis, and F. c. couguar. IUCN -
+     Endangered as F. c. coryi and F. c. cougar.
+SYNONYMS: acrocodia Goldman, 1943; anthonyi Nelson and
+     Goldman, 1931; araucanus Osgood, 1943; arundivaga
+     Hollister, 1911; aztecus Merriam, 1901; bangsi
+     Merriam, 1901; borbensis Nelson and Goldman, 1933;
+     browni Merriam, 1903; cabrerae Pocock, 1940;
+     californica May, 1896; capricornensis Goldman and
+     Young, 1946; coryi Bangs, 1899; costaricensis
+     Merriam, 1901; cougar Kerr, 1792; floridana Cory,
+     1896; greeni Nelson and Goldman, 1931; hippolestes
+     Merriam, 1897; hudsoni Cabrera, 1957; improcera
+     Philipps, 1912; incarum Nelson and Goldman, 1929;
+     kaibabensis Nelson and Goldman, 1931; mayensis
+     Nelson and Goldman, 1929; missoulensis Goldman,
+     1943; nigra Jardine, 1834; olympus Merriam, 1897;
+     oregonensis Rafinesque, 1832; osgoodi Nelson and
+     Goldman, 1943; patagonica Merriam, 1901; pearsoni
+     Thomas, 1901; puma Molina, 1782; punensis Housse,
+     1950; schorgeri Jackson, 1955; soasoaranna Lesson,
+     1842; soderstromii Lînnberg, 1913; stanleyana
+     Goldman, 1938; sucuacuara Liais, 1872;
+     vancouverensis Nelson and Goldman, 1932; wavula
+     Lesson, 1842; youngi Goldman, 1936. 
+COMMENTS: Reviewed by Currier, 1983 (Mammalian Species,
+     200, as Felis concolor). Placed in Puma by Pocock
+     (1917), Weigel (1961), Hemmer (1978), and
+     Kratochv°l (1982c). 
+
+Subfamily Pantherinae Pocock, 1917. Ann. Mag. Nat.
+     Hist. ser. 8, 20:332.
+COMMENTS: Type genus: Panthera Oken, 1816. Pocock's
+     (1917) original classification for this subfamily
+     placed Neofelis in the Felinae. 
+
+Neofelis Gray, 1867. Proc. Zool. Soc. Lond., 1867:265.
+TYPE SPECIES: Felis macrocelis Horsfield, 1825 (= Felis
+     nebulosa Griffith, 1821), by subsequent
+     designation by Pocock (1917:343).
+COMMENTS: Placed in Pantherinae by Hemmer (1978) and
+     Weigel (1961). Placed in Neofelinae by Kratochv°l
+     (1982c). 
+
+Neofelis nebulosa (Griffith, 1821). Gen. Particular
+     Descrip. Vert. Anim. (Carn.), p. 37, pl.
+TYPE LOCALITY: "brought from Canton" [China, Guangdong:
+     Guangzhou].
+DISTRIBUTION: Burma, Cambodia, China, India, Indonesia,
+     Malaysia, Nepal, Taiwan, Thailand, and Vietnam.
+STATUS: CITES - Appendix I; U.S. ESA - Endangered; IUCN
+     - Vulnerable.
+SYNONYMS: brachyurus Swinhoe, 1862; diardi Cuvier,
+     1823; macrocelis Horsfield, 1825; macrosceloides
+     Hodgson, 1853. 
+COMMENTS: Placed in Neofelis by Pocock (1917), Weigel
+     (1961), Hemmer (1978), and Kratochv°l (1982c).
+     Groves (1982a) placed in Panthera. 
+
+Panthera Oken, 1816. Lehrb. Naturgesch., ser. 3,
+     2:1052.
+TYPE SPECIES: Felis pardus Linnaeus, 1758, by
+     subsequent designation by Allen (1902:378).
+SYNONYMS: Jaguarius Severtzov, 1858; Leo Oken, 1816;
+     Leonina GrevÇ, 1894; Pardotigris Kretzoi, 1929;
+     Pardus Fitzinger, 1868; Tigris Oken, 1816. 
+COMMENTS: Revised by Hemmer (1966, 1968, 1974).
+     Panthera Oken, 1816, has been ruled available
+     (International Commission on Zoological
+     Nomenclature, 1985c). Includes Tigris following
+     Pocock (1916b). Van Gelder (1977b:13) included
+     Panthera as a synonym of Felis.
+
+Panthera leo (Linnaeus, 1758). Syst. Nat., 10th ed.,
+     1:41.
+TYPE LOCALITY: "Africa", restricted by Allen (1924:222)
+     to "the Barbary coast region of Africa, or, more
+     explicity, Constantine, Algeria".
+DISTRIBUTION: Present (except in tropical rain forests)
+     in Botswana, Ethiopia, India, Kenya, Malawi, Mali,
+     Mozambique, Namibia, Senegal, Somalia, South
+     Africa, Sudan, Uganda, Zambia, and Zimbabwe.
+     Formerly present but now extinct in Algeria,
+     Arabia, Egypt, Greece, Iran, Iraq, Israel, Libya,
+     Morocco, Pakistan, and Tunisia.
+STATUS: CITES - Appendix I as P. l. persica; otherwise
+     Appendix II. U.S. ESA and IUCN - Endangered as P.
+     l. persica.
+SYNONYMS: adusta Pocock, 1927; africanus Brehm, 1829;
+     asiaticus Jardine, 1834; azandicus Allen, 1924;
+     barbaricus Meyer, 1826; barbarus Fischer, 1829;
+     bengalensis Bennett, 1829; bleyenberghi Lînnberg,
+     1914; capensis Fischer, 1829; gambianus Gray,
+     1843; goojratensis Smee, 1833; hollisteri Allen,
+     1924; indicus de Blainville, 1843; kamptzi
+     Matschie, 1900; krugeri Roberts, 1929; maculatus
+     Huevelmans, 1955; massaicus Neumann, 1900;
+     melanochaitus H. Smith, 1842; nigra Loche, 1858;
+     nobilis Gray, 1867; nubicus Blainville, 1843;
+     nyanzae Heller, 1913; persicus Meyer, 1826;
+     roosevelti Heller, 1913; sabakiensis Lînnberg,
+     1905; senegalensis Meyer, 1826; somaliensis Noack,
+     1891; suahelicus Neumann, 1900; vernayi Roberts,
+     1948; webbiensis Zukowsky, 1964. 
+COMMENTS: Revised by Pocock (1930c). Placed in Panthera
+     by Pocock (1930c), Weigel (1961), Kratochv°l
+     (1982c), Hemmer (1978), and Groves (1982a). 
+
+Panthera onca (Linnaeus, 1758). Syst. Nat., 10th ed.,
+     1:42.
+TYPE LOCALITY: "America meridionali", fixed by Thomas
+     (1911a:136) to "Pernambuco" [Brazil].
+DISTRIBUTION: N Argentina, Belize, Bolivia, Brazil,
+     Colombia, Costa Rica, El Salvador, French Guiana,
+     Guatemala, Guyana, Honduras, S Mexico, Nicaragua,
+     Panama, Paraguay, Peru, Surinam, Venezuela;
+     formerly in USA (Arizona, California, New Mexico,
+     Texas).
+STATUS: CITES - Appendix I; U.S. ESA - Endangered (from
+     Mexico southward); IUCN - Vulnerable.
+SYNONYMS: alba Fitzinger, 1869; antiqua Ameghino, 1889;
+     arizonensis Goldman, 1932; boliviensis Nelson and
+     Goldman, 1933; centralis Mearns, 1901; coxi Nelson
+     and Goldman, 1933; fossilis Ameghino, 1889;
+     goldmani Mearns, 1901; hernandesii Gray, 1858;
+     jaguapara Liais, 1872; jaguar Link, 1795;
+     jaguarete Liais, 1872; jaguatyrica Liais, 1872;
+     madeirae Nelson and Goldman, 1933; major Fischer,
+     1830; mexianae Hagmann, 1908; milleri Nelson and
+     Goldman, 1933; minor Fischer, 1830; nigra
+     Erxleben, 1777; notialis Hollister, 1914; onssa
+     Ihering, 1911; onza Brehm, 1876; palustris
+     Ameghino, 1888; paraguensis Hollister, 1914;
+     paulensis Nelson and Goldman, 1933; peruviana de
+     Blainville, 1843; proplatensis Ameghino, 1904;
+     ramsayi Miller, 1930; ucayalae Nelson and Goldman,
+     1933; veraecrucis Nelson and Goldman, 1933. 
+COMMENTS: Revised by Nelson and Goldman (1933) and
+     Pocock (1939b). Placed in Panthera by Pocock
+     (1939b), Weigel (1961), Hemmer (1978), Kratochv°l
+     (1982c), and Groves (1982a). Reviewed by Seymour
+     (1989, Mammalian Species, 340). 
+
+Panthera pardus (Linnaeus, 1758). Syst. Nat., 10th ed.,
+     1:41.
+TYPE LOCALITY: "Indiis", fixed by Thomas (1911a:135),
+     as "Egypt"; see discussion by Pocock (1930a).
+DISTRIBUTION: Afghanistan, Algeria, Angola, Arabia,
+     Botswana, Burma, Cameroon, Central African
+     Republic, Chad, China, Congo, Egypt, Ethiopia,
+     Gabon, Guinea-Bissau, India, Indonesia (Java),
+     Iran, Iraq, Kenya, Korea, Liberia, Laos, Malawi,
+     Malaysia, Mauritania, Morocco, Mozambique,
+     Namibia, Nepal, Niger, Nigeria, Pakistan, Senegal,
+     Sierra Leone, Somalia, South Africa, Sri Lanka,
+     Sudan, Tanzania, Thailand, Tunisia, Turkey,
+     Uganda, republics of the former USSR, Vietnam,
+     Zaire, Zambia, and Zimbabwe.
+STATUS: CITES - Appendix I; U.S. ESA - Endangered
+     (except in Africa, in the wild, south of, and
+     including Gabon, Congo, Zaire, Uganda, and Kenya,
+     where this species is Threatened). IUCN -
+     Threatened.
+SYNONYMS: adersi Pocock, 1932; adusta Pocock, 1927;
+     antinorii de Beaux, 1923; antiquorum Fitzinger,
+     1868; barbarus de Blainville, 1839; bedfordi
+     Pocock, 1930; brockmani Pocock, 1932; centralis
+     Lînnberg, 1917; chinensis Gray, 1867; chui Heller,
+     1913; ciscaucasicus Satunin, 1914; delacouri
+     Pocock, 1930; fontanierii A. M. Edwards, 1867;
+     fortis Heller, 1913; fusca Meyer, 1794; grayi
+     Trouessart, 1904; hanensis Matschie, 1907;
+     iturensis J. A. Allen, 1924; japonensis Gray,
+     1862; jarvisi Pocock, 1932; kotiya Deraniyagala,
+     1956; leopardus Schreber, 1777; longicaudata
+     Valenciennes, 1856; melanotica GÅnther, 1885;
+     melas G. Cuvier, 1809; millardi Pocock, 1930;
+     minor Matschie, 1895; nanopardus Thomas, 1904;
+     niger Fitzinger, 1868; nimr Hemprich and
+     Ehrenberg, 1833; orientalis Schlegel, 1857;
+     palearia Cuvier, 1832; perniger Hodgson, 1863;
+     poecilura Valenciennes, 1856; poliopardus Brehm,
+     1863; puella Pocock, 1932; reichenowi Cabrera,
+     1918; ruwenzorii Camerano, 1906; saxicolor Pocock,
+     1927; shortridgei Pocock, 1932; sindica Pocock,
+     1930; suahelicus Neumann, 1900; tulliana
+     Valenciennes, 1856; variegata Wagner, 1841; varius
+     Gray, 1843; villosa Bonhote, 1903; vulgaris Oken,
+     1816. 
+COMMENTS: Revised by Pocock (1930a, b, 1932c). Placed
+     in Panthera by Pocock (1930a), Weigel (1961),
+     Hemmer (1978), Kratochv°l (1982c), and Groves
+     (1982a). 
+
+Panthera tigris (Linnaeus, 1758). Syst. Nat., 10th ed.,
+     1:41.
+TYPE LOCALITY: "Asia", fixed by Thomas (1911a:135) as
+     "Bengal" [India].
+DISTRIBUTION: Bangladesh, Bhutan, Burma, China, Laos,
+     India, Indonesia (Sumatra), Korea, Malaysia,
+     Nepal, Thailand, Vietnam, and republics of the
+     former USSR. Formerly found in Afghanistan,
+     Pakistan, Iran, and Indonesia (Java and Bali).
+STATUS: CITES - Appendix I; U.S. ESA and IUCN -
+     Endangered.
+SYNONYMS: altaica Temminck, 1844; amoyensis Hilzheimer,
+     1905; amurensis Dode, 1871; balica Schwarz, 1912;
+     corbetti Mazak, 1968; coreensis Brass, 1904;
+     lecoqi Schwarz, 1916; longipilis Fitzinger, 1868;
+     mandshurica Baykov, 1925; mikadoi Satunin, 1915;
+     mongolica Lesson, 1842; nigra Lesson, 1842;
+     regalis Gray, 1842; septentrionalis Satunin, 1904;
+     sondaica Temminck, 1844; striatus Severtzov, 1858;
+     styani Pocock, 1929; sumatrae Pocock, 1929;
+     sumatrana de Blainville, 1839; trabata Schwarz,
+     1916; virgata Illiger, 1815. 
+COMMENTS: Revised by Pocock (1929), and Maz†k (1979,
+     1981 [Mammalian Species, 152]). Placed in Panthera
+     by Pocock (1929), Weigel (1961), Hemmer (1978),
+     Kratochv°l (1982c), and Groves (1982a).
+
+Pardofelis Severtzov, 1858. Rev. Mag. Zool. Paris, ser.
+     2, 10:387.
+TYPE SPECIES: Felis marmorata Martin, 1837, by
+     monotypy.
+COMMENTS: There is considerable cotroversy over the
+     correct placement of this genus. Hemmer (1978),
+     Kr†l and Zima (1980), Groves (1982a), and
+     Kratochv°l (1982c) suggested a close relationship
+     with Panthera. Pocock (1932d) and Weigel (1961)
+     suggested a relationship with felines while
+     recognizing similarities with Panthera. It is
+     perhaps best considered incertae sedis. 
+
+Pardofelis marmorata (Martin, 1837). Proc. Zool. Soc.
+     Lond., 1836:108 [1837].
+TYPE LOCALITY: "Java or Sumatra" [Indonesia],
+     restricted by Robinson and Kloss (1919a:261), to
+     "Sumatra".
+DISTRIBUTION: N India and Nepal to Vietnam, Thailand,
+     Malaysia, Sumatra, and Borneo; S China.
+STATUS: CITES - Appendix I; U.S. ESA - Endangered; IUCN
+     - Indeterminate.
+SYNONYMS: charltoni Gray, 1846; dosul Hodgson, 1863;
+     duvaucelli Hodgson, 1863; longicaudata Blainville,
+     1843; ogilbii Hodgson, 1847. 
+COMMENTS: Revised by Pocock (1932d). Placed in
+     Pardofelis by Pocock (1932d), Weigel (1961), Kr†l
+     and Zima (1980), Kratochv°l (1982c), Hemmer
+     (1978), and Groves (1982a). 
+
+Uncia Gray, 1854. Ann. Mag. Nat. Hist., ser. 2, 14:394.
+TYPE SPECIES: Felis irbis Ehrenberg, 1830 (= Felis
+     uncia Schreber, 1775), by subsequent designation
+     (Palmer, 1904:710).
+COMMENTS: Revised by Pocock (1916b). 
+
+Uncia uncia (Schreber, 1775). Die SÑugethiere,
+     2(14):pl. 100[1775]; text, 3(22):386-7[1777].
+TYPE LOCALITY: "Barbarey, Persien, Ostindien, und
+     China", restricted by Pocock (1930b:332) to "Altai
+     Mountains". Ognev (1962c:221) disagreed and
+     restricted the locality to "Kopet-Dagh
+     Mountains...the southern slopes of these mountains
+     adjacent to Iran".  
+DISTRIBUTION: Afghanistan, Bhutan, China, India, Mongolia,
+Nepal, Pakistan, republics of the former USSR.
+STATUS: CITES - Appendix I; U.S. ESA and IUCN -
+     Endangered.
+SYNONYMS: irbis Ehrenberg, 1830; schneideri Zukowsky,
+     1950; uncioides Horsfield, 1855. 
+COMMENTS: Revised by Pocock (1930b). Placed in Uncia by
+     Pocock (1930b), Weigel (1961), Kratochv°l (1980c),
+     and Heptner and Naumov (1967). Placed in Uncia and
+     reviewed by Hemmer (1972, Mammalian Species, 20). 
+
+Family Herpestidae Bonaparte, 1845. Cat. Meth. Mamm.
+     Europe, p. 3.
+SYNONYMS: Mungotidae Pocock, 1916. 
+COMMENTS: Type genus: Herpestes Illiger, 1811 (Melville
+     and Smith, 1987). For separation of taxa included
+     here from Viverridae (after Simpson, 1945), see
+     comments under Viverridae. 
+
+Subfamily Galidiinae Gray, 1865. Proc. Zool. Soc.
+     London, 1864:508 [1865].
+
+Galidia I. Geoffroy Saint-Hilaire, 1837. C. R. Acad.
+     Sci. Paris, 5:580.
+TYPE SPECIES: Galidia elegans I. Geoffroy
+     Saint-Hilaire, 1837, by monotypy.
+
+Galidia elegans I. Geoffroy Saint-Hilaire, 1837. C. R.
+     Acad. Sci. Paris, 5:581.
+TYPE LOCALITY: "Madagascar".
+DISTRIBUTION: Endemic to Madagascar.
+SYNONYMS: afra Kerr, 1792. 
+
+Galidictis I. Geoffroy Saint-Hilaire, 1839. Mag. Zool.,
+     Mamm. Art. No. 5, p. 33, footnote, 37.
+TYPE SPECIES: Mustela striata I. Geoffroy
+     Saint-Hilaire, 1837 (= Viverra fasciata Gmelin,
+     1788) by original designation.
+COMMENTS: Gregory and Hellman (1939) separated
+     Galidictis from other galidiines and placed it in
+     the Viverridae. 
+
+Galidictis fasciata (Gmelin, 1788). In Linnaeus, Syst.
+     Nat., 13th ed., 1:92.
+TYPE LOCALITY: Erroneously listed by Gmelin as "in
+     India".
+DISTRIBUTION: Endemic to Madagascar.
+STATUS: IUCN - Indeterminate.
+SYNONYMS: eximius Pocock, 1915; ornatus Pocock, 1915;
+     rufa Grandidier, 1869; striata I. Geoffroy
+     Saint-Hilaire, 1839; vittatus Schinz, 1844. 
+
+Galidictis grandidieri Wozencraft, 1986. J. Mammal.,
+     67:561.
+TYPE LOCALITY: "Madagascar".
+DISTRIBUTION: Known only from the spiny desert of SW
+     Madagascar.    
+STATUS: IUCN - Insufficiently known.
+COMMENTS: G. grandidiensis Wozencraft, 1986 was emended
+     to G. grandidieri by Wozencraft (1987). 
+
+Mungotictis Pocock, 1915. Ann. Mag. Nat. Hist., ser. 8,
+     16:120.
+TYPE SPECIES: Galidictis vittatus Gray, 1848 (= Galidia
+     decemlineata Grandidier, 1867).
+
+Mungotictis decemlineata (A. Grandidier, 1867). Rev.
+     Mag. Zool. Paris, ser. 2, 19:85.
+TYPE LOCALITY: "Ö la cìte ouest de Madagascar" (pg.
+     84).
+DISTRIBUTION: Endemic to Madagascar.
+STATUS: IUCN - Vulnerable.
+SYNONYMS: lineatus Pocock, 1915; substriatus Pocock,
+     1915; vittatus Gray, 1848. 
+
+Salanoia Gray, 1865. Proc. Zool. Soc. Lond., 1864:523
+     [1865].
+TYPE SPECIES: Galidia concolor I. Geoffroy
+     Saint-Hilaire, 1837.
+
+Salanoia concolor (I. Geoffroy Saint-Hilaire, 1837). C.
+     R. Acad. Sci. Paris, 5:581.
+TYPE LOCALITY: "Madagascar".
+DISTRIBUTION: Endemic to Madagascar.
+STATUS: IUCN - Insufficiently known.
+SYNONYMS: olivacea I. Geoffroy Saint-Hilaire, 1839;
+     unicolor I. Geoffroy Saint-Hilaire, 1837. 
+COMMENTS: Geoffroy Saint-Hilaire (1839) noted that his
+     first listed species name, unicolor, was a
+     typographical error and should have been concolor
+     (Coetzee, 1977b:35). 
+
+Subfamily Herpestinae Bonaparte, 1845. Cat. Meth. Mamm.
+     Europe, p. 3.
+COMMENTS: Type genus: Herpestes Illiger, 1811 (Melville
+     and Smith, 1987). Thomas (1882) proposed a
+     separate monotypic subfamily (Surcatinae) for
+     Suricata. Wozencraft (1989b) placed Crossarchus,
+     Cynictis, Dologale, Helogale, Liberiictis, Mungos,
+     Paracynictis, and Suricata in the Mungotinae but
+     gave no supporting rationale. Fredga's (1972)
+     analysis of chromosomes would support Wozencraft's
+     Mungotinae (with the inclusion of Bdeogale and
+     Ichneumia). The phylogenetic analysis of allozyme
+     data by Taylor et al. (1991) also supported
+     Cynictis, Suricata, and Helogale as a monophyletic
+     group.
+
+Atilax F. G. Cuvier, 1826. In E. Geoffroy Saint-Hilaire
+     and F. G. Cuvier, Hist. Nat. Mammifäres, pt. 3, 
+     5(54), "Vansire," 2 pp.
+TYPE SPECIES: Herpestes paludinosus G. [Baron] Cuvier,
+     1829, by original designation (Melville and Smith,
+     1987).
+COMMENTS: Fredga's (1972) comparative chromosome study
+     of mongooses suggested that recognition of Atilax
+     as distinct from Herpestes would make Herpestes
+     paraphyletic. However, allozyme data support
+     Atilax as the first early offshoot of the main
+     herpestine branch (Taylor et al., 1991).
+
+Atilax paludinosus (G.[Baron] Cuvier, 1829). Regn.
+     Anim., Nouv. ed., 1:158.
+TYPE LOCALITY: "une grand des marais du Cap" [South
+     Africa, Cape Prov., Cape of Good Hope].
+DISTRIBUTION: Algeria, Angola, Botswana, Cameroon,
+     Equatorial Guinea, Ethiopia, Gabon, Ivory Coast,
+     Liberia, Malawi, Mozambique, Niger, Ruwanda,
+     Senegal, Sierra Leone, Somalia, South Africa,
+     Sudan, Tanzania, Uganda, Zaire, and Zambia.
+SYNONYMS: atilax Wagner, 1841; galera Schreber, 1777;
+     macrodon Allen, 1924; mitis Thomas, 1902; mordax
+     Thomas, 1912; nigerianus Thomas, 1912; paludosus
+     Gray, 1865; pluto Temminck, 1853; robustus Gray,
+     1864; rubellus Thomas and Wroughton, 1908;
+     rubescens Hollister, 1912; spadiceus Cabrera,
+     1921; transvaalensis Roberts, 1933; urinatrix
+     Smith, 1829; vansire F. Cuvier, 1826; voangshire
+     Zimmermann, 1777. 
+
+Bdeogale Peters, 1850. Spenersche Z., 25 June, 1850
+     (unpaginated).
+TYPE SPECIES: Bdeogale crassicauda Peters, 1852; by
+     subsequent designation by Thomas (1882) (Melville
+     and Smith, 1987).
+COMMENTS: Matschie (1895), Pocock (1916a), Coetzee
+     (1977b), Kingdon (1977), and Meester et al. (1986)
+     included Galeriscus Thomas, 1894. Rosevear (1974)
+     believed that no one had advanced any "reasoned
+     argument" for combining Galeriscus with Bdeogale,
+     and followed Schouteden (1945) and Hill and Carter
+     (1941) who considered them distinct; all have
+     agreed that jacksoni and nigripes are sister
+     groups.
+
+Bdeogale crassicauda Peters, 1852. Monatsb. K. Preuss.
+     Akad. Wiss., Berlin, 1852:81.
+TYPE LOCALITY: "Africa orient., Tette, Boror, 17-18¯
+     Lat. austr". (pg. 82). Restricted by Moreau et al.
+     (1946:410) to "Tette" [Mozambique].     
+DISTRIBUTION: Kenya, Malawi, C Mozambique, Tanzania (incl.
+Zanzibar), S and E Zambia, NE Zimbabwe.
+STATUS: IUCN - Endangered as B. c. omnivora.
+SYNONYMS: omnivora Heller, 1913; puisa Peters, 1852;
+     tenuis Thomas and Wroughton, 1908. 
+COMMENTS: Reviewed by Taylor (1987, Mammalian Species,
+     294) and revised by Sale and Taylor (1970). 
+
+Bdeogale jacksoni (Thomas, 1894). Ann. Mag. Nat. Hist.,
+     ser. 6, 13:522.
+TYPE LOCALITY: "Mianzini, Masailand, 8000 feet" (pg.
+     523). Restricted by Moreau et al. (1946:410) to
+     "Mianzini. . . a few miles E.S.E. of Naivasha and
+     on the southern end of the Kinangop Plateau. . .
+     9000 ft" [Kenya].
+DISTRIBUTION: C Kenya, SE Uganda.
+STATUS: IUCN - Insufficiently known.
+COMMENTS: Rosevear (1974) placed jacksoni in
+     Galeriscus. Kingdon (1977) considered jacksoni
+     conspecific with nigripes; however, Rosevear
+     (1974) and Coetzee (1977b) noted skull and skin
+     differences.
+
+Bdeogale nigripes Pucheran, 1855. Rev. Mag. Zool.
+     Paris, 7(2):111.
+TYPE LOCALITY: "Gubon" [Gabon].
+DISTRIBUTION: Nigeria to N Angola.
+COMMENTS: Rosevear (1974) placed nigripes in
+     Galeriscus. Kingdon (1977) considered jacksoni
+     conspecific with nigripes; however, Rosevear
+     (1974) and Coetzee (1977b) noted skull and skin
+     differences.
+
+Crossarchus F. G. Cuvier, 1825. In E. Geoffroy
+     Saint-Hilaire and F. G. Cuvier, Hist. Nat.
+     Mammifäres, pt. 3, 5(47), "le Mangue" 3 pp., 1 pl.
+TYPE SPECIES: Crossarchus obscurus F. G. Cuvier, 1825,
+     by original designation (Melville and Smith,
+     1987).
+COMMENTS: Revised by Goldman (1984). Placed in Mungos
+     by Hill and Carter (1941). Van Rompaey and Colyn
+     (1992) presented a key to the species. 
+
+Crossarchus alexandri Thomas and Wroughton, 1907. Ann.
+     Mag. Nat. Hist., ser. 7, 19:373.
+TYPE LOCALITY: "from Banzyville, Ubanghi" [= Mobayi,
+     Zaire, 4¯N, 21¯11'E (Goldman, 1984)].
+DISTRIBUTION: Central African Republic, Congo, Uganda,
+     Zaire.
+SYNONYMS: minor Goldman, 1984. 
+
+Crossarchus ansorgei Thomas, 1910. Ann. Mag. Nat.
+     Hist., ser. 8, 5:195.
+TYPE LOCALITY: "Dalla Tando" [= Angola, Ndala Tando,
+     9¯18'S, 14¯54'E (Goldman, 1984)].
+DISTRIBUTION: N Angola, SE Zaire.
+SYNONYMS: nigricolor. 
+COMMENTS: Reviewed by Van Rompaey and Colyn (1992,
+     Mammalian Species, 402). 
+
+Crossarchus obscurus F. G. Cuvier, 1825. In E. Geoffroy
+     Saint-Hilaire and F. G. Cuvier, Hist. Nat.
+     Mammifäres, pt. 3, 5(47), "Mangue" 3 pp.
+TYPE LOCALITY: "cìtes occidentales de l'Afrique, et
+     vraisemblablement des parties qui sont au midi de
+     la Gambie" restricted by Cuvier (1829:158) to
+     "Sierra Leone".
+DISTRIBUTION: Benin, Cameroon, Central African
+     Republic, Ghana, Ivory Coast, Liberia, Malawi,
+     Nigeria, Sierra Leone.
+SYNONYMS: platycephalus Goldman, 1984; somalicus
+     Thomas, 1895. 
+COMMENTS: Goldman (1984, 1987) separated central (C.
+     platycephalus) from western (C. obscurus) African
+     populations based on phenetic differences in skull
+     proportions. Wozencraft (1989b) argued for
+     consideration of these populations as conspecific.
+     Reviewed by Goldman (1987, Mammalian Species,
+     290). 
+
+Cynictis Ogilby, 1833. Proc. Zool. Soc. Lond., 1833:48.
+TYPE SPECIES: Cynictis steedmanni Ogilby, 1833 (=
+     Herpestes penicillatus G. Cuvier, 1829).
+
+Cynictis penicillata (G. [Baron] Cuvier, 1829). Regn.
+     Anim., Nouv. ed., 1:158.
+TYPE LOCALITY: "du Cap", restricted by Roberts
+     (1951:151) to "Uitenhage, C.P." [South Africa].
+DISTRIBUTION: S Angola, Botswana, Namibia, South
+     Africa, SW Zimbabwe.
+SYNONYMS: bechuanae Roberts, 1932; brachyura Roberts,
+     1924; bradfieldi Roberts, 1924; cinderella Thomas,
+     1927; coombsi Roberts, 1929; intensa Schwann,
+     1906; kalaharica Roberts, 1932; karasensis
+     Roberts, 1938; lepturus Smith, 1839; levaillantii
+     Smith, 1829; ogilbyi Smith, 1834; pallidior Thomas
+     and Schwann, 1904; steedmanni Ogilby, 1833;
+     typicus Smith, 1834. 
+COMMENTS: Revised by Lundholm (1955b). 
+
+Dologale Thomas, 1926. Ann. Mag. Nat. Hist., ser. 9,
+     17:183.
+TYPE SPECIES: Crossarchus dybowskii Pousargues, 1893,
+     by original designation.
+COMMENTS: Revised by Hayman (1936). Although originally
+     placed in Crossarchus, most since Hayman (1936)
+     believed this genus to be the sister group to
+     Helogale; Allen (1924) identified some specimens
+     of this taxon as Helogale hirtula robusta.
+
+Dologale dybowskii (Pousargues, 1893). Bull. Soc. Zool.
+     Fr., 18:51.
+TYPE LOCALITY: "Ubangi, Congo Belge", restricted by
+     Moreau et al. (1945:410) to "on the Upper Kemo, a
+     tributary to the north of the Ubangui, about
+     6¯17'N, 19¯12'E" [Central African Republic].
+DISTRIBUTION: Central African Republic, S Sudan, W
+     Uganda, NE Zaire.
+SYNONYMS: nigripes Kershaw, 1924; robusta Allen, 1924. 
+COMMENTS: Pousargues (1894) later redescribed the
+     species in detail. 
+
+Galerella Gray, 1865. Proc. Zool. Soc. Lond., 1864:564
+     [1865].
+TYPE SPECIES: Herpestes ochraceus Gray, 1849 (=
+     Herpestes sanguineus RÅppell, 1836) by original
+     designation.
+COMMENTS: Revised by Lynch (1981), Watson and Dippenaar
+     (1987), Watson (1990), and Taylor et al. (1991)
+     who considered these taxa a monophyletic group.
+     Crawford-Cabral (1989a:2) regarded these taxa as a
+     "superspecies with several allospecies." These
+     taxa are provisionally separated from Herpestes
+     (sensu latu) following these revisions and reviews
+     by Rosevear (1974), Ansell (1978), Smithers
+     (1983), and Meester et al. (1986) (see discussion
+     under Herpestes). 
+
+Galerella flavescens (Bocage, 1889). J. Sci. Math.
+     Phys. Nat. Lisboa, ser 12, 1:179.
+TYPE LOCALITY: "Benguella", [Angola].
+DISTRIBUTION: S Angola, C and N Namibia.
+SYNONYMS: annulatus Lundholm, 1955; nigratus Thomas,
+     1928; shortridgei Roberts, 1932. 
+COMMENTS: Included in sanguinea by Taylor (1975). The
+     form flavescens was not mentioned in Meester et
+     al. (1986) or Watson and Dippenaar's (1987)
+     revision; Crawford-Cabral (1989a) considered
+     nigratus conspecific with flavescens, the senior
+     synonym. Meester et al. (1986) listed nigratus as
+     a synonym of G. pulverulenta. 
+
+Galerella pulverulenta (Wagner, 1839). Gelehrte. Anz.
+     I.K. Bayer. Akad. Wiss., MÅnchen., 9:426.
+TYPE LOCALITY: "Kap" [Cape of Good Hope, South Africa].
+DISTRIBUTION: South Africa, south of 27¯S latitude
+     (Bronner, 1990).
+SYNONYMS: apiculatus Gray, 1865; basuticus Roberts,
+     1936; caffra Smith, 1826; lasti Wroughton, 1907;
+     maritimus Roberts, 1919; ratlamuchi Thomas, 1929;
+     ruddi Rhomas, 1903; rufescens Lorenz, 1898. 
+COMMENTS: Revised by Lynch (1981) and Watson and
+     Dippenaar (1987), who removed annulata and
+     shortridgei (considered here as incertae sedis)
+     and nigrata (placed here in flavescens) from
+     pulverulenta; although Meester et al. (1986) did
+     not. Crawford-Cabral (1989a) included these taxa
+     with flavescens. 
+
+Galerella sanguinea (RÅppell, 1836). Neue Wirbelt.
+     Fauna Abyssin. Gehîrig. SÑugeth., 1:27.
+TYPE LOCALITY: "Kordofan" [Sudan].
+DISTRIBUTION: Angola, Benin, Botswana, Burkina Faso,
+     Cameroon, Cape Verde Isls, Central African
+     Republic, Congo, Equatorial Guinea, Ethiopia,
+     Ghana, Ivory Coast, Kenya, Liberia, Malawi,
+     Mauritana, Mozambique, Namibia, Niger, Rwanda,
+     Senegal, Sierra Leone, Somalia, South Africa,
+     Sudan, Tanzania, Togo, Uganda, Zaire, Zambia,
+     Zimbabwe.
+SYNONYMS: auratus Thomas and Wroughton, 1908; badius
+     Smith, 1838; bocagei Thomas and Wroughton, 1905;
+     bradfieldi Roberts, 1932; bruneoochracea Matschie,
+     1914; caldatus Thomas, 1927; canus Wroughton,
+     1907; caurinus Thomas, 1926; cauui Smith, 1836;
+     condradsi Matschie, 1914; dasilvai Roberts, 1938;
+     dentifer Heller, 1913; elegans Matschie, 1914;
+     emini Matschie, 1914; ererensis Matschie, 1914;
+     erlangeri Matschie, 1914; erongensis Roberts,
+     1946; flaviventris Matschie, 1914; fulvidior
+     Thomas, 1904; fuscus RÅppell, 1835; galbus
+     Wroughton, 1909; galinieri GuÇrin and Ferret,
+     1847; gracilis RÅppell, 1835; granti Gray, 1864;
+     ignitoides Roberts, 1932; ignitus Roberts, 1913;
+     iodoprymnus Heuglin, 1861; kalaharicus Roberts,
+     1932; kaokoensis Roberts, 1932; khanensis Roberts,
+     1932; lancasteri Roberts, 1932; lefebvrei Desmurs
+     and PrÇvost, 1850; lundensis Monard, 1935; marae
+     Matschie, 1914; melanura Martin, 1836; mossambica
+     Matschie, 1914; mustela Schwarz, 1935; mutgigella
+     RÅppell, 1835; mutscheltschela Heuglin, 1877;
+     neumanni Matschie, 1894; ngamiensis Roberts, 1932;
+     nigricaudatus I. Geoffroy Saint-Hilaire, 1839;
+     ochraceus Gray, 1849; ochromelas Pucheran, 1855;
+     okavangensis Roberts, 1932; orestes Heller, 1911;
+     ornatus Peters, 1852; parvipes Hollister, 1916;
+     perfulvidus Thomas, 1904; phoenicurus Thomas,
+     1912; proteus Thomas, 1907; punctulatus Gray,
+     1849; ratlamuchi Smith, 1836; rendilis Lînnberg,
+     1912; ruasae Matschie, 1914; ruficauda Heuglin,
+     1877; saharae Thomas, 1925; schimperi Matschie,
+     1914; swinnyi Roberts, 1913; talboti Thomas and
+     Wroughton, 1907; turstigi Matschie, 1914; ugandae
+     Wroughton, 1909; upingtoni Shortridge, 1934;
+     venatica Gray, 1865; zombae Wroughton, 1907. 
+COMMENTS: This engimatic group, reviewed by Taylor
+     (1975), is represented by several allopatric
+     populations (A situation similar to the Genetta
+     genetta complex where they are recognized as
+     conspecific). Watson and Dippenaar (1987), in
+     their revision, argued for the separation of
+     nigratus Thomas, 1928 (= flavescens), and swalius
+     Thomas, 1926, and considered swinnyi Roberts,
+     1913, as incertae sedis (included here), although
+     their study did not include representative samples
+     from NE and W Africa. It is believed that swinnyi
+     has been extirpated from the type locality
+     (Watson, in litt.). Taylor (1989) suggested that
+     the allopatric ochraceus from Somalia warrants
+     full specific status. Certainly, these studies
+     suggests that a thorough revision, inclusive of
+     all of the African forms of sanguinea is badly
+     needed. 
+
+Galerella swalius (Thomas, 1926). Proc. Zool. Soc.
+     Lond., 1926:292.
+TYPE LOCALITY: "Great Brukaros Mountain, 3500'"
+     [Namibia].
+DISTRIBUTION: S and C Namibia.
+COMMENTS: Included in sanguinea by Meester et al.
+     (1989) and Taylor (1975). 
+
+Helogale Gray, 1862. Proc. Zool. Soc. Lond., 1861:308
+     [1862].
+TYPE SPECIES: Herpestes parvulus Sundevall, 1846, by
+     subsequent designation by Thomas (1882) (Melville
+     and Smith, 1987).
+COMMENTS: The number of taxa ascribed to this genus is
+     provisional. Ellerman et al. (1953) recognized 7
+     species, Allen (1939) listed eleven. The
+     acceptance here of two, follows Coetzee (1977b).
+     The range of H. hirtula is included within that of
+     H. parvula.
+
+Helogale hirtula Thomas, 1904. Ann. Mag. Nat. Hist.,
+     ser. 7, 14:97.
+TYPE LOCALITY: "Gabridehari, 60 mi West of Gerlogobi",
+     restricted by Moreau et al. (1946:410) to
+     "south-east Ethiopia (Ogaden) at about 7¯0'N,
+     45¯20'E". Further restricted by Yalden et al.
+     (1980) to "Gabridehari (=Gabredarre, Kebridar)
+     6¯45'N, 44¯17'E".
+DISTRIBUTION: S Ethiopia, S and C Somalia, N and C
+     Kenya.
+SYNONYMS: ahlselli Lînnberg, 1912; annulata
+     Drake-Brockman, 1912; lutescens Thomas, 1911;
+     powelli Drake-Brockman, 1912. 
+
+Helogale parvula (Sundevall, 1847). Ofv. K. Svenska
+     Vet.-Akad. Forhandl. Stockholm, 1846, 3(4):121
+     [1847].
+TYPE LOCALITY: "Caffraria superiore, juxta tropicum",
+     restricted by Roberts (1951) to "Zoutpansberg"
+     [South Africa].
+DISTRIBUTION: Angola, Botswana, Ethiopia, Gambia,
+     Kenya, Malawi, Mozambique, Namibia, Somalia, South
+     Africa, Sudan, Tanzania, Uganda, Zaire, Zambia.
+SYNONYMS: affinis Hollister, 1916; atkinsoni Thomas,
+     1897; bradfieldi Roberts, 1928; brunetta Thomas,
+     1926; brunnula Thomas and Schwann, 1906; ivori
+     Thomas, 1919; macmillani Thomas, 1906; mimetra
+     Thomas, 1926; nero Thomas, 1928; ochracea Thomas,
+     1910; parvus Hollister, 1912; ruficeps Kershaw,
+     1922; rufula Thomas, 1910; undulatus Peters, 1852;
+     varia Thomas, 1902; vetula Thomas, 1911; victorina
+     Thomas, 1902. 
+
+Herpestes Illiger, 1811. Prodr. Syst. Mamm. Avium., p.
+     135.
+TYPE SPECIES: Viverra ichneumon Linnaeus, 1758, by
+     absolute tautonomy, through the replaced name
+     Ichneumon LacÇpäde, 1799 (Melville and Smith,
+     1987).
+COMMENTS: Revised by Pocock (1919, 1937, 1941a) and
+     Bechthold (1939). Coetzee (1977b), and Hayman (in
+     Sanderson, 1940) included Xenogale (see discussion
+     under naso). Allen (1924), considered only
+     ichneumon in this genus and separated sanguineus
+     and pulverulentus into Galerella; for support, he
+     contrasted the large ichneumon with the smaller
+     sanguineus-pulverulentus complex and reported
+     proportional differences in measurements of
+     skeleton and skull. His rationale has been
+     repeated, in some cases verbatum, by Rosevear
+     (1974), Ansell (1978), Smithers (1983), Meester et
+     al. (1986), and Watson and Dippenaar (1987).
+     Taylor et al. (1991) presented an allozyme
+     analysis and argued for generic recognition,
+     however, they did not include Asiatic Herpestes,
+     and their consensus tree made the placement of the
+     sanguineus/pulverulentus clade equivocal. Fredga's
+     (1972) comparative chromosome analysis looked at
+     variation including Asiatic and African Herpestes,
+     and based on this, recognition of Galerella would
+     make Herpestes paraphyletic. Comparison of
+     measurements from Allen (1924), Rosevear (1974),
+     and Smithers (1983) for African forms, and
+     Bechthold (1939) and Pocock (1941a) for Asiatic
+     forms reveals that the large morphological gaps
+     originally identified by Allen (1924), dissolve
+     when Asiatic species are included. Ellerman et al.
+     (1953) and Wozencraft (1989b) suggested that
+     differences between these taxa and other Herpestes
+     are less than those found within Herpestes.
+     Morphological criteria similar to that used by
+     Allen (1924) have mostly been used at the specific
+     level in other carnivores. Although the case is
+     not strong, many recent authors have recognized
+     Galerella and this is provisionally followed here
+     (see comments under Galerella).
+
+Herpestes brachyurus Gray, 1837. Proc. Zool. Soc.
+     Lond., 1836:88 [1837].
+TYPE LOCALITY: "Indian Islands", restricted by Kloss
+     (1917) to "Borneo", however, Thomas (1921c)
+     believed it to be from "Malacca". Pocock, in
+     Chasen (1940), believed the type to be a "Malayan
+     Race".
+DISTRIBUTION: S India, Indonesia (Borneo, Sumatra),
+     Malaysia, Philippine Isls, Singapore, Sri Lanka,
+     Vietnam.
+SYNONYMS: ceylanicus Nevill, 1887; ceylonicus Thomas,
+     1924; dyacorum Thomas, 1921; flavidens Kelaart,
+     1852; fulvescens Kelaart, 1851; fusca Waterhouse,
+     1838; hosei Jentink, 1903; javanensis Bechthold,
+     1936; maccarthiae Gray, 1851; palawanus Allen,
+     1910; parvus Jentink, 1895; phillipsi Thomas,
+     1924; rafflesii Anderson, 1875; rajah Thomas,
+     1921; rubidior Pocock, 1937; siccatus Thomas,
+     1924; sumatrius Thomas, 1921. 
+COMMENTS: Bechthold (1939), followed here, included
+     hosei and fusca, and listed characteristics
+     suggesting that in some respects, semitorquatus
+     was intermediate between brachyurus and urva; this
+     was followed by Medway (1977). Bechthold (1939)
+     believed that fusca (sensu stricto) is most
+     closely related to far-eastern brachyurus forms
+     and considered them conspecific (both forms are
+     short tailed mongooses); however, he gave features
+     of the skull and pelage (used elsewhere at the
+     specific level, i.e., edwardsii vs. javanicus)
+     that distinguished the S India/Sri Lankan
+     populations from those of SE Asia. Here they are
+     provisionally treated as allopatric subspecies.
+     Schwarz (1947) believed semitorquatus to be a red
+     color morph of the dark brachyurus, although he
+     did not address the most distinguishing feature of
+     the collared mongoose - the collar - present in
+     semitorquatus and absent in brachyurus. Medway
+     (1977), followed by Payne et al. (1985),
+     recognized hosei based on differences in the shape
+     of the coronoid process of the mandible. 
+
+Herpestes edwardsii (E. Geoffroy Saint-Hilaire, 1818).
+     Descrip. de L'Egypte, 2:139.
+TYPE LOCALITY: "Indes orientales".
+DISTRIBUTION: Afghanistan, Bahrain, India, Indonesia,
+     Iran, Japan, Kuwait, Malaya (introduced; Wells,
+     1989), Nepal, Pakistan, Saudia Arabia, Sri Lanka.
+     Populations believed to be introductions on Ryukyu
+     Isls, Mauritus, and Reunion Isl (Corbet and Hill,
+     1980).
+STATUS: CITES - Appendix III (India).
+SYNONYMS: andersoni Murray, 1884; carnaticus Wroughton,
+     1921; ellioti Wroughton; ferrugineus Blanford,
+     1874; fimbriatus Temminck, 1853; frederici
+     Desmarest, 1823; griseus E. Geoffroy Saint-Hilaire
+     1818; lanka Wroughton, 1915; malaccensis Fischer,
+     1829; moerens Wroughton, 1915; montanus Bechthold,
+     1936; mungo Blanford, 1888; nyula Hodgson, 1836;
+     pallens Ryley, 1914; pallidus Wagner, 1841;
+     pondiceriana Gervais, 1841; ruddi Thomas, 1903. 
+
+Herpestes ichneumon (Linnaeus, 1758). Syst. Nat., 10th
+     ed., 1:43.
+TYPE LOCALITY: "in ígypto ad ripas Nili,...in India
+     primario; mansuescit", restricted by Thomas
+     (1911a) to "Egypt".
+DISTRIBUTION: Algeria, Angola, Botswana, Cameroon,
+     Chad, Egypt, Ethiopia, Gambia, Ghana, Gibralter,
+     Guinea, Israel, Italy, Ivory Coast, Jordan, Kenya,
+     Lebanon, Liberia, Lybia, Malawi, Morocco,
+     Mozambique, Niger, Portugal, Rwanda, Senegal,
+     Sierra Leone, South Africa, Spain, Sudan, Syria,
+     Tanzania, Togo, Tunisia, Turkey, Uganda, Zaire,
+     Zambia.
+SYNONYMS: aegyptiae Tiedemann, 1808; angolensis Bocage,
+     1890; bennettii Gray, 1837; cafra Gmelin, 1788;
+     centralis Lînnberg, 1917; dorsalis Gray, 1864;
+     egypti Tiedemann, 1808; ferruginea Seabra, 1909;
+     funestus Osgood, 1910; grandis Thomas, 1890;
+     griseus Smuts, 1832; lademanni Matschie, 1914;
+     mababiensis Roberts, 1932; madagascarensis Smith,
+     1834; major Geoffroy Saint-Hilaire 1818; nems
+     Kerr, 1792; numidianus Gray, 1865; numidicus
+     Cuvier, 1834; parvidens Lînnberg, 1908; pharaon
+     LacÇpäde, 1799; sabiensis Roberts, 1926;
+     sangronizi Cabrera, 1924; widdringtonii Gray,
+     1842. 
+
+Herpestes javanicus (E. Geoffroy Saint-Hilaire, 1818).
+     Descrip. de L'Egypte, 2:138.
+TYPE LOCALITY: "Java".
+DISTRIBUTION: Afghanistan, Bangladesh, Bhutan, Burma,
+     Cambodia, China, India, Indonesia, Malaysia,
+     Nepal, Pakistan, Thailand, Vietnam. Introduced to
+     Cuba, Dominican Republic, Fiji Isls, Hawaiian
+     Isls, Jamacia, Japan, Puerto Rico, Surinam, West
+     Indies, and many other tropical regions.
+STATUS: CITES - Appendix III (India) as H.
+     auropunctatus.
+SYNONYMS: auropunctata Hodgson, 1836; birmanicus
+     Thomas, 1886; exilis Gervais, 1841; helvus Ryley,
+     1914; incertus Kloss, 1917; nepalensis Gray, 1837;
+     pallipes Blyth, 1845; peninsulae Schwarz, 1910;
+     perakensis Kloss, 1917; persicus Gray, 1865;
+     rubrifrons Allen, 1909; rutilus Gray, 1861;
+     siamensis Kloss, 1917. 
+COMMENTS: Bechthold (1939), Pocock (1941a), and Lekagul
+     and McNeeley (1977) included Mangusta
+     auropunctata. Wells (1989) discussed the situation
+     for the morphotypes in Indochina. Reviewed by
+     Nellis (1989, Mammalian Species, 342, as H.
+     auropunctatus). 
+
+Herpestes naso de Winton, 1901. Bull. Liverpool Mus.,
+     3:35.
+TYPE LOCALITY: "Cameroon River, West Africa"
+     [Cameroon].
+DISTRIBUTION: Cameroon, Congo, Equatorial Guinea,
+     Gabon, Kenya, Niger, Tanzania, Zaire.
+SYNONYMS: microdon Allen, 1919. 
+COMMENTS: Placed in Xenogale by Allen (1919b), and
+     followed by Rosevear (1974) and Ansell (1978).
+     This taxon, and ichneumon, which is generally
+     recognized as its sister taxon (Allen, 1919b;
+     Rosevear, 1974; Hayman, in Sanderson, 1940), can
+     be distinguished principally by proportional
+     differences of the interorbital region (Rosevear,
+     1974). Hayman (in Sanderson, 1940), Wenzel and
+     Haltenorth (1972), and Coetzee (1977b) did not
+     feel these differences were sufficient to warrant
+     generic distinction, as did Allen (1919b), and
+     Rosevear (1974). Recognition of Xenogale would
+     make Herpestes paraphyletic.
+
+Herpestes palustris Ghose, 1965. Proc. Zool. Soc.
+     Calcutta, 18:174.
+TYPE LOCALITY: "Nalbani (c 8 km east of Calcutta),
+     North Salt Lake, 24-Parganas district, West
+     Bengal, India".
+DISTRIBUTION: India: West Bengal.
+COMMENTS: Wenzel and Haltenorth (1972) speculated that
+     this taxon may be conspecific with auropunctatus
+     (= javanicus); whereas Ewer (1973), based on
+     Ghose's observation that palustris can emit scent
+     similiar to urva speculated on such a relationship
+     to urva.
+
+Herpestes semitorquatus Gray, 1846. Ann. Mag. Nat.
+     Hist., [ser. 1], 18:211.
+TYPE LOCALITY: "Borneo" [Mainland opposite Labuan (=
+     Brunei)].
+DISTRIBUTION: Indonesia (Borneo and Sumatra).
+SYNONYMS: uniformis Robinson and Kloss, 1919. 
+COMMENTS: Schwarz (1947) concluded that semitorquatus
+     was a red color morph of the dark brachyurus, see
+     comments under brachyurus. Placed in subgenus Urva
+     by Bechthold (1939). 
+
+Herpestes smithii Gray, 1837. Mag. Nat. Hist.
+     [Charlesworth's], 1:578.
+TYPE LOCALITY: Not given. Thomas (1923) suggested that
+     it was from the "Bombay Region" but this was
+     questioned by Pocock (1937).
+DISTRIBUTION: India, Sri Lanka.
+STATUS: CITES - Appendix III (India).
+SYNONYMS: canens Thomas, 1921; ellioti Blyth, 1851;
+     jerdonii Gray, 1865; monticolus Jerdon, 1867;
+     rubiginosus Kelaart, 1852; rusanus Thomas, 1921;
+     thysanurus Wagner, 1841; torquatus Kelaart, 1852;
+     zeylanius Thomas, 1921. 
+
+Herpestes urva (Hodgson, 1836). J. Asiat. Soc. Bengal,
+     5:238.
+TYPE LOCALITY: "Central and Northern Regions" [Nepal].
+DISTRIBUTION: Burma, China, India, Laos, Malaysia
+     (Wells and Francis, 1988), Nepal, Taiwan,
+     Thailand, Vietnam.
+STATUS: CITES - Appendix III (India).
+SYNONYMS: annamensis Bechthold, 1936; cancrivora
+     Hodgson, 1837; formosanus Bechthold, 1936; fusca
+     Gray, 1830; hanensis Matschie, 1907; sinensis
+     Bechthold, 1936. 
+
+Herpestes vitticollis Bennett, 1835. Proc. Zool. Soc.
+     Lond., 1835:67.
+TYPE LOCALITY: "in forests about twenty miles inland
+     from Kolun or Quilon, in the Travancore country"
+     [India].
+DISTRIBUTION: S India, Sri Lanka.
+STATUS: CITES - Appendix III (India).
+SYNONYMS: inornatus Pocock, 1941; rubiginosus Wagner,
+     1841. 
+
+Ichneumia I. Geoffroy Saint-Hilaire, 1837. Ann. Sci.
+     Nat. Zool. (Paris), 8(2):251.
+TYPE SPECIES: Herpestes albicaudus G. [Baron] Cuvier,
+     1829, by designation of Geoffroy Saint-Hilaire
+     (1839) (Melville and Smith, 1987).
+
+Ichneumia albicauda (G. [Baron] Cuvier, 1829). Regn.
+     Anim., Nouv. ed., 21:158.
+TYPE LOCALITY: "l'Afrique australe et le SÇnÇgal".
+DISTRIBUTION: Angola, Botswana, Burkina Faso, Central
+     African Republic, Ghana, Ivory Coast, Kenya,
+     Kenya, Mozambique, Namibia, Niger, Nigeria, Oman,
+     Senegal, Sierra Leone, Somalia, South Africa,
+     Sudan, Yemen, Zaire, Zambia, Zimbabwe.
+SYNONYMS: abuwudan Fitzinger and Heuglin, 1866;
+     albescens I. Geoffroy Saint-Hilaire 1839;
+     almodovari Cabrerra, 1902; dialeucos Hollister,
+     1916; ferox Heller, 1913; grandis Thomas, 1890;
+     haagneri Roberts, 1924; ibeanus Thomas, 1904;
+     leucurus Hemprich and Ehrenberg, 1833; loandae
+     Thomas, 1904; loempo Temminck, 1853; nigricauda
+     Pucheran, 1855. 
+COMMENTS: Reviewed by Taylor (1972, Mammalian Species,
+     12). 
+
+Liberiictis Hayman, 1958. Ann. Mag. Nat. Hist., ser.
+     13, 1:449.
+TYPE SPECIES: Liberiictis kuhni Hayman, 1958, by
+     original designation.
+
+Liberiictis kuhni Hayman, 1958. Ann. Mag. Nat. Hist.,
+     ser. 13, 1:449.
+TYPE LOCALITY: "Kpeaplay, north-east Liberia, about
+     6¯36'N, 8¯30'W".
+DISTRIBUTION: Liberia and Ivory Coast (Taylor, in
+     litt.).
+STATUS: IUCN - Endangered.
+COMMENTS: Reviewed by Goldman and Taylor (1990,
+     Mammalian Species, 348). 
+
+Mungos E. Geoffroy Saint-Hilaire and F. G. Cuvier,
+     1795. Mag. Encyclop., 2:184, 187.
+TYPE SPECIES: Not given; Viverra mungo Gmelin, 1788,
+     designated by Muirhead (1819) (Melville and Smith,
+     1987).
+COMMENTS: Allen (1919b) discussed the nomenclatural
+     history of this name. 
+
+Mungos gambianus (Ogilby, 1835). Proc. Zool. Soc.
+     Lond., 1835:102.
+TYPE LOCALITY: "Gambia".
+DISTRIBUTION: Gambia, Ghana, Ivory Coast, Niger,
+     Nigeria, Senegal, Sierra Leone, Togo.
+
+Mungos mungo (Gmelin, 1788). In Linnaeus, Syst. Nat.,
+     13th ed., 1:84.     
+TYPE LOCALITY: "Bengala, Persia, aliisque asiae", restricted
+by Ogilby (1835:101) to "Gambia". However, Thomas
+(1882) believed it to be in the eastern part of South
+Africa, Cape Prov., as did Roberts (1929).
+DISTRIBUTION: Angola, Botswana, Burundi, Cameroon,
+     Central African Republic, Chad, Ethiopia,
+     Guinea-Bissau, Kenya, Malawi, Mozambique, Namibia,
+     Niger, Nigeria, Rwanda, Senegal, Somalia, South
+     Africa, Sudan, Tanzania, Uganda, Zaire, Zambia,
+     Zimbabwe.
+SYNONYMS: adailensis Heuglin, 1861; bororensis Roberts,
+     1929; colonus Heller, 1911; damarensis Zukowsky,
+     1956; fasciatus Desmarest, 1823; gothneh Heuglin
+     and Fitzinger, 1866; grisonax Thomas, 1926;
+     leucostethicus Heuglin and Fitzinger, 1866;
+     macrosus Lydekker, 1907; macrurus Thomas, 1907;
+     mandjarum Schwarz, 1915; ngamiensis Roberts, 1932;
+     pallidipes Roberts, 1929; rossi Roberts, 1929;
+     senescens Thomas and Wroughton, 1907; somalicus
+     Thomas, 1895; taenianotus Smith, 1834; talboti
+     Thomas and Wroughton, 1908; zebra RÅppell, 1835;
+     zebroides Lînnberg, 1908.
+
+Paracynictis Pocock, 1916. Ann. Mag. Nat. Hist., ser.
+     8, 17:177.
+TYPE SPECIES: Cynictis selousi de Winton, 1896, by
+     original designation (Melville and Smith, 1987).
+
+Paracynictis selousi (de Winton, 1896). Ann. Mag. Nat.
+     Hist., ser. 6, 18:469.
+TYPE LOCALITY: "found on a grassy heap under a tree,
+     EssexVale, Matabeleland. . . near Bulawayo"
+     [Zimbabwe].
+DISTRIBUTION: Angola, Botswana, Malawi, Mozambique,
+     Namibia, South Africa, Zambia, Zimbabwe.
+SYNONYMS: bechuanae Roberts, 1932; ngamiensis Roberts,
+     1932; sengaani Roberts, 1931. 
+
+Rhynchogale Thomas, 1894. Proc. Zool. Soc. Lond.,
+     1894:139.
+TYPE SPECIES: Rhinogale melleri Gray, 1865, by monotypy
+     through the replaced name Rhinogale Gray, 1865.
+
+Rhynchogale melleri (Gray, 1865). Proc. Zool. Soc.
+     Lond., 1864:575 [1865].)
+TYPE LOCALITY: "from a ravine on the outskirts of the
+     Otto Estate, near Mbweni, about 2´  miles west of
+     Kilosa, Tanganyika Territory" [Tanzania] (pg. 79).
+DISTRIBUTION: Malawi, Mozambique, South Africa,
+     Tanzania, Zaire, Zambia, Zimbabwe.
+SYNONYMS: caniceps Kershaw, 1924; langi Roberts, 1938. 
+
+Suricata Desmarest, 1804. Tabl. MÇth. Hist. Nat., in
+     Nouv. Dict. Hist. Nat., 24:15.
+TYPE SPECIES: Suricata capensis Desmarest, 1804 (=
+     Viverra suricatta Erxleben, 1777), by monotypy
+     (Melville and Smith, 1987).
+
+Suricata suricatta (Schreber, 1776). Die SÑugethiere,
+     pl. 117 [1776].
+TYPE LOCALITY: Listed as "Cape of Good Hope" by Meester
+     et al. (1986), restricted by Thomas and Schwann
+     (1905:133) to "Deelfontein" [South Africa].
+DISTRIBUTION: Angola, Namibia, South Africa, S
+     Botswana.
+SYNONYMS: capensis Desmarest, 1804; hahni Thomas, 1927;
+     hamiltoni Thomas and Schwann, 1905; lophurus
+     Thomas and Schwann, 1905; marjoriae Bradfield,
+     1936; namaquensis Thomas and Schwann, 1905;
+     surakatta Smith, 1826; tetradactyla Pallas 1778;
+     typicus Smith, 1834; viverrina Desmarest, 1819;
+     zenik Scopoli, 1786. 
+
+Family Hyaenidae Gray, 1821. London Med. Repos.,
+     15:302.
+COMMENTS: Type genus: Hyaena BrÅnnich, 1771, by
+     original designation. Reviewed by Ronnefeld (1969)
+     and revised by Werdelin and Solounias (1991). 
+
+Subfamily Hyaeninae Gray, 1821. London Med. Repos.,
+     15:302.
+COMMENTS: Type genus: Hyaena BrÅnnich, 1771, by
+     original designation. Mivart (1882) was first to
+     restrict the subfamily to taxa considered here. 
+
+Crocuta Kaup, 1828. Oken's Isis. Encyclop. Zeit,
+     21(11), column 1145.
+TYPE SPECIES: Canis crocuta Erxleben, 1777, by original
+     designation.
+COMMENTS: Antedated by Crocuta Meigen, 1800 (an
+     insect), but this name has been suppressed
+     (International Commission on Zoological
+     Nomenclature, 1962). 
+
+Crocuta crocuta (Erxleben, 1777). Syst. Regni Anim.,
+     1:578.
+TYPE LOCALITY: "Guinea, Aethiopia, ad caput bonae spei
+     in terrae rupiumque caueis", restricted by Cabrera
+     (1911:95) to "Senegambia".
+DISTRIBUTION: Angola, Botswana, Cameroon, Ethiopia,
+     Gabon, Gambia, Guinea, Kenya, Malawi, Mauritania,
+     Mozambique, Namibia, Nigeria, Senegal, Sierra
+     Leone, Somalia, South Africa, Sudan, Tanzania,
+     Togo, Uganda, Zaire, Zambia, Zimbabwe.
+SYNONYMS: capensis Desmarest, 1817; colvini Lydekker,
+     1844; croacuta A. Smith, 1826; cuvieri Boitard,
+     1842; encrita Smith, 1827; felina Lydekker, 1844;
+     fisi Heller, 1914; fortis Allen, 1924; gariepensis
+     Matschie, 1900; germinans Matschie, 1900;
+     habessynica Blainville, 1844; kibonotensis
+     Lînnberg, 1905; leontiewi Satunin, 1905; maculata
+     Thunberg, 1811; noltei Matschie, 1900; nyasae
+     Cabrera, 1911; nzoyae Cabrera, 1911; panganensis
+     Lînnberg, 1905; rufa Desmarest, 1817; rufopicta
+     Cabrera, 1911; sivalensis Falconer and Cautley,
+     1868; spelaea Goldfuss, 1823; thierryi Matschie,
+     1900; thomasi Cabrera, 1911; togoensis Matschie,
+     1900; ultima Matsumoto, 1915; venustula Ewer,
+     1954; weissmanni Trouessart, 1904; wissmanni
+     Matschie, 1900. 
+COMMENTS: Revised by Matthews (1939). 
+
+Hyaena BrÅnnich, 1771. Zool. Fundamenta, p. 34, 42, 43.
+TYPE SPECIES: Canis hyaena Linnaeus, 1758, by original
+     designation.
+COMMENTS: Revised by Pocock (1934c). Hyaena Brisson,
+     1762, is unavailable (International Commission on
+     Zoological Nomenclature, 1955). See comments under
+     Parahyaena for exclusion of brunnea here. 
+
+Hyaena hyaena (Linnaeus, 1758). Syst. Nat. 10th ed.,
+     1:40.
+TYPE LOCALITY: "India", restricted by Thomas
+     (1911a:134) to "Benna Mts., Laristan, S. Persia".
+DISTRIBUTION: Afghanistan, Algeria, Egypt, Ethiopia,
+     India, Iran, Iraq, Israel, Kenya, Libya, Mali,
+     Morocco, Nepal, Nigeria, Pakistan, Saudia Arabia,
+     Sierra Leone, Somalia, South Africa, Sudan,
+     Tanzania, republics of the former USSR, Yemen.
+STATUS: U.S. ESA and IUCN - Endangered as H. h.
+     barbara.
+SYNONYMS: antiquorum Temminck, 1820; barbara de
+     Blainville, 1844; bergeri Matschie, 1910;
+     bilkiewiczi Satunin, 1905; bokcharensis Satunin,
+     1905; dubbah Meyer, 1793; dubia Schinz, 1821;
+     fasciata Thunberg, 1820; hienomelas Matschie,
+     1900; hyaenomelas Desmarest, 1820; indica de
+     Blainville, 1844; orientalis Tiedemann, 1808;
+     rendilis Lînnberg, 1912; satunini Matschie, 1910;
+     schillingsi Matschie, 1900; striata Zimmerman,
+     1777; suilla Filippi, 1853; sultana Pocock, 1934;
+     syriaca Matschie, 1900; virgata Ogilby, 1840;
+     vulgaris Desmarest, 1820; zarudnyi Satunin, 1905. 
+COMMENTS: Reviewed by Rieger (1981, Mammalian Species,
+     150). 
+
+Parahyaena Hendey, 1974. Ann. S. Afr. Mus., 63:149.
+TYPE SPECIES: Hyaena brunnea Thunberg, 1820.
+COMMENTS: Some have considered Hyaena to include
+     brunnea, however, this would be a paraphyletic
+     group among extant (Werdelin and Solounias, 1991)
+     and/or fossil taxa (Galiano and Frailey, 1977;
+     Hendey, 1974). 
+
+Parahyaena brunnea (Thunberg, 1820). K. Svenska
+     Vet.-Acad. Handl. Stockholm, p. 59. 
+TYPE LOCALITY: "Goda Hopps Udden; Sîdra Afrika" [South
+     Africa, Cape Prov., Cape of Good Hope].
+DISTRIBUTION: Botswana, Mozambique, Namibia, Orange
+     Free State, South Africa, Zimbabwe.
+STATUS: CITES - Appendix I; U.S. ESA - Endangered; IUCN
+     - Vulnerable.
+SYNONYMS: fusca Geoffroy Saint-Hilaire, 1825; makapani
+     Toerien, 1952; melampus Pocock, 1935; striata
+     Smith, 1826; villosa Smith, 1827. 
+COMMENTS: Reviewed by Mills (1982, Mammalian Species,
+     194, as Hyaena brunnea). 
+
+Subfamily Protelinae I. Geoffroy Saint-Hilaire, 1851.
+     Cat. MÇth. Coll. Mamm. Ois. (Mus. Hist. Nat.
+     Paris):xiv.
+COMMENTS: Type genus: Proteles I. Geoffroy
+     Saint-Hilaire, 1824, by original designation
+     (Melville and Smith, 1987). Ronnefeld (1969) and
+     Meester et al. (1986) placed Proteles in a
+     separate family. 
+
+Proteles I. Geoffroy Saint-Hilaire, 1824. Bull. Sci.
+     Soc. Philom. Paris, 1824:139.
+TYPE SPECIES: Proteles lalandii I. Geoffroy
+     Saint-Hilaire, 1824 (= Viverra cristata Sparrman,
+     1783), by original designation (Melville and
+     Smith, 1987).
+
+Proteles cristatus (Sparrman, 1783). Resa
+     Goda-Hopps-Udden. I., 1783:581.
+TYPE LOCALITY: English translation (Sparrman, 1786) of
+     original locality: "Agter-Bruntjes hoogte...which
+     takes in the upper part of Kleine Visch-rivier,
+     and is separated from Camdebo by Bruntjes
+     hoogtens..."; listed in Allen (1939) as "Near
+     Little Fish River, Somerset East, Cape Colony"
+     [South Africa].
+DISTRIBUTION: Angola, Botswana, Central African
+     Republic, Egypt, Ethiopia, Kenya, Mozambique,
+     Namibia, Somalia, South Africa, Sudan, Tanzania,
+     Uganda, Zambia, Zimbabwe.
+STATUS: CITES - Appendix III (Botswana).
+SYNONYMS: canescens Shortridge and Carter, 1938;
+     harrisoni Rothschild, 1902; hyenoides Desmarest,
+     1822; lalandii I. Geoffroy Saint-Hilaire, 1824;
+     pallidior Cabrera, 1910; septentrionalis
+     Rothschild, 1902; termes Heller, 1913;
+     transvaalensis Roberts, 1932; typicus A. Smith,
+     1833. 
+COMMENTS: Reviewed by Koehler and Richardson (1990,
+     Mammalian Species, 363). 
+
+Family Mustelidae G. Fischer, 1817. MÇm. Soc. Imp. Nat.
+     Moscow, 5:372.
+COMMENTS: For review of subfamily relationships, see
+     Muizon (1982b) and Wozencraft (1989a).
+     Conservation status of family reviewed by
+     Schreiber et al. (1989). 
+
+Subfamily Lutrinae Bonaparte, 1838. Nuovi Ann Sci.
+     Nat., 2:111.   
+COMMENTS: Revised by Pocock (1941a), van Zyll de Jong (1972,
+1987, 1991a), and Pohle (1920). Reviewed by Harris
+(1968) and I. I. Sokolov (1973). Foster-Turley et al.
+(1990) reviewed the conservation status and
+distribution of otters. 
+
+Amblonyx Rafinesque, 1832. Atlantic Journal and Friend
+     of Knowledge, 1(2):62.
+TYPE SPECIES: Lutra concolor Rafinesque, 1832 (= Lutra
+     cinerea Illiger, 1815).
+SYNONYMS: Leptonyx Lesson, 1842; Micraonyx J.A. Allen,
+     1919. 
+COMMENTS: Osgood (1932), Ellerman and Morrison-Scott
+     (1951), Coetzee (1977b), and Meester et al. (1986)
+     considered Amblonyx Rafinesque, 1832, as
+     congeneric with Aonyx; here separated based on
+     Harris (1968), van Zyll de Jong (1972, 1987), and
+     Medway (1977). 
+
+Amblonyx cinereus (Illiger, 1815). Abh. Phys. Klasse K.
+     Preuss. Akad. Wiss., 1804-1811:99 [1815].
+TYPE LOCALITY: "Batavia" [Indonesia, Java, Jakarta].
+DISTRIBUTION: India, Bangladesh, Burma, S China and
+     Hainan Isl; Taiwan; Indochina to Indonesia
+     (Sumatra, Java, Borneo); Ph

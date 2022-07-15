@@ -1,0 +1,509 @@
+ORDER XENARTHRA by Alfred L. Gardner
+
+ORDER XENARTHRA
+SYNONYMS: Edentata Vicq-d'Azyr, 1792. 
+COMMENTS: Reviewed by Wetzel (1985a). 
+
+Family Bradypodidae Gray, 1821. London Med. Repos.,
+     15:304.
+
+Bradypus Linnaeus, 1758. Syst. Nat., 10th ed., 1:34.
+TYPE SPECIES: Bradypus tridactylus Linnaeus, 1758, by
+     subsequent designation (Miller and Rehn, 1901).
+SYNONYMS: Acheus F. Cuvier, 1825; Arctopithecus Gray,
+     1850 (preoccupied); Eubradypus Lînnberg, 1942;
+     Hemibradypus Anthony, 1906; Ignavus Blumenbach,
+     1779; Scaeopus Peters, 1864. 
+COMMENTS: Avila-Pires (in Wetzel and Avila-Pires, 1980)
+     considered Scaeopus a separate genus. 
+
+Bradypus torquatus Illiger, 1811. Prodr. Syst. Mamm.
+     Avium, p. 109.
+TYPE LOCALITY: "Brasilia;" restricted to the Atlantic
+     drainage of the Brazilian states of Bahia,
+     Esp°rito Santo, and Rio de Janeiro, by Wetzel and
+     Avila-Pires (1980).
+DISTRIBUTION: Coastal forests of SE Brazil.
+STATUS: U.S. ESA and IUCN - Endangered.
+SYNONYMS: crinitus Gray, 1850; cristatus
+     Hamilton-Smith, 1827; mareyi Anthony, 1907;
+     melanotis Swainson, 1835. 
+COMMENTS: Some authors believe erroneously that B.
+     torquatus Illiger, 1811, is a nomen nudum and
+     attribute the name to Desmarest (1816a). 
+
+Bradypus tridactylus Linnaeus, 1758. Syst. Nat., 10th
+     ed., 1:34.
+TYPE LOCALITY: "Americë meridionalis arboribus;"
+     restricted to Surinam by Thomas (1911a).
+DISTRIBUTION: Guyana, Surinam, French Guiana, Venezuela
+     south of the Orinoco, and N Brazil (south to the
+     southern bank of the Amazonas/Solimoes).
+SYNONYMS: ai Lesson, 1827; blainvillii Gray, 1850;
+     cummunis Lesson, 1841; flaccidus Gray, 1850;
+     cuculliger Wagler, 1831; gularis RÅppell, 1842. 
+
+Bradypus variegatus Schinz, 1825. Das Thierreich,
+     4:510.
+TYPE LOCALITY: "Sudamerika;" restricted to Brazil by
+     Mertens (1925) who suggested that the type may
+     have come from Bahia.
+DISTRIBUTION: Honduras to Colombia, Ecuador, Brazil, W
+     Venezuela, E Per£ and Bolivia, Paraguay, and N
+     Argentina.
+STATUS: CITES - Appendix II.
+SYNONYMS: ai Wagler, 1831 (preoccupied); beniensis
+     Lînnberg, 1942; boliviensis Gray, 1871;
+     brachydactylus Wagner, 1855; brasiliensis
+     Blainville, 1840; castaneiceps Gray, 1871;
+     codajazensis Lînnberg, 1942; dorsalis Fitzinger,
+     1871; ecuadorianus Spillmann, 1927; ephippiger
+     Philippi, 1870; gorgon Thomas, 1926; griseus Gray,
+     1871; infuscatus Wagler, 1831; ignavus Goldman,
+     1913; macrodon Thomas, 1917; marmoratus Gray,
+     1850; miritibae Lînnberg, 1942; nefandus
+     Spillmann, 1927; pallidus Wagner, 1844;
+     problematicus Gray, 1850; subjuruanus Lînnberg,
+     1942; tocantinus Lînnberg, 1942; trivittatus
+     Cornalia, 1849; unicolor Fitzinger, 1871; ustus
+     Lesson, 1840; violeta Thomas, 1917.
+
+Family Megalonychidae Ameghino, 1889. Actas Acad. Nac.
+     Cienc. Cordoba, Buenos Aires, 6:690.
+COMMENTS: Includes Choloepus and approximately 12
+     genera of extinct sloths. 
+
+Subfamily Choloepinae Gray, 1871. Proc. Zool. Soc.
+     Lond., 1871:430.
+COMMENTS: Formerly included in Bradypodidae (see
+     Hoffstetter, 1969; Patterson and Pascual, 1968a)
+     or Choloepidae (see Honacki et al., 1982). Placed
+     in Megalonychidae by Webb (1985) and Wetzel
+     (1985a). 
+
+Choloepus Illiger, 1811. Prodr. Syst. Mamm. Avium., p.
+     108.
+TYPE SPECIES: Bradypus didactylus Linnaeus, 1758, by
+     subsequent designation (Gray, 1827).
+SYNONYMS: Unaues Rafinesque, 1815; Unaus Gray, 1821. 
+COMMENTS: Reviewed by Wetzel (1985a). 
+
+Choloepus didactylus (Linnaeus, 1758). Syst. Nat., 10th
+     ed., 1:35.
+TYPE LOCALITY: "Zeylona;" corrected to Surinam by
+     Thomas (1911a). Not British Guiana as stated by
+     Tate (1939).
+DISTRIBUTION: Guianas and Venezuela (delta and south of
+     R°o Orinoco) south into Brazil (Maranhao west
+     along Rio Amazonas/Solimoes) and west into upper
+     Amazon Basin of Ecuador and Per£.
+SYNONYMS: brasiliensis Fitzinger, 1871; curi Link,
+     1795; florenciae J. A. Allen, 1913; kouri Daudin,
+     1799; napensis Lînnberg, 1922; unau Link, 1795. 
+COMMENTS: Reviewed by Wetzel and Avila-Pires (1980). 
+
+Choloepus hoffmanni Peters, 1858. Monatsb. K. Preuss.
+     Akad. Wiss. Berlin, 1858:128.
+TYPE LOCALITY: "Costa Rica;" restricted to San JosÇ,
+     Escaz£, by Goodwin (1946); corrected to Heredia,
+     Volc†n Barbara, by Wetzel and Avila-Pires (1980).
+DISTRIBUTION: Central America (Nicaragua) into South
+     America east to W Venezuela and south to Brazil
+     (Mato Grosso) and E Bolivia.
+STATUS: CITES - Appendix III (Costa Rica).
+SYNONYMS: andinus J. A. Allen, 1913; augustinus J. A.
+     Allen, 1913; capitalis J. A. Allen, 1913;
+     florenciae J. A. Allen, 1913; juruanus Lînnberg,
+     1942; pallescens Lînnberg, 1928; peruvianus
+     Menegaux, 1906.
+
+Family Dasypodidae Gray, 1821. London Med. Repos.,
+     15:305.
+
+Subfamily Chlamyphorinae Bonaparte, 1850. Conspectus
+     Syst., p. 4.
+
+Chlamyphorus Harlan, 1825. Ann. Lyc. Nat. Hist. N.Y.,
+     1:235.
+TYPE SPECIES: Chlamyphorus truncatus Harlan, 1825, by
+     monotypy.
+SYNONYMS: Burmeisteria Gray, 1865 (preoccupied);
+     Calyptophractus Fitzinger, 1871. 
+
+Chlamyphorus retusus Burmeister, 1863. Abhandl. Gesd.
+     Naturf. Halle, 7:167.
+TYPE LOCALITY: Bolivia, Santa Cruz, "Sta. Cruz de la
+     Sierra."
+DISTRIBUTION: Gran Chaco of N Argentina, W Paraguay,
+     and SE Bolivia.
+STATUS: IUCN - Insufficiently known.
+SYNONYMS: clorindae Yepes, 1939. 
+COMMENTS: Commonly listed under Burmeisteria retusa;
+     reviewed by Wetzel (1985b). 
+
+Chlamyphorus truncatus Harlan, 1825. Ann. Lyc. Nat.
+     Hist. N.Y., 1:235.
+TYPE LOCALITY: "Mendoza . . . interior of Chili, on the
+     east of the Cordilleras, in lat. 33¯25' and long.
+     69¯47', in the province of Cuyo;" restricted to
+     R°o Tunuy†n, 33¯25'S, 69¯45'W, Mendoza, Argentina,
+     by Cabrera (1958).
+DISTRIBUTION: Argentina.
+STATUS: U.S. ESA - Endangered; IUCN - Insufficiently
+     known.
+SYNONYMS: minor Lahille, 1895; ornatus Lahille, 1895;
+     patquiensis Yepes, 1931; typicus Lahille, 1895. 
+
+Subfamily Dasypodinae Gray, 1821. London Med. Repos.,
+     15:305.
+COMMENTS: Wetzel (1985b) divided the subfamily into the
+     four tribes: Dasypodini, Euphractini, Priodontini,
+     and Tolypeutini. 
+
+Cabassous McMurtrie, 1831. Anim. Kingdom, 1:164.
+TYPE SPECIES: Dasypus unicinctus Linnaeus, 1758, by
+     monotypy. 
+SYNONYMS: Arizostus Gloger, 1841; Lysiurus Ameghino, 1891;
+Tatusia Lesson, 1827 (part); Tatoua Gray, 1865; Xenurus
+Wagler, 1830 (preoccupied); Ziphila Gray, 1873. 
+COMMENTS: Revised by Wetzel (1980). 
+
+Cabassous centralis (Miller, 1899). Proc. Biol. Soc.
+     Washington, 13:4.
+TYPE LOCALITY: Honduras, CortÇs, "Chamelecon."
+DISTRIBUTION: MÇxico (Chiapas) to N Colombia.
+STATUS: CITES - Appendix III (Costa Rica).
+
+Cabassous chacoensis Wetzel, 1980. Ann. Carnegie Mus.,
+     49(2):335.
+TYPE LOCALITY: Paraguay, Presidente Hayes, "5-7 km W
+     Estancia Juan de Zalazar."
+DISTRIBUTION: Gran Chaco of W Paraguay and NW
+     Argentina. Known from Mato Grosso, Brazil, on the
+     basis of one zoological park specimen (Wetzel,
+     1980).
+
+Cabassous tatouay (Desmarest, 1804). Tabl. MÇth. Hist.
+     Nat., in Nouv. Dict. Hist. Nat., 24:28.
+TYPE LOCALITY: Paraguay, restricted to "a 27¯ de lat.
+     sur" by Cabrera (1958).
+DISTRIBUTION: Uruguay, S Brazil, SE Paraguay, and NE
+     Argentina.
+STATUS: CITES - Appendix III (Uruguay).
+SYNONYMS: dasycercus G. Fischer, 1814; gymnurus Olfers,
+     1818; nudicaudus Lund, 1839. 
+
+Cabassous unicinctus (Linnaeus, 1758). Syst. Nat., 10th
+     ed., 1:50.
+TYPE LOCALITY: "Africa;" restricted to "l'AmÇrique" by
+     Buffon (1763), and to Surinam by Thomas (1911a).
+DISTRIBUTION: South America east of the Andes from
+     Colombia to Mato Grosso do Sul, Brazil.
+SYNONYMS: duodecimcinctus Schreber, 1774; hispidus
+     Burmeister, 1854; latirostris Gray, 1873;
+     loricatus Wagner, 1855; multicinctus Thunberg,
+     1818; octodecimcinctus Erxleben, 1777;
+     squamicaudis Lund, 1845; verrucosus Wagner, 1844.
+
+Chaetophractus Fitzinger, 1871. Sitzb. Kaiserl. Akad.
+     Wiss., Wein, 64(1):268.
+TYPE SPECIES: Dasypus villosus (Desmarest, 1804) by
+     subsequent designation (Yepes, 1928).
+SYNONYMS: Dasyphractus Fitzinger, 1871; Loricatus
+     Desmarest, 1804 (part); Tatus Olfers, 1818 (part);
+     Tatusia Lesson, 1827 (part). 
+COMMENTS: Formerly included in Euphractus (see Wetzel,
+     1985b) 
+
+Chaetophractus nationi (Thomas, 1894). Ann. Mag. Nat.
+     Hist., ser. 6, 13:70.
+TYPE LOCALITY: Bolivia, Oruro, "Orujo."
+DISTRIBUTION: Cochabamba, Oruro, and La Paz (Bolivia).
+COMMENTS: Distribution and status uncertain, may be a
+     subspecies of vellerosus (see Wetzel, 1985b). 
+
+Chaetophractus vellerosus (Gray, 1865). Proc. Zool.
+     Soc. Lond., 1865:376.
+TYPE LOCALITY: Bolivia, Santa Cruz, "Santa Cruz de la
+     Sierra."
+DISTRIBUTION: Chaco Boreal of Bolivia and Paraguay
+     south to C Argentina and west to the Puna de
+     Tarapac† of Chile.
+SYNONYMS: boliviensis Grandidier and Neveu-Lemaire,
+     1908; brevirostris Fitzinger, 1871; desertorum
+     Krumbiegel, 1940; pannosus Thomas, 1902. 
+
+Chaetophractus villosus (Desmarest, 1804). Tabl. MÇth.
+     Hist. Nat., in Nouv. Dict. Hist. Nat., 24:28.
+TYPE LOCALITY: Argentina, Buenos Aires, "Les Pampas"
+     south of R°o de la Plata between 35¯ and 36¯ south
+     (Azara, 1801:164).
+DISTRIBUTION: Gran Chaco of Bolivia, Paraguay, and
+     Argentina south to Santa Cruz, Argentina, and
+     Magallanes, Chile.
+SYNONYMS: octocinctus Molina, 1782 (preoccupied). 
+
+Dasypus Linnaeus, 1758. Syst. Nat., 10th ed., 1:50.
+TYPE SPECIES: Dasypus novemcinctus Linnaeus, 1758, by
+     Linnaean tautonomy.
+SYNONYMS: Cachicamus McMurtrie, 1831; Cataphractus
+     Storr, 1780; Hyperoambon Peters, 1864; Loricatus
+     Desmarest, 1804; Muletia Gray, 1874; Praopus
+     Burmeister, 1854; Tatu Blumenbach, 1779; Tatusia
+     Lesson, 1827; Zonoplites Gloger, 1841.
+COMMENTS: Reviewed by Wetzel (1985b) and Wetzel and
+     Mondolfi (1979). 
+
+Dasypus hybridus (Desmarest, 1804). Tabl. MÇth. Hist.
+     Nat., in Nouv. Dict. Hist. Nat., 24:28.
+TYPE LOCALITY: Paraguay, Misiones, San Ignacio (as
+     restricted by Cabrera, 1958).
+DISTRIBUTION: Argentina, Paraguay, and S Brazil south
+     to R°o Negro, Argentina.
+SYNONYMS: auritus Olfers, 1818. 
+COMMENTS: Includes a paratype of mazzai Yepes, 1933
+     (Wetzel and Mondolfi, 1979). 
+
+Dasypus kappleri Krauss, 1862. Archiv Naturgesch.,
+     28(1):20.
+TYPE LOCALITY: "Den UrwÑldern des Marowiniflusse in
+     Surinam;" restricted to the neighborhood of Albina
+     near the mouth of the Marowijne River by Husson
+     (1978).
+DISTRIBUTION: Colombia (east of the Andes), Venezuela
+     (south of the Orinoco), Guyana, Surinam, and south
+     through the Amazon Basin of Brazil, Ecuador and
+     Per£.
+SYNONYMS: beniensis Lînnberg, 1942; pastasae Thomas,
+     1901; pentadactylus Peters, 1864. 
+
+Dasypus novemcinctus Linnaeus, 1758. Syst. Nat., 10th
+     ed., 1:51.
+TYPE LOCALITY: "America Meridionali;" restricted to
+     Pernambuco, Brazil, by Cabrera (1958).
+DISTRIBUTION: S USA, MÇxico, Central and South America
+     to N Argentina, the Lesser Antilles (Grenada), and
+     Trinidad and Tobago.
+SYNONYMS: aequatorialis Lînnberg, 1913; boliviensis
+     Gray, 1873; brevirostris Gray, 1873; davisi
+     Russell, 1953; fenestratus Peters, 1864;
+     granadiana Gray, 1873; hoplites G. M. Allen, 1911;
+     leptocephala Gray, 1873; leptorhynchus Gray, 1873;
+     longicaudatus Kerr, 1792; longicaudatus Daudin, in
+     LacÇpäde, 1799; longicaudus Wied, 1826; lundi
+     Fitzinger, 1871; mazzai Yepes, 1933; mexianae
+     Hagmann, 1908; mexicanus Peters, 1864; niger
+     Desmarest, 1804; niger Olfers, 1818 (preoccupied);
+     niger Lichtenstein, 1818 (preoccupied); octocintus
+     Schreber, 1774; peba Desmarest, 1822; serratus G.
+     Fischer, 1814; texanum Bailey, 1905; uroceras
+     Lund, 1839.
+COMMENTS: Reviewed by McBee and Baker (1982, Mammalian
+     Species, 162). 
+
+Dasypus pilosus (Fitzinger, 1856). Versamml. Deutsch.
+     Nat. Arzte, Wien, Tageblatt, 32:123.
+TYPE LOCALITY: "Peru;" restricted to montane Per£ by
+     Wetzel and Mondolfi (1979).   
+DISTRIBUTION: Known only from the Peruvian Andes in San
+Mart°n, La Libertad, Hu†nuco, and Jun°n.
+SYNONYMS: hirsutus Burmeister, 1862. 
+
+Dasypus sabanicola Mondolfi, 1968. Mem. Soc. Cienc.
+     Nat. La Salle, 27:151.
+TYPE LOCALITY: Venezuela, Apure, "Hato Macanillal."
+DISTRIBUTION: Llanos of Venezuela and Colombia.
+
+Dasypus septemcinctus Linnaeus, 1758. Syst. Nat., 10th
+     ed., 1:51.
+TYPE LOCALITY: "Indiis;" restricted to Pernambuco,
+     Brazil, by Hamlett (1939).
+DISTRIBUTION: Lower Amazon Basin of Brazil to the Gran
+     Chaco of Bolivia, Paraguay, and N Argentina.
+SYNONYMS: megalolepis Cope, 1889; propalatum Rhoads,
+     1894. 
+
+Euphractus Wagler, 1830. Naturliches Syst. Amphibien,
+     p. 36.
+TYPE SPECIES: Dasypus sexcinctus Linnaeus, 1758, by
+     subsequent designation (Palmer, 1904).
+SYNONYMS: Encoubertus McMurtrie, 1831 (part); Loricatus
+     Desmarest, 1804 (part); Pseudotroctes Gloger,
+     1841; Scleropleura Milne-Edwards, 1871; Tatus
+     Olfers, 1818 (part). 
+COMMENTS: Moeller (1968) included Chaetophractus and
+     Zaedyus in this genus, contra Wetzel (1985b) whose
+     usage is followed here. 
+
+Euphractus sexcinctus (Linnaeus, 1758). Syst. Nat.,
+     10th ed., 1:51.
+TYPE LOCALITY: "America meridionale;" restricted to
+     Par†, Brazil, by Thomas (1907b).
+DISTRIBUTION: S Surinam and adjacent Brazil as a
+     northern isolated segment; E Brazil to Bolivia,
+     Paraguay, Uruguay, and N Argentina as the main
+     population.
+SYNONYMS: boliviae Thomas, 1907; bruneti Milne-Edwards,
+     1871; encoubert Desmarest, 1822; flavimanus
+     Desmarest, 1804; flavipes G. Fischer, 1814;
+     gilvipes Lichtenstein, 1818; mustelinus Fitzinger,
+     1871; poyu Larra§aga, 1923; setosus Wied, 1826;
+     tucumanus Thomas, 1907.
+COMMENTS: Reviewed by Wetzel (1985b) and Redford and
+     Wetzel (1985, Mammalian Species, 252). 
+
+Priodontes F. Cuvier, 1825. Dentes des Mamm., p. 257.
+TYPE SPECIES: Dasypus gigas G. Cuvier, 1817 (= Dasypus
+     maximus Kerr, 1792), by monotypy.
+SYNONYMS: Cheloniscus Wagler, 1830; Loricatus
+     Desmarest, 1804 (part); Polygomphius Gloger, 1841;
+     Priodon McMurtrie, 1831; Prionodos Gray, 1865. 
+COMMENTS: Reviewed by Wetzel (1985b). 
+
+Priodontes maximus (Kerr, 1792). In Linnaeus, Anim.
+     Kingdom, 1:112.
+TYPE LOCALITY: French Guiana, "Cayenne."
+DISTRIBUTION: South America east of the Andes from N
+     Venezuela and the Guianas south to Paraguay and N
+     Argentina.
+STATUS: CITES - Appendix I; U.S. ESA - Endangered; IUCN
+     - Vulnerable as P. giganteus.
+SYNONYMS: giganteus G. Fischer, 1814; gigas G. Cuvier,
+     1817; grandis Olfers, 1818. 
+
+Tolypeutes Illiger, 1811. Prodr. Syst. Mamm. Avium., p.
+     111.
+TYPE SPECIES: Dasypus tricinctus Linnaeus, 1758, by
+     subsequent designation (Yepes, 1928).
+SYNONYMS: Apara McMurtrie, 1831; Cheloniscus Gray, 1873
+     (preoccupied); Sphaerocormus Fitzinger, 1871;
+     Tatusia Lesson, 1827; Tolypoides Grandidier and
+     Neveu-Lemaire, 1905. 
+COMMENTS: Reviewed by Wetzel (1985b). 
+
+Tolypeutes matacus (Desmarest, 1804). Tabl. MÇth. Hist.
+     Nat., in Nouv. Dict. Hist. Nat., 24:28. 
+TYPE LOCALITY: No locality mentioned; restricted to
+Argentina, Tucum†n, Tucum†n, by Sanborn (1930).
+DISTRIBUTION: E Bolivia and SW Brazil south through the
+     Gran Chaco of Paraguay to Argentina (Buenos
+     Aires).
+SYNONYMS: apar Desmarest, 1822; bicinctus Grandidier
+     and Neveu-Lemaire, 1905; brachyurus G. Fischer,
+     1814; conurus I. Geoffroy, 1847; muriei Garrod,
+     1878. 
+
+Tolypeutes tricinctus (Linnaeus, 1758). Syst. Nat.,
+     10th ed., 1:56.
+TYPE LOCALITY: "In India orientali;" redefined as
+     Pernambuco, Brazil, by Sanborn (1930).
+DISTRIBUTION: Brazilian states of Bahia, Cear†, and
+     Pernambuco.
+STATUS: IUCN - Indeterminate; considered to be extinct.
+SYNONYMS: globulus Olfers, 1818; quadricinctus
+     Linnaeus, 1758; quadricinctus Olfers, 1818
+     (preoccupied). 
+
+Zaedyus Ameghino, 1889. Actas Acad. Nac. Cienc.
+     Cordoba, Buenos Aires, 6:867.
+TYPE SPECIES: Dasypus minutus Desmarest, 1822 (=
+     Loricatus pichiy Desmarest, 1804), by original
+     designation.
+SYNONYMS: Loricatus Desmarest, 1804 (part); Tatusia
+     Lesson, 1827 (part). 
+COMMENTS: Sometimes considered a subgenus of
+     Euphractus; reviewed by Wetzel (1985b). 
+
+Zaedyus pichiy (Desmarest, 1804). Tabl. MÇth. Hist.
+     Nat., in Nouv. Dict. Hist. Nat., 24:28.
+TYPE LOCALITY: Argentina, Buenos Aires, Bahia Blanca,
+     as restricted by Cabrera (1958).
+DISTRIBUTION: Mendoza, San Luis, and Buenos Aires,
+     Argentina, south through Argentina and E Chile to
+     the Straits of Magellan.
+SYNONYMS: caurinus Thomas, 1928; ciliatus G. Fischer,
+     1814; fimbriatus Olfers, 1818; marginatus Wagler,
+     1830; minutus Desmarest, 1822; patagonicus
+     Desmarest, 1819; quadricinctus Molina, 1782
+     (preoccupied). 
+
+Family Myrmecophagidae Gray, 1825. Ann. Philos., n.s.,
+     10:343.
+
+Cyclopes Gray, 1821. London Med. Repos., 15:305.
+TYPE SPECIES: Myrmecophaga didactyla Linnaeus, 1758.
+SYNONYMS: Cyclothurus Lesson, 1842; Didactyla Liais,
+     1872; Didactyles F. Cuvier, 1829; Eurypterna
+     Gloger, 1841; Myrmydon Wagler, 1830. 
+
+Cyclopes didactylus (Linnaeus, 1758). Syst. Nat., 10th
+     ed., 1:35.
+TYPE LOCALITY: "America australi;" restricted to
+     Surinam by Thomas (1911a).
+DISTRIBUTION: MÇxico (Veracruz and Oaxaca) to Colombia
+     and west of Andes to S Ecuador, east of Andes to
+     Venezuela, Trinidad, Guyana, Surinam, French
+     Guiana, and S Colombia and Venezuela, south to
+     Bolivia (Santa Cruz) and Brazil (Acre east to
+     Alagoas).
+SYNONYMS: catellus Thomas, 1928; codajazensis Lînnberg,
+     1942; dorsalis Gray, 1865; eva Thomas, 1902; ida
+     Thomas, 1900; juruanus Lînnberg, 1942; melini
+     Lînnberg, 1928; mexicanus Hollister, 1914;
+     monodactyla Kerr, 1792; unicolor Desmarest, 1822. 
+
+Myrmecophaga Linnaeus, 1758. Syst. Nat., 10th ed.,
+     1:35.
+TYPE SPECIES: Myrmecophaga tridactyla Linnaeus, 1758,
+     by subsequent selection (Thomas, 1901a).
+SYNONYMS: Falcifer Rehn, 1900. 
+
+Myrmecophaga tridactyla Linnaeus, 1758. Syst. Nat.,
+     10th ed., 1:35.
+TYPE LOCALITY: "America meridionali;" restricted to
+     Brazil, Pernambuco, Pernambuco         [= Recife],
+     by Thomas (1911a).
+DISTRIBUTION: Belize and Guatemala through South
+     America to Uruguay and the Gran Chaco of Bolivia,
+     Paraguay, Argentina.
+STATUS: CITES - Appendix II; IUCN - Vulnerable.
+SYNONYMS: artata Osgood, 1912; centralis Lyon, 1906;
+     jubata Linnaeus, 1758. 
+
+Tamandua Gray, 1825. Ann. Philos., n.s., 10:343.
+TYPE SPECIES: Myrmecophaga tamandua G. Cuvier, 1798 (=
+     Tamandua tetradactyla Linnaeus, 1758), by
+     monotypy.
+SYNONYMS: Dryoryx Gloger, 1841; Uroleptes Wagler, 1830.
+     
+
+Tamandua mexicana (Saussure, 1860). Rev. Mag. Zool.
+     Paris, ser. 2, 12:9.
+TYPE LOCALITY: MÇxico, "Tabasco."
+DISTRIBUTION: E MÇxico (Tamaulipas), Central America,
+     South America to NW Per£ and NW Venezuela.
+SYNONYMS: chiriquensis J. A. Allen, 1904; hesperia
+     Davis, 1955; instabilis J. A. Allen, 1904;
+     opistholeuca Gray, 1873; punensis J. A. Allen,
+     1916; sellata Cope, 1889; tambensis Lînnberg,
+     1937; tenuirostris J. A. Allen, 1904. 
+COMMENTS: Revised by Wetzel (1975). 
+
+Tamandua tetradactyla (Linnaeus, 1758). Syst. Nat.,
+     10th ed., 1:35.
+TYPE LOCALITY: "America meridionali;" restricted to
+     Brazil, Pernambuco, Pernambuco       [= Recife],
+     by Thomas (1911a).
+DISTRIBUTION: South America east of the Andes from
+     Colombia, Venezuela, Trinidad, and the Guianas,
+     south to Uruguay and N Argentina.
+STATUS: CITES - Appendix III (Guatemala).
+SYNONYMS: bivittata Desmarest, 1817; chapadensis J. A.
+     Allen, 1904; crispa RÅppell, 1842; kriegi
+     Krumbiegel, 1940; longicaudata Wagner, 1844;
+     longicaudata Turner, 1853 (preoccupied); myosura
+     Pallas, 1766; nigra Desmarest, 1804; opisthomelas
+     Gray, 1873; quichua Thomas, 1927; straminea Cope,
+     1889; tamandua G. Cuvier, 1798.
+
+

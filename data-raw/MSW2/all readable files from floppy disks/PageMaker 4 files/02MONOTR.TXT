@@ -1,0 +1,79 @@
+CHECKLIST OF MAMMAL SPECIES OF THE WORLD
+
+ORDER MONOTREMATA by Colin P. Groves
+
+ORDER MONOTREMATA
+COMMENTS: Reviewed by Griffiths (1978). 
+
+Family Tachyglossidae Gill, 1872. Smithson. Misc.
+     Coll., 11:27.
+
+Tachyglossus Illiger, 1811. Prodr. Syst. Mammal.
+     Avium., p. 114.
+TYPE SPECIES: Echidna novaehollandiae Lac‚pŠde, 1799.
+SYNONYMS: Acanthonotus Goldfuss, 1809; Echidna G.
+     Cuvier, 1797; Echinopus G. Fischer, 1814; Syphonia
+     Rafinesque, 1815. 
+
+Tachyglossus aculeatus (Shaw, 1792). Nat. Misc., 3, pl.
+     109.
+TYPE LOCALITY: Australia, New South Wales, New Holland
+     (= Sydney).
+DISTRIBUTION: S and E New Guinea; Australia, including
+     Kangaroo Isl (off South Australia) and Tasmania.
+STATUS: Abundant throughout its range.
+SYNONYMS: acanthion, acanthrous, australiensis,
+     breviaculeata, corealis, hobartensis, hystrix,
+     ineptus, lawesi, longiaculeata, longirostris,
+     multiaculeata, myrmecophragris, novaehollandiae,
+     setosa, sydneiensis, typicus.
+COMMENTS: Includes lawesi, typicus, and setosus; see
+     Ride (1970:231). Name commonly attributed to Shaw
+     and Nodder, but Nodder was the publisher, not an
+     author. 
+
+Zaglossus Gill, 1877. Ann. Rec. Sci. Indus., May:171.
+TYPE SPECIES: Tachyglossus bruijni Peters and Doria,
+     1876.
+SYNONYMS: Acanthoglossus, Bruynia, Prozaglossus. 
+
+Zaglossus bruijni (Peters and Doria, 1876). Ann. Mus.
+     Civ. Stor. Nat. Genova, 9:183.
+TYPE LOCALITY: Indonesia, Irian Jaya, Vogelkop,
+     Manokwari Div., Arfak Mtns.
+DISTRIBUTION: Interior New Guinea; Salawati Isl
+     (Indonesia).
+STATUS: CITES - Appendix II; IUCN - Vulnerable.
+SYNONYMS: bartoni, bubuensis, dunius, galaris,
+     goodfellowi, nigroaculeatus, pallidus, tridactyla,
+     villosissima. 
+COMMENTS: Includes bartoni and bubuensis; see Van
+     Deusen and George (1969:22). 
+
+Family Ornithorhynchidae Gray, 1825. Ann. Philos.,
+     n.s., 10:343.
+
+Ornithorhynchus Blumenbach, 1800. Gotting. Gelehrt.
+     Anz., 1:609-610.
+TYPE SPECIES: Ornithorhynchus paradoxus Blumenbach,
+     1800 (= Platypus anatinus Shaw, 1799).
+SYNONYMS: Dermipus, Platypus. 
+COMMENTS: Platypus Shaw, 1799 was preoccupied by
+     Platypus Herbst, 1793, a genus of Coleoptera.
+     Ornithorynchus is the next available name. 
+
+Ornithorhynchus anatinus (Shaw, 1799). Nat. Misc., 10,
+     pl. 385-386.
+TYPE LOCALITY: Australia, New South Wales, New Holland
+     (= Sydney).
+DISTRIBUTION: Queensland, New South Wales, SE South
+     Australia, Victoria, and Tasmania (Australia).
+STATUS: Common but vulnerable to local extinction.
+SYNONYMS: brevirostris, crispus, fuscus, laevis,
+     novaehollandiae, paradoxus, phoxinus, rufus,
+     triton. 
+COMMENTS: Name is commonly attributed to Shaw and
+     Nodder, but Nodder was the publisher, not an
+     author.
+
+

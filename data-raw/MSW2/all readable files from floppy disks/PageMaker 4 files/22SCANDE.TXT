@@ -1,0 +1,243 @@
+ORDER SCANDENTIA by Don E. Wilson
+
+ORDER SCANDENTIA
+SYNONYMS: Tupaioidea. 
+COMMENTS: Sometimes included in Insectivora; but see
+     McKenna (1975:41). 
+
+Family Tupaiidae Gray, 1825. Ann. Philos., n.s.,
+     10:339.
+SYNONYMS: Cladobatae, Glisoricina. 
+COMMENTS: The classification of this family is
+     controversial, but most evidence suggests a
+     coherent natural group; see Campbell (1966, 1974),
+     Dene et al. (1978), Elliott (1971), and Luckett
+     (1980). 
+
+Subfamily Tupaiinae Gray, 1825. Ann. Philos., n.s.,
+     10:339.
+
+Anathana Lyon, 1913. Proc. U.S. Natl. Mus., 45:120.
+TYPE SPECIES: Tupaia ellioti Waterhouse, 1850.
+
+Anathana ellioti (Waterhouse, 1850). Proc. Zool. Soc.
+     Lond., 1849:107 [1850].
+TYPE LOCALITY: India, Andhra Pradesh, "hills between
+     Cuddapah and Nellox," (= Velikanda Range).
+DISTRIBUTION: India, south of Ganges River.
+SYNONYMS: pallida, wroughtoni. 
+COMMENTS: Ellerman and Morrison-Scott (1966) lumped the
+     three species included by Lyon (1913). 
+
+Dendrogale Gray, 1848. Proc. Zool. Soc. Lond., 1848:23.
+TYPE SPECIES: Hylogalea murina Schlegel and MÅller,
+     1843.
+
+Dendrogale melanura (Thomas, 1892). Ann. Mag. Nat.
+     Hist., ser. 6, 9:252.
+TYPE LOCALITY: Malaysia, Sarawak, Mt. Dulit, 5,000 ft.
+     (1,524 m).
+DISTRIBUTION: Mountains of NE Sarawak and Kinabalu and
+     Trus Madi, Sabah, nowhere below 3,000 ft. (914 m).
+SYNONYMS: baluensis. 
+
+Dendrogale murina (Schlegel and MÅller, 1843). In
+     Temminck, Verh. Nat. Gesch. Nederland. Overz.
+     Bezitt., Zool., p. 167[1845], pls. 26, 27[1843].
+TYPE LOCALITY: Indonesia, Kalimantan Barat Prov.,
+"Pontianak" (Probably erroneous, see Lyon, 1913). 
+DISTRIBUTION: From E Thailand, Chatraburi and Trat
+Provinces, through Cambodia to Vietnam. 
+SYNONYMS: frenata. 
+
+Tupaia Raffles, 1821. Trans. Linn. Soc. Lond., 13:256.
+TYPE SPECIES: Tupaia ferruginea Raffles, 1821 (= Sorex
+     glis Diard, 1820).
+SYNONYMS: Lyonogale, Tana. 
+COMMENTS: This group was last revised by Lyon (1913),
+     and is badly in need of review. The arrangement
+     presented here represents an hypothesis based on
+     Chasen (1940), Dene et al. (1978), Lekagul and
+     McNeely (1977), Luckett (1980), Lyon (1913),
+     Medway (1961), and Napier and Napier (1967). 
+
+Tupaia belangeri (Wagner, 1841). Schreber's Die
+     SÑugthiere, Suppl., 2:42.
+TYPE LOCALITY: Burma, Pegu, near Rangoon, Siriam.
+DISTRIBUTION: Malaysia N of 10¯ N latitude, Thailand,
+     Burma, India, China, Cambodia, Laos, Vietnam and
+     associated coastal islands.
+SYNONYMS: annamensis, assamensis, brunetta, chinensis,
+     clarissa, cambodiana, cochinchinensis, concolor,
+     dissimilis, gaoligongensis, gonshanensis,
+     kohtauensis, laotum, lepcha, modesta, olivacea,
+     peguanus, pingi, siccata, sinus, tenaster,
+     tonquinia, versurae, yaoshanensis, yunalis. 
+COMMENTS: This arrangement places all named forms north
+     of the Isthmus of Kra in belangeri, the oldest
+     named form from the region. Some may prove to be
+     distinct species, and some names attributed to
+     glis may actually prove to be belangeri.
+     Immunological (Dene et al., 1978) evidence
+     supports this arrangement. 
+
+Tupaia chrysogaster Miller, 1903. Smithson. Misc.
+     Coll., 45:58.
+TYPE LOCALITY: North Pagi Island, off southwest coast
+     of Sumatra.
+DISTRIBUTION: N and S Pagi, and Sipora of the Mentawei
+     Islands, off the southwest coast of Sumatra.
+COMMENTS: May prove to be only a subspecies of glis.
+     May also include siberu and possibly tephrura,
+     both currently in the synonymy of glis. 
+
+Tupaia dorsalis Schlegel, 1857. Handl. Beoef. Dierk.,
+     1:59, 447, pl. 3.
+TYPE LOCALITY: Borneo.
+DISTRIBUTION: The mainland of Borneo at low to moderate
+     elevations (except SE).
+COMMENTS: United with tana in the genus Tana by Lyon
+     (1913), but separation into two genera is not
+     supported by immunological evidence; see Dene et
+     al. (1978). 
+
+Tupaia glis (Diard, 1820). Asiat. J. Mon. Reg., 10:478.
+TYPE LOCALITY: Malaysia, Penang Isl.
+DISTRIBUTION: SE Asia from below 10¯ N on the Isthmus
+     of Kra (Thailand) through mainland Malaysia and
+     Sumatra (Malaysia) to Java (Indonesia) and various
+     surrounding islands.
+SYNONYMS: anambae, batamana, castanea, chrysomalla,
+     cognata, demissa, discolor, ferruginea,
+     hypochrysa, jacki, lacernata, longicauda, obscura,
+     operosa, pemangilis, penangensis, phaeniura,
+     phaeura, pulonis, raviana, redacta, riabus, siaca,
+     siberu, sordida, tephrura, ultima, umbratilis,
+     wilkinsoni. 
+COMMENTS: See Chasen (1940), Dene et al. (1978),
+     Lekagul and McNeely (1977), Lyon (1913), Medway
+     (1961), Napier and Napier (1967), and comments
+     under belangeri. 
+
+Tupaia gracilis Thomas, 1893. Ann. Mag. Nat. Hist.,
+     ser. 6, 12:53.
+TYPE LOCALITY: Malaysia, Sarawak, Baram Dist., Apoh
+     River at base of Mt. Batu Song.
+DISTRIBUTION: Borneo (except SE), west to Karimata Isl,
+     Belitung Isl, and Banka Isl; north to Banggi Isl.
+SYNONYMS: edarata, inflata. 
+
+Tupaia javanica Horsfield, 1822. Zool. Res. Java, part
+     3:Tupaia Javanica, pls.(col. and figs. g,h,o,p,q)
+     and 4 unno. pp.
+TYPE LOCALITY: Indonesia, Java, Jawa Timur Prov.,
+     perhaps near Banjuwangi. See Lyon (1913).
+DISTRIBUTION: Indonesian Isls of Nias, Sumatra, Java,
+     and Bali.
+SYNONYMS: balina, bogoriensis, occidentalis,
+     tjibruniensis. 
+
+Tupaia longipes (Thomas, 1893). Ann. Mag. Nat. Hist.,
+     ser. 6, 11:343.
+TYPE LOCALITY: Sarawak.
+DISTRIBUTION: Borneo.
+SYNONYMS: salatana. 
+COMMENTS: Frequently considered a subspecies of glis,
+     but see Dene et al. (1978). 
+
+Tupaia minor GÅnther, 1876. Proc. Zool. Soc. Lond.,
+     1876:426.
+TYPE LOCALITY: Malaysia, Sabah, mainland "opposite the
+     island of Labuan."  
+DISTRIBUTION: S peninsular Thailand, peninsular Malaysia,
+Sumatra and Lingga Archipelago (Indonesia), Borneo and
+offshore islands of Laut (Indonesia), Banggi and
+Balambangan (Malaysia).
+SYNONYMS: caedis, humeralis, malaccana, sincipis. 
+
+Tupaia montana Thomas, 1892. Ann. Mag. Nat. Hist., ser.
+     6, 9:252.
+TYPE LOCALITY: Malaysia, Sarawak, Mt. Dulit, 5,000 ft.
+     (1,524 m).
+DISTRIBUTION: Mountains of Sarawak and W Sabah;
+     recorded from 1,200 to 10,400 ft. (366-3,170 m) on
+     Mt. Kinabalu.
+SYNONYMS: baluensis. 
+
+Tupaia nicobarica (Zelebor, 1869). Reise Oesterr.
+     Fregatte Novara Zool. 1(Wirbelthiere),
+     1(SÑugeth.):17, pl. 1.
+TYPE LOCALITY: India, Nicobar Isls, Great Nicobar Isl.
+DISTRIBUTION: Great and Little Nicobar Isls.
+SYNONYMS: surda. 
+
+Tupaia palawanensis Thomas, 1894. Ann. Mag. Nat. Hist.,
+     ser. 6, 9:251.
+TYPE LOCALITY: Philippines, Palawan.
+DISTRIBUTION: Palawan, Busuanga, Cuyo, and Culion
+     (Philippines).
+SYNONYMS: busuangae, cuyonis, moellendorffi. 
+
+Tupaia picta Thomas, 1892. Ann. Mag. Nat. Hist., ser.
+     6, 9:251.
+TYPE LOCALITY: Malaysia, Sarawak, Baram Dist., Apoh.
+     See Lyon (1913).
+DISTRIBUTION: N Sarawak and East Kalimantan (Borneo).
+SYNONYMS: fuscior. 
+
+Tupaia splendidula Gray, 1865. Proc. Zool. Soc. Lond.,
+     1865:322, pl. 12.
+TYPE LOCALITY: Borneo.
+DISTRIBUTION: S Borneo; Bunguran and Laut (N Natuna
+     Isls) and Karimata (Indonesia).
+SYNONYMS: carimatae, lucida, muelleri, natunae,
+     ruficaudata. 
+COMMENTS: See Medway (1961). 
+
+Tupaia tana Raffles, 1821. Trans. Linn. Soc. Lond.,
+     13:257.
+TYPE LOCALITY: Indonesia, Sumatra, Bencoolen (=
+     Bengkulu).
+DISTRIBUTION: Indonesia: Sumatra, Tuanku, Batu group,
+     Lingga group, Banga, Belitung, Tambelon, and
+     Serasan groups, Banggi; Borneo.
+SYNONYMS: banguei, besara, bunoae, cervicalis,
+     chrysura, griswoldi, kelabit, kretami, lingae,
+     masae, nainggolani, nitida, paitana, speciosus,
+     sirhassenensis, tuancus, utara. 
+COMMENTS: See Dene et al. (1978) for comment on generic
+     status of Tana Lyon (= Lyonogale Conisbee). 
+
+Urogale Mearns, 1905. Proc. U.S. Natl. Mus., 28:435.
+TYPE SPECIES: Urogale cylindrura Mearns, 1905 (= Tupaia
+     everetti Thomas, 1892).
+
+Urogale everetti (Thomas, 1892). Ann. Mag. Nat. Hist.,
+     ser. 6, 9:250.
+TYPE LOCALITY: Philippines, Mindanao, Zamboanga.
+DISTRIBUTION: Mindanao, Dinigat, and Siargao
+     (Philippines).
+SYNONYMS: cylindrura. 
+
+Subfamily Ptilocercinae Lyon, 1913. Proc. U. S. Natl.
+     Mus., 45:4.
+COMMENTS: See Campbell (1974). 
+
+Ptilocercus Gray, 1848. Proc. Zool. Soc. Lond., 1848:24
+     [publ. 1 Aug. 1848].
+TYPE SPECIES: Ptilocercus lowii Gray, 1848.
+COMMENTS: McAllan and Bruce (1989) argued that the
+     original publication should be: The Literary
+     Gazette, 1624:167 [publ. 4 March 1848]. 
+
+Ptilocercus lowii Gray, 1848. Proc. Zool. Soc. Lond.,
+     1848:24.
+TYPE LOCALITY: Malaysia, Sarawak, "caught in the
+     Rajah's house", i.e. Kuching.
+DISTRIBUTION: S peninsular Thailand; peninsular
+     Malaysia; Sumatra, Riau Isls, Batu Isls, Banka,
+     and Serasan Isl (Indonesia); Borneo; Labuan Isl
+     (Malaysia).
+SYNONYMS: continentis. 
+
+

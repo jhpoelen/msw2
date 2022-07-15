@@ -1,0 +1,106 @@
+* List of files for TAXA application and data conversion  
+* last revision: 12 January 1993 
+
+PACKING.LST	this file
+
+* Data conversion macros for WordPerfect:
+* copy into directory for WordPerfect macros
+
+ALTZ.WPM- combines listed files from default <dir> to new document
+ALTX.WPM- changes underline codes to <^ & ^>
+
+* Data conversion programs and structures:
+* copy into directory with dBASE data files
+
+TAGPARSE.EXE 	converts data files to comma-delimited ASCII
+TAGPARSE.C 	source code for TAGPARSE.EXE (Microsoft C)
+TP2.EXE converts data files to comma-delimited ASCII when tag is SYNONYMS: 
+   and predeeds COMMENT: [use with XFER1B.DBF
+DOIT.BAT 	batch file to simplify TAGPARSE syntax
+DOIT2.BAT
+XFER1.DBF 	first transfer structure
+XFER1B.DBF first transfer structure when tag is SYNONYMS: [not COMMON 
+   SYNOMYM(S):] and when SYNONYMS: preceeds COMMENT:
+XFER2.DBF 	second transfer structure
+XFER2.DBT 	second transfer structure, memo fields
+XFER3.DBF 	seed structure for database
+XFER3.DBT 	seed structure for database, memo fields
+XFER4.DBF
+XFER4.DBT
+XFER5.DBF
+XFER5.DBT
+XFER.EXE 	copies text fields into memo fields in XFER2.DBF
+XFER.PRG 	source code for XFER.EXE (Clipper)
+PARENT.PRG 	creates parent-child pointers in database
+
+
+* dBASE application programs and associated files
+* copy into directory with dBASE data files
+
+TAXA.PRG 	entry point for application
+TAXAPROC.PRG 	procedure file for TAXA.PRG
+UTIL.PRG 	utility menu
+UTILPROC.PRG 	procedure file for UTIL.PRG
+REPORTIT.PRG 	reports menu
+REPTPROC.PRG 	procedure file for REPORTIT.PRG
+KEYRESET.PRG 	sets function keys from a memory file
+TAXA.FMT 	intermediate screen for Data Entry Screen 3
+TAXA2.FMT 	intermediate screen for Data Entry Screen 4
+TAXADEF.MEM 	stores default database name
+COLORS.MEM 	stores application and dot prompt screen colors
+TAXAKEYS.MEM 	stores application function key values
+DEFAULT.MEM 	stores dot prompt function key values
+ED.DEF - PCWrite file- needs to be duplicated here (also in [PCW]) for 
+    programed function keys to effect dBase.
+
+**************************************************************************
+* PCWrite program files- optional to replace dbase editor in memo fields
+* copy to PCW directory
+
+[PCW] - ed.* files
+
+* WP51 program editor- optional to replace dbase program editor
+*copy to WPED directory
+
+* TO RUN THE ABOVE OPTIONAL EDITORS- YOU MUST CHANGE OR CREATE CONFIG.DB
+* so- copy to dbase
+
+CONFIG.DB - changes the default editors (wp = memo editor; tedit = program 
+        editor)
+*****************************************************************************
+* WordPerfect macros for report cleanup
+* copy into directory with WordPerfect macros
+
+A.WPM 		<^ & ^>  ->  underline codes
+B.WPM   <^ & ^>      italic codes
+C.WPM   <$ & $>      small capitals
+BOLDON.WPM - <% & %>  bold codes
+C1.WPM 		removes hard carriage returns
+C2.WPM 		<!!!>    ->  3 [HRt]
+C3.WPM 		<!!>     ->  2 [HRt] 
+C4.WPM 		<!>      ->  1 [HRt]
+C5.WPM 		<*>      ->  1 [Indent]
+C6.WPM 		<*#>     ->  1 [Indent] 1 [Mar Rel]
+C7.WPM 		<**#>    ->  2 [Indent] 1 [Mar Rel]
+C9.WPM 		<****##> ->  4 [Indent] 2 [Mar Rel]
+C10.WPM
+COA.WPM
+COB.WPM
+CLEAN2.WPM 	removes blank memo tags from Report 2
+CLEAN5.WPM	removes blank memo tags from Report 5
+CLEAN7.WPM removes blank memo tags from Report 7
+DIACRIT.WPM 	various codes -> international characters
+UNDIAC.WPM 	international characters -> various codes
+SORT{}.WPM  copy all literature cited codes to a second document
+ELIM{}.WPM  eliminate all literature cited codes
+R1.WPM 		process Report 1
+R2.WPM 		process Report 2
+R3.WPM 		process Report 3
+R4.WPM 		process Report 4
+R5.WPM 		process Report 5
+R6.WPM		process Report 6
+R7.WPM  process Report 7
+R7INDEX.WPM  process Report 7 without italics
+EXT.WPM pulls in one WP51 extension file
+EXTALL.WPM pulls in all WP51 extension files in a chapter
+

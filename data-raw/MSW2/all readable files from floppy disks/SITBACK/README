@@ -1,0 +1,160 @@
+
+                 SitBack README file.
+
+     Thank you for using SitBack.  This file contains information
+     that was not available at the time the manual was printed.
+
+     README CONTENTS
+
+     1.   SitBack on Novell Networks
+     2.   Clearing Backup Status
+     3.   Listing SitBack Config file
+     4.   SitBack on IBM Compatible Networks
+     5.   SitBack and Microsoft Windows
+
+
+       
+-----------------------------------------------------------------
+
+     1. Considerations on using SitBack with a Novell Network
+
+
+     When using SitBack in a Novell network environment, you must
+     take into account the following items:
+
+     1.   Prior to loading the network shell and other associated
+          network programs on a workstation, the program SBOS.EXE
+          must be run.  SBOS.EXE enables SitBack to operate in
+          Novell network environments.  SBOS.EXE can be placed in
+          the AUTOEXEC.BAT file of the workstation boot disk. 
+          REMEMBER, this must be loaded prior to any other
+          network software on the workstation.
+
+     2.   The SitBack program, SB.EXE must be loaded only AFTER a
+          user logs onto the network.
+ 
+     3.   If a Novell server is specified in the "What" and
+          "Where" fields of a backup configuration, the user must 
+          have appropriate access rights to the specified path. 
+ 
+                    a.   The "What" field will require read access.
+
+
+                    b.   The "Where" field will require create and
+                         write access. 
+
+     4.   In order for SitBack to create the backup directories and
+          files, the "Where" field must specify a drive and
+          directory where the user has these access rights.  
+
+                    Example: 
+ 
+               Where: I:\USER1\BACKUP 
+ 
+               Since user's do not normally have create access at 
+               the root level, only specifying a Novell server's
+               drive will usually cause a failure of SitBack's
+               attempt to create the backup directory. 
+ 
+          
+_________________________________________________________________
+
+     2.   Clearing the backup status of a backup configuration.
+
+     Pressing the tilde (~) key when in the "What and Where to Back
+     Up" screen will clear the backup status of the files in the
+     configuration at the cursor.  This is the opposite of pressing
+     the "T" key for the Total-backup function.  Briefly, the "T"
+     key sets the DOS archive bits and the "~" key clears the DOS
+     archive bits.
+
+     
+_________________________________________________________________
+
+     3.   Getting a listing of your SitBack configuration file.
+
+     A utility program, SBLIST, has been included on the
+     distribution disk.  It allows you to get a listing of the
+     configuration file used by SitBack.
+
+     To view the listing on the screen, enter:
+
+          SBLIST |more
+
+            |more tells DOS to stop the display at the end of each
+            page.
+
+     To print the listing on your printer, enter:
+
+          SBLIST >lpt1
+
+            >lpt1 tells DOS to direct the listing to your printer.
+
+     
+_________________________________________________________________
+
+     4.   Using SitBack on IBM and compatible networks.
+
+     SitBack supports the use of the "Uniform Naming Convention"
+     for local area networks.  You can use the extended network
+     pathname format \\COMPUTERNAME\NETNAME in any place that would
+     normally use a DOS drive designation (C:, D:, etc.).
+
+     SitBack will perform implicit Net Use operations whenever it
+     requires access to the server path specified in a UNC network
+     pathname.  The server session will be disconnected when
+     SitBack is completed with the session.
+
+     The "What" and "Where" fields accept either a DOS drive
+     designation or a UNC network pathname.  Anytime you modify
+     these fields and a UNC network pathname is used, you will be
+     prompted for a password.  If the network path requires a
+     password, enter it.  If a password is not required, enter a
+     carriage return.
+
+     You must insure that your DOS is configured for enough drives.
+     The LASTDRIVE parameter in your CONFIG.SYS file should specify
+     at least two more drives than you normally use.  For example,
+     if you normally have a D and E drive connected to the network
+     and you have defined a SitBack configuration that backs up
+     from one server to another, SitBack will temporarily require
+     the use of two additional drives.  You will need to set the
+     LASTDRIVE to G or higher in the CONFIG.SYS file.
+
+     
+_________________________________________________________________
+
+     5.   Using SitBack with Microsoft Windows/286 v2.1 and 3.0.
+
+     LOAD SitBack BEFORE you load the windows operating     
+     environment. (i.e. issue the SB command before you issue the
+     WIN command).
+
+     Create PIF files from within windows using the PIFEDIT.EXE
+     program supplied with the windows program.  To create  a PIF
+     file for SitBack the following parameters are needed:
+
+          Program Name:       SB.EXE
+          Program Title:      SitBack
+          Program Parameters: SB
+          Initial Directory:  X:\dirname
+          Memory Requirements:KB Required 60
+                              KB Desired  60
+          Directly Modifies:  Memory Keyboard
+
+     Providing the above parameters are used during the creation
+     of the PIF file in windows, you should be able to double click
+     on the SB.PIF file to invoke SitBack from within the windows
+     environment.
+
+     A separate PIF file must be created for each SitBack command.
+
+(SITBACK.EXE, SBLIST.EXE, SB GO, SB PAUSE, ERROR ACKNOWLEDGE, etc.)
+
+     Also, hot-key  combinations such as CTRL-ALT-G, CTRL-ALT-E,
+     etc. will not be functional under the windows environment. 
+     As stated above a PIF file must be created to execute the
+     commands which are equivalent to the SitBack hot-keys.
+     
+_________________________________________________________________
+

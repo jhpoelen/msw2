@@ -1,0 +1,3 @@
+IF +%1+ == ++ GOTO END
+TP2 %1.ASC %1.DAT >%1.LOG
+:END

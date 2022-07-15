@@ -1,0 +1,39 @@
+ORDER NOTORYCTEMORPHIA by Colin P. Groves
+
+ORDER NOTORYCTEMORPHIA
+SYNONYMS: Syndactyliformes.
+COMMENTS: Recognized as an order by Aplin and Archer
+     (1987) who proposed a new syncretic classification
+     of the marsupials. 
+
+Family Notoryctidae Ogilby, 1892. Cat. Aust. Mammalia,
+     p. 5.
+COMMENTS: Relationships unknown.
+
+Notoryctes Stirling, 1891. Trans. R. Soc. S. Aust.,
+     14:154.
+TYPE SPECIES: Psammoryctes typhlops Stirling, 1889.
+SYNONYMS: Neoryctes, Psammoryctes. 
+COMMENTS: Psammoryctes is preoccupied (see Iredale and
+     Troughton, 1934). 
+
+Notoryctes caurinus Thomas, 1920. Ann. Mag. Nat. Hist.,
+     ser. 9, 6:111.
+TYPE LOCALITY: Western Australia, Wollal (= Wallal),
+     Ninety Mile Beach.
+DISTRIBUTION: NW Western Australia.
+STATUS: Unknown.
+COMMENTS: Separated from N. typhlops by Walton
+     (1988:47).
+
+Notoryctes typhlops (Stirling, 1889). Trans. R. Soc. S.
+     Aust., 12:158.
+TYPE LOCALITY: Australia, Northern Territory,
+     Indracowrie, 100 mi. (161 km) from Charlotte
+     Waters.
+DISTRIBUTION: Western deserts from Ooldea (South
+     Australia) to Charlotte Waters and NW Western
+     Australia, Northern Territory.
+STATUS: Thought to be rare, but no real data exist.
+
+

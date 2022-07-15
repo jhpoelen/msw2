@@ -1,0 +1,1533 @@
+ORDER DIPROTODONTIA by Colin P. Groves
+
+ORDER DIPROTODONTIA
+SYNONYMS: Phalangeriformes.
+COMMENTS: Recognized as an order by Aplin and Archer
+     (1987) who proposed a new syncretic classification
+     of the marsupials. 
+
+Family Phascolarctidae Owen, 1839. Proc. Zool. Soc.
+     Lond., 1839:19.
+COMMENTS: Formerly included in the Phalangeridae; see
+     Ride (1970:225). 
+
+Phascolarctos Blainville, 1816. Nouv. Bull. Sci. Soc.
+     Philom. (Paris), p. 108.
+TYPE SPECIES: Lipurus cinereus Goldfuss, 1817 (seen by
+     Blainville in ms., published 1817).
+SYNONYMS: Draximenus, Koala, Lipurus, Liscurus,
+     Morodactylus. 
+
+Phascolarctos cinereus (Goldfuss, 1817). Die
+     SÑugethiere, pt. 65, pl. 155, Aa, Ac.
+TYPE LOCALITY: Australia, New South Wales.
+DISTRIBUTION: Australia: SE Queensland, E New South
+     Wales, SE South Australia, and Victoria.
+     Introduced on Kangaroo Isl, South Australia and at
+     Yanchep, Western Australia.
+STATUS: Vulnerable.
+SYNONYMS: adustus, flindersii, fuscus, koala, subiens,
+     victor. 
+
+Family Vombatidae Burnett, 1830 (1820). Quart. J. Sci.
+     Arts, 1829:351 [1830].
+SYNONYMS: Phascolomyidae.
+COMMENTS: Phascolomyidae Goldfuss, 1820, is based on
+     Phascolomis, a junior synonym (Haltenorth,
+     1958:32). Because Phascolomyidae was replaced with
+     Vombatidae before 1961, and because Vombatidae has
+     won general acceptance, it is to be maintained
+     (Art. 40b of the Code of Nomenclature,
+     International Commission on Zoological
+     Nomenclature, 1985). 
+
+Lasiorhinus Gray, 1863. Ann. Mag. Nat. Hist., ser. 3,
+     11:458.
+TYPE SPECIES: Lasiorhinus mcoyi Gray, 1863 (=
+     Phascolomys latifrons Owen, 1845).
+SYNONYMS: Wombatula. 
+COMMENTS: This genus needs revision. 
+
+Lasiorhinus krefftii (Owen, 1873). Philos. Trans. R.
+     Soc. London, 162:178, pl. 17, 20.
+TYPE LOCALITY: Australia, New South Wales, Wellington
+     Caves, Breccia Cavern.
+DISTRIBUTION: Australia: SE and E Queensland,
+     Deniliquin (New South Wales).
+STATUS: CITES - Appendix I; U.S. ESA and IUCN -
+     Endangered.
+SYNONYMS: barnardi, gillespiei. 
+COMMENTS: Includes gillespiei and barnardi according to
+     Kirsch and Calaby (1977:23), who stated that only
+     a single remnant population of krefftii remained
+     at the type locality of barnardi. However,
+     populations historically known as barnardi may not
+     be referable to krefftii. 
+
+Lasiorhinus latifrons (Owen, 1845). Proc. Zool. Soc.
+     Lond., 1845:82.
+TYPE LOCALITY: Australia, South Australia.
+DISTRIBUTION: S South Australia, SE Western Australia.
+STATUS: Locally common.
+SYNONYMS: lasiorhinus, mcoyi. 
+
+Vombatus ê. Geoffroy, 1803. Bull. Sci. Soc. Philom.
+     Paris, 72:185.
+TYPE SPECIES: Didelphis ursina Shaw, 1800.
+SYNONYMS: Amblotis, Opposum, Phascolomis, Wombatus. 
+COMMENTS: Phascolomis ê. Geoffroy, 1803 is a junior
+     synonym (Haltenorth, 1958:32). 
+
+Vombatus ursinus (Shaw, 1800). Gen. Zool. Syst. Nat.
+     Hist., 1(2), Mammalia, p. 504.
+TYPE LOCALITY: Australia, Tasmania, Bass Strait, Cape
+     Barren Island.
+DISTRIBUTION: E New South Wales, S Victoria, SE South
+     Australia, Tasmania, islands in the Bass Strait,
+     and extreme SE Queensland (Australia).
+STATUS: Common.
+SYNONYMS: angasii, assimilis, bassii, fossor, fuscus,
+     hirsutus, mitchelli, niger, platyrhinus, setosus,
+     tasmaniensis, vombatus, wombat.
+
+Family Phalangeridae Thomas, 1888. Cat. Marsup. Monotr.
+     Brit. Mus., p. 126.
+COMMENTS: Distinct from Phascolarctidae (see Ride,
+     1970:22) and does not include Pseudocheiridae,
+     Petauridae, Burramyidae, or Acrobatidae (see Aplin
+     and Archer, 1987). A provisional classification
+     was given by Flannery et al. (1987). 
+
+Ailurops Wagler, 1830. Naturliches Syst. Amphibien, p.
+     26.
+TYPE SPECIES: Phalangista ursina Temminck, 1824.
+SYNONYMS: Ceonix, Eucuscus. 
+COMMENTS: Flannery et al. (1987) placed this genus in
+     its own subfamily, Ailuropinae.
+
+Ailurops ursinus (Temminck, 1824). Monogr. Mamm., 1:10.
+TYPE LOCALITY: Indonesia, Sulawesi, Sulawesi Utara,
+     Minahasa, Manado.
+DISTRIBUTION: Sulawesi, Peleng Isl, Talaud Isls, Togian
+     Isl, Muna Isl, Butung Isl, and Lembeh Isl
+     (Indonesia).
+STATUS: Common.
+SYNONYMS: flavissimus, furvus, melanotis, togianus. 
+COMMENTS: Formerly included in Phalanger.
+
+Phalanger Storr, 1780. Prodr. Meth. Mammal., p. 38.
+TYPE SPECIES: Didelphis orientalis Pallas, 1766.
+SYNONYMS: Balantia, Cuscus, Phalangista, Sipalus. 
+COMMENTS: Does not include Spilocuscus (see Ride,
+     1970:248). Revised by Tate (1945), Feiler
+     (1978a-c), and G. G. George (1979). 
+
+Phalanger carmelitae Thomas, 1898. Ann. Mus. Civ. Stor.
+     Nat. Genova, 19:5.
+TYPE LOCALITY: Papua New Guinea, Central Prov., upper
+     Vanapa River.
+DISTRIBUTION: Interior New Guinea.
+STATUS: Common.
+SYNONYMS: coccygis. 
+COMMENTS: Formerly included in vestitus (see G. G.
+     George, 1979:94). 
+
+Phalanger lullulae Thomas, 1896. Novit. Zool., 3:528.
+TYPE LOCALITY: Papua New Guinea, Milne Bay Prov.,
+     Woodlark Isl.  
+DISTRIBUTION: Woodlark Isl (Papua New Guinea).
+STATUS: IUCN - Endangered; rare.
+COMMENTS: Formerly included in orientalis (see G. G.
+     George, 1979:97). 
+
+Phalanger matanim Flannery, 1987. Rec. Aust. Mus.,
+     39:183.
+TYPE LOCALITY: Papua New Guinea, West Sepik Province,
+     Telefomin area, Upper Sol River, 5¯06'S, 141¯42'E,
+     2600 m.
+DISTRIBUTION: Telefomin area, W Papua New Guinea.
+STATUS: Rare.
+
+Phalanger orientalis (Pallas, 1766). Misc. Zool., p.
+     61.
+TYPE LOCALITY: Indonesia, Amboina (= Ambon) Isl,
+     Maluku.
+DISTRIBUTION: Timor and Ceram Isls (Indonesia) to New
+     Guinea, and adjacent small islands; Bismarck
+     Arch.; Solomon Isls; and E Cape York (Queensland,
+     Australia).
+STATUS: CITES - Appendix II.
+SYNONYMS: alba, albidus, ambonensis, breviceps,
+     brevinasus, ducatoris, fusca, intercastellanus,
+     kiriwinae, matsika, meeki, microdon, mimicus,
+     minor, molucca, moluccensis, peninsulae, rufa,
+     vulpecula. 
+COMMENTS: Formerly included interpositus and lullulae
+     (see G. G. George, 1979). Flannery et al. (1987)
+     suggested that the southern races may prove to be
+     specifically, even generically distinct, as
+     Strigocuscus mimicus, but Flannery (1990) did not
+     adopt this course.
+
+Phalanger ornatus (Gray, 1860). Proc. Zool. Soc. Lond.,
+     1860:374.
+TYPE LOCALITY: Indonesia: Bachian (= Bacan or Batjan)
+     Isl.
+DISTRIBUTION: Halmahera, Ternate, Tidore, Bacan,
+     Morotai Isls (Indonesia).
+STATUS: Apparently common.
+COMMENTS: For status see Groves (1987). Provisionally
+     allotted to Strigocuscus by Flannery et al. (1987)
+     although they did not examine specimens.
+
+Phalanger pelengensis Tate, 1945. Am. Mus. Novit.,
+     1283:3.
+TYPE LOCALITY: Indonesia: Peleng Isl.
+DISTRIBUTION: Peleng and Sulu Isls (Indonesia).
+STATUS: Unknown.
+SYNONYMS: mendeni. 
+COMMENTS: For status see Groves (1987). Flannery et al.
+     (1987) doubted that pelengensis really belongs to
+     Phalanger.
+
+Phalanger rothschildi Thomas, 1898. Novit. Zool.,
+     5:433.
+TYPE LOCALITY: Moluccas, Pulau Obi Besar, Loiwij.
+DISTRIBUTION: Pulau (Isl) Obi Besar.
+STATUS: Common.
+COMMENTS: Commonly included in Strigocuscus celebensis,
+     but see Groves (1987). 
+
+Phalanger sericeus Thomas, 1907. Ann. Mag. Nat. Hist.,
+     ser. 7, 20:74.
+TYPE LOCALITY: Papua New Guinea, Angabunga Range,
+     Owgarra, 6,000 ft (= 1829 m).
+DISTRIBUTION: C and E New Guinea, higher elevations.
+STATUS: Common.
+SYNONYMS: occidentalis. 
+COMMENTS: Called P. vestitus by most authors, but see
+     Menzies and Pernetta (1986:594).
+
+Phalanger vestitus (Milne-Edwards, 1877). C. R. Acad.
+     Sci. Paris, 85:1080.
+TYPE LOCALITY: Indonesia, Irian Jaya, Vogelkop, Sorong
+     Div., Tamrau Range, Karons Mtns.
+DISTRIBUTION: Interior New Guinea.
+STATUS: IUCN - Rare.
+SYNONYMS: interpositus, permixtio. 
+COMMENTS: Formerly known as P. interpositus (see
+     Flannery, 1990).
+
+Spilocuscus Gray, 1862. Proc. Zool. Soc. Lond.,
+     1861:316 [1862].
+TYPE SPECIES: Phalangista maculata Desmarest, 1818.
+COMMENTS: Separated from Phalanger by G. G. George
+     (1979).
+
+Spilocuscus maculatus (Desmarest, 1818). Nouv. Dict.
+     Hist. Nat., Nouv. ed., 25:472.
+TYPE LOCALITY: Indonesia, Irian Jaya, Vogelkop,
+     Manokwari Div., Manokwari.
+DISTRIBUTION: New Guinea and adjacent small islands;
+     Aru and Kei Isls, Ceram, Amboina and Selayar Isls
+     (Indonesia); Cape York Peninsula (Queensland,
+     Australia).
+STATUS: CITES - Appendix II; but "common" in New Guinea
+     (Flannery, 1990).
+SYNONYMS: brevicaudatus, chrysorrhous, goldiei,
+     kraemeri?, nudicaudatus, ochropus, quoy,
+     variegata. 
+COMMENTS: Commonly cited from "E. Geoffroy, 1803. Cat.
+     Mamm. Mus. Hist. Nat., Paris., p. 149"; but see
+     comments in Appendix I. Feiler (1978a) included
+     atrimaculatus in this species, but G. G. George
+     (1979:98) placed it in rufoniger.
+
+Spilocuscus rufoniger (Zimara, 1937). Anz. Akad. Wiss.
+     Wien, 74:35.
+TYPE LOCALITY: Papua New Guinea, Morobe Prov.,
+     Sattelberg.
+DISTRIBUTION: N New Guinea.
+STATUS: IUCN - Rare.
+SYNONYMS: atrimaculatus. 
+COMMENTS: Includes atrimaculatus (see G. G. George,
+     1979:98), but also see Feiler (1978a), who placed
+     it in maculatus.
+
+Strigocuscus Gray, 1862. Proc. Zool. Soc. Lond.,
+     1861:319 [1862].
+TYPE SPECIES: Cuscus celebensis Gray, 1858.
+COMMENTS: Flannery et al. (1987) resurrected this genus
+     for S. celebensis, and provisionally for S.
+     gymnotis.
+
+Strigocuscus celebensis (Gray, 1858). Proc. Zool. Soc.
+     Lond., 1858:105.
+TYPE LOCALITY: Indonesia, Sulawesi, Sulawesi Selatan,
+     Ujung Pandang (= Macassar).
+DISTRIBUTION: Sulawesi, Sanghir Isls, and Taliabu (=
+     Sula) Isls (Indonesia).
+STATUS: Common.
+SYNONYMS: feileri, sangirensis. 
+
+Strigocuscus gymnotis (Peters and Doria, 1875). Ann.
+     Mus. Civ. Stor. Nat. Genova, 7:543.
+TYPE LOCALITY: Indonesia, Aru Isls, Gialnhegen Isl
+     (restricted by Van der Feen, 1962:40).
+DISTRIBUTION: New Guinea; Aru Isls, Wetar Isl, Timor
+     Isl, and other small Indonesian islands.
+STATUS: Common.
+SYNONYMS: leucippus.     
+COMMENTS: Distribution poorly known. Included in
+Strigocuscus by Flannery et al. (1987).
+
+Trichosurus Lesson, 1828. In Bory de Saint-Vincent
+     (ed.), Dict. Class. Hist. Nat. Paris, 13:333.
+TYPE SPECIES: Didelphis vulpecula Kerr, 1792.
+SYNONYMS: Cercaertus, Psilogrammurus, Tapoa, Trichurus.
+     
+
+Trichosurus arnhemensis Collett, 1897. Proc. Zool. Soc.
+     Lond., 1897:328.
+TYPE LOCALITY: Australia, Northern Territory, Daly
+     River.
+DISTRIBUTION: N Northern Territory, NE Western
+     Australia, Barrow Isl (Australia).
+STATUS: Common.
+
+Trichosurus caninus (Ogilby, 1836). Proc. Zool. Soc.
+     Lond., 1835:191 [1836].
+TYPE LOCALITY: Australia, New South Wales, Hunter
+     River.
+DISTRIBUTION: Australia: SE Queensland, E New South
+     Wales, E Victoria.
+STATUS: Common.
+SYNONYMS: nigrans. 
+
+Trichosurus vulpecula (Kerr, 1792). In Linnaeus, Anim.
+     Kingdom, 1:198.
+TYPE LOCALITY: Australia, New South Wales, Sydney.
+DISTRIBUTION: Australia: E Queensland, E New South
+     Wales, Victoria, Tasmania, SE and N South
+     Australia, SW Western Australia; introduced to New
+     Zealand (Wodzicki, 1950).
+STATUS: Common, in many cities, lives commensally.
+SYNONYMS: bougainvillei, cookii, cuvieri, eburacensis,
+     felina, fuliginosa, grisea, hypoleucus,
+     johnstonii, lemurina, melanura, mesurus,
+     novaehollandiae, raui, ruficollis, selma,
+     tapouaru, vulpina, xanthopus. 
+COMMENTS: Phalangista johnstonii Ramsay, 1988, may be a
+     distinct species. 
+
+Wyulda Alexander, 1918. J. R. Soc. West. Aust.
+     (1917-1918), 4:31.
+TYPE SPECIES: Wyulda squamicaudata Alexander, 1918.
+
+Wyulda squamicaudata Alexander, 1918. J. R. Soc. West.
+     Aust. (1917-1918), 4:31.
+TYPE LOCALITY: Australia, Western Australia, Wyndham.
+DISTRIBUTION: NE Western Australia, Kimberleys.
+STATUS: U.S. ESA - Endangered.
+COMMENTS: Provisionally placed in Trichosurus by
+     Flannery et al. (1987).
+
+Family Potoroidae Gray, 1821. London Med. Repos.,
+     15:308.
+SYNONYMS: Hypsiprymnodontinae.
+COMMENTS: Separated from Macropodidae by Archer and
+     Bartholamai (1978).
+
+Aepyprymnus Garrod, 1875. Proc. Zool. Soc. Lond.,
+     1875:59.
+TYPE SPECIES: Bettongia rufescens Gray, 1837.
+
+Aepyprymnus rufescens (Gray, 1837). Mag. Nat. Hist.
+     [Charlesworth's], 1:584.
+TYPE LOCALITY: Australia, New South Wales.
+DISTRIBUTION: Australia: NE Victoria, E New South
+     Wales, E Queensland.
+STATUS: Rare, localized.
+SYNONYMS: melanotis. 
+
+Bettongia Gray, 1837. Mag. Nat. Hist. [Charlesworth's],
+     1:584.
+TYPE SPECIES: Bettongia setosa Gray, 1837 (= Kangurus
+     gaimardi Desmarest, 1822).
+SYNONYMS: Bettongiops. 
+COMMENTS: Formerly included in Macropodidae.
+
+Bettongia gaimardi (Desmarest, 1822). Mammalogie. In
+     Encycl. MÇth., 2(Suppl.):542.
+TYPE LOCALITY: Australia, New South Wales, Port
+     Jackson.
+DISTRIBUTION: Formerly coastal SE Queensland and N New
+     South Wales, south to SW Victoria; now extinct on
+     mainland Australia; survives in Tasmania.
+STATUS: CITES - Appendix I; U.S. ESA - Endangered.
+SYNONYMS: cuniculus, formosus, hunteri, lepturus,
+     minimus, phillippi, setosa, whitei. 
+COMMENTS: See Corbet and Hill (1980:16). 
+
+Bettongia lesueur (Quoy and Gaimard, 1824). In de
+     Freycinet, Voy. autour du monde... l'Uranie et al
+     Physicienne, Zool., p. 64.
+TYPE LOCALITY: Australia, Western Australia, Dirk
+     Hartog Island (Shark Bay).
+DISTRIBUTION: Formerly in Dampier Land (Western
+     Australia), South Australia, Dirk Hartog Isl,
+     Barrow Isl, Bernier and Dorre Isls, Northern
+     Territory, and SW New South Wales (Australia); now
+     extinct except on W Australian Isls.
+STATUS: CITES - Appendix I; U.S. ESA - Endangered; IUCN
+     - Rare.
+SYNONYMS: anhydra, graii, harveyi. 
+COMMENTS: Commonly misspelt "lesueuri", but the
+     original spelling is lesueur, with no indication
+     that it is an error.
+
+Bettongia penicillata Gray, 1837. Mag. Nat. Hist.
+     [Charlesworth's], 1:584.
+TYPE LOCALITY: Australia, New South Wales.
+DISTRIBUTION: SW Western Australia, S South Australia
+     including St. Francis Isl, NW Victoria, C New
+     South Wales, E Queensland.
+STATUS: CITES - Appendix I; U.S. ESA and IUCN -
+     Endangered; B. p. tropica may be extinct (see
+     Ride, 1970:199).
+SYNONYMS: francisca, gouldii, ogilbyi, tropica. 
+COMMENTS: See Sharman et al. (1980). 
+
+Caloprymnus Thomas, 1888. Cat. Marsup. Monotr. Brit.
+     Mus., p. 114.
+TYPE SPECIES: Bettongia campestris Gould, 1843.
+
+Caloprymnus campestris (Gould, 1843). Proc. Zool. Soc.
+     Lond., 1843:81.
+TYPE LOCALITY: Australia, South Australia.
+DISTRIBUTION: South Australia/Queensland border
+     country.
+STATUS: CITES - Appendix I pe [possibly extinct]; U.S.
+     ESA - Endangered; IUCN - Indeterminate; possibly
+     extinct, see Ride (1970:198).
+
+Hypsiprymnodon Ramsay, 1876. Proc. Linn. Soc. N.S.W.,
+     1:33.
+TYPE SPECIES: Hypsiprymnodon moschatus Ramsay, 1876.
+SYNONYMS: Pleopus. 
+COMMENTS: Formerly included in Macropodidae.
+
+Hypsiprymnodon moschatus Ramsay, 1876. Proc. Linn. Soc.
+     N.S.W., 1:34.
+TYPE LOCALITY: Australia, Queensland, Rockingham Bay.
+          
+DISTRIBUTION: NE Queensland (Australia).
+STATUS: Rare, localized.
+SYNONYMS: nudicaudatus. 
+
+Potorous Desmarest, 1804. Tabl. MÇth Hist. Nat., in
+     Nouv. Dict. Hist. Nat., 24:20.
+TYPE SPECIES: Didelphis murina Cuvier, 1798 (=
+     Didelphis tridactyla Kerr, 1792).
+SYNONYMS: Hypsiprymnus, Potoroiis, Potoroo, Potoroops. 
+COMMENTS: Formerly included in Macropodidae.
+
+Potorous longipes Seebeck and Johnston, 1980. Aust. J.
+     Zool., 28:121.
+TYPE LOCALITY: Australia, Victoria, Bellbird Creek, 32
+     km E. Orbost.
+DISTRIBUTION: NE Victoria (Australia).
+STATUS: IUCN - Indeterminate; endangered.
+COMMENTS: Known from very few specimens; first
+     collected in 1968. 
+
+Potorous platyops (Gould, 1844). Proc. Zool. Soc.
+     Lond., 1844:103.
+TYPE LOCALITY: Australia, Western Australia, Swan
+     River, L. Walyormouring.
+DISTRIBUTION: Formerly SW Western Australia and
+     Kangaroo Isl, South Australia.
+STATUS: IUCN - Extinct.
+SYNONYMS: morgani. 
+COMMENTS: Possibly extinct (Ride, 1970:199). 
+
+Potorous tridactylus (Kerr, 1792). In Linnaeus, Anim.
+     Kingdom, 1:198.
+TYPE LOCALITY: Australia, New South Wales, Sydney.
+DISTRIBUTION: SE Queensland, coastal New South Wales,
+     NE Victoria, SE South Australia, SW Western
+     Australia, Tasmania, and King Island (Australia).
+STATUS: Endangered on mainland Australia, common in
+     Tasmania.
+SYNONYMS: apicalis, apicalis, benormi, gilbertii,
+     micropus, minor, murina, muscola, myosurus,
+     peronii, rufus, setosus, trisulcatus, tuckeri.
+COMMENTS: See Kirsch and Calaby (1977:21). 
+
+Family Macropodidae Gray, 1821. London Med. Repos.,
+     15:308.
+COMMENTS: Revised by Tate (1948a). 
+
+Dendrolagus MÅller, 1840. In Temminck, Verh. Nat.
+     Gesch. Nederland Overz. Bezitt., Land-en
+     Volkenkunde, p. 20, footnote[1840].
+TYPE SPECIES: Dendrolagus ursinus MÅller, 1840 (recte
+     Hypsiprymnus ursinus Temminck, 1836; designated by
+     Thomas, 1888).
+
+Dendrolagus bennettianus De Vis, 1887. Proc. R. Soc.
+     Queensl., 3(1886):11 [1887].
+TYPE LOCALITY: Australia, Queensland, Daintree River.
+DISTRIBUTION: NE Queensland (Australia).
+STATUS: CITES - Appendix II.
+COMMENTS: Considered a subspecies of dorianus by
+     Haltenorth (1958); but see Ride (1970:223) and
+     Kirsch and Calaby (1977:17). 
+
+Dendrolagus dorianus Ramsay, 1883. Proc. Linn. Soc.
+     N.S.W., 8:17.
+TYPE LOCALITY: Papua New Guinea, "ranges behind Mt.
+     Astrolabe."
+DISTRIBUTION: Interior New Guinea: Wondiwoi Peninsula,
+     Irian Jaya; Papua New Guinea/Indonesian border to
+     extreme SE of mainland Papua New Guinea.
+STATUS: IUCN - Vulnerable as D. d. notatus; uncommon.
+SYNONYMS: aureus, mayri, notatus, palliceps, profugus,
+     stellarum. 
+COMMENTS: Does not include bennettianus (see Ride,
+     1970:223, Kirsch and Calaby, 1977:17). 
+
+Dendrolagus goodfellowi Thomas, 1908. Ann. Mag. Nat.
+     Hist., ser. 8, 2:452.
+TYPE LOCALITY: Papua New Guinea, Owen Stanley Range,
+     vic. Mt. Obree, 8000 ft. (2438 m).
+DISTRIBUTION: E New Guinea.
+STATUS: IUCN - Vulnerable as D. g. shawmayeri;
+     uncommon.
+SYNONYMS: buergersi, pulcherrimus, shawmayeri. 
+COMMENTS: Does not include spadix. Groves (1982d)
+     regarded this species as a subspecies of the
+     earlier named matschiei; but see Flannery
+     (1990:100-104), also Ganslosser (1980). 
+
+Dendrolagus inustus MÅller, 1840. In Temminck, Verh.
+     Nat. Gesch. Nederland Overz. Bezitt., Land-en
+     Volkenkunde, p. 20, footnote[1840], see comments.
+TYPE LOCALITY: Indonesia, Irian Jaya, Fakfak Div., Lobo
+     Dist., near Triton Bay, Mt. Lamantsjieri.
+DISTRIBUTION: N and extreme W New Guinea; Yapen Isl.
+STATUS: CITES - Appendix II.
+SYNONYMS: finschi, keiensis, maximus, schoedei,
+     sorongensis. 
+COMMENTS: This species was further described by
+     Schlegel and MÅller, in Temminck, Verh. Nat.
+     Gesch. Nederland. Overz. Bezitt., Zool., Mammalia,
+     p. 131, 143[1845], pl. 20, 22, 23[1841].
+     Considered a subspecies of ursinus by Haltenorth
+     (1958); but see Kirsch and Calaby (1977:17) and
+     Groves (1982d). 
+
+Dendrolagus lumholtzi Collett, 1884. Proc. Zool. Soc.
+     Lond., 1884:387.
+TYPE LOCALITY: Australia, Queensland, Herbert Vale.
+DISTRIBUTION: NE Queensland (Australia).
+STATUS: CITES - Appendix II.
+SYNONYMS: fulvus. 
+
+Dendrolagus matschiei Forster and Rothschild, 1907.
+     Nov. Zool., 14:506.
+TYPE LOCALITY: Papua New Guinea, Morobe Prov.,
+     Rawlinson Mtns.
+DISTRIBUTION: Extreme NE interior New Guinea (Huon
+     Peninsula); Umboi Isl (Introduced).
+STATUS: Uncommon.
+SYNONYMS: deltae, flavidior, xanthotis. 
+COMMENTS: See Kirsch and Calaby (1977:21) and Lidicker
+     and Ziegler (1968). See also comments under
+     goodfellowi. 
+
+Dendrolagus scottae Flannery and Seri, 1990. Rec. Aust.
+     Mus., 42:237.
+TYPE LOCALITY: Papua New Guinea, West Sepik Prov.,
+     Torricelli Mtns, Sweipini, 1400 m. (3¯23'S,
+     142¯06'E).
+DISTRIBUTION: Torricelli Mtns only (Papua New Guinea).
+STATUS: Endangered.
+COMMENTS: May be a subspecies of D. dorianus.
+
+Dendrolagus spadix Troughton and Le Souef, 1936. Aust.
+     Zool., 8:194.
+TYPE LOCALITY: Papua, Western Division, between Bamu,
+     upper Awarra and Strickland Rivers.
+DISTRIBUTION: S New Guinea.
+STATUS: Rare.
+COMMENTS: A subspecies of D. matschiei according to
+     Groves (1982d), but made a full species by
+     Flannery (1990).
+
+Dendrolagus ursinus (Temminck, 1836). Discours
+     preliminaire destine a servir d'introduction al
+     faune du Japon, p. 6 (footnote 2). 
+TYPE LOCALITY: Indonesia, Irian Jaya, Fakfak Div., Lobo
+Dist., near Triton Bay, Mt. Lamantsjieri.
+DISTRIBUTION: Extreme NW New Guinea.
+STATUS: CITES - Appendix II.
+SYNONYMS: leucogenys. 
+COMMENTS: Does not include inustus (see Kirsch and
+     Calaby, 1977:17). Correct original citation
+     presented by Husson (1955). 
+
+Dorcopsis Schlegel and MÅller, 1845. In Temminck, Verh.
+     Nat. Gesch. Nederland Overz. Bezitt., Zool., p.
+     130[1845].
+TYPE SPECIES: Didelphis brunii Quoy and Gaimard, 1830
+     (= Macropus muelleri Lesson, 1827).
+COMMENTS: Does not include Dorcopsulus (see Flannery,
+     1990:89-92). The name Conoyces Lesson, 1842 was
+     used for this genus by Troughton (1937), but Tate
+     (1948a) showed that the type species of Conoyces
+     is Didelphis brunii Gmelin, 1788 [= Thylogale
+     brunii (Schreber, 1778)]; see under Thylogale. 
+
+Dorcopsis atrata Van Deusen, 1957. Am. Mus. Novit.,
+     1826:5.
+TYPE LOCALITY: Papua New Guinea, Milne Bay Prov.,
+     Goodenough Island, eastern slopes, near "Top
+     Camp", about 1600 m.
+DISTRIBUTION: Goodenough Isl (Papua New Guinea).
+STATUS: IUCN - Rare; very rare, localized, probably
+     endangered.
+
+Dorcopsis hageni Heller, 1897. Abh. Zool.
+     Anthrop.-Ethnology. Mus. Dresden, 6(8):7.
+TYPE LOCALITY: Papua New Guinea, Madang Prov., near
+     Astrolabe Bay, Stefansort.
+DISTRIBUTION: NC New Guinea.
+STATUS: Common.
+SYNONYMS: caurina, eitape. 
+
+Dorcopsis luctuosa (D'Albertis, 1874). Proc. Zool. Soc.
+     Lond., 1874:110.
+TYPE LOCALITY: "Southeast of New Guinea".
+DISTRIBUTION: S New Guinea.
+STATUS: Common.
+SYNONYMS: beccarii, chalmersi, phyllis. 
+COMMENTS: Usually included in D. veterum (= D.
+     muelleri), but see Groves and Flannery (1989). 
+
+Dorcopsis muelleri (Lesson, 1827). In Duperry (Lesson
+     and Garnot, eds.), Voy. autour du Monde...la
+     Coquille, Zool., 1:164.
+TYPE LOCALITY: Indonesia, Irian Jaya, Vogelkop,
+     Manokwari Div., Dorei (= Manokwari), Lobo Bay.
+DISTRIBUTION: W New Guinea; Misool and Salawati Isls,
+     Aru Isls, and Yapen Isl (Indonesia).
+STATUS: Common.
+SYNONYMS: brunii, lorentzii, mysoliae, rufolateralis,
+     veterum, yapeni. 
+COMMENTS: D. muelleri was regarded as a junior synonym
+     of D. veterum by Kirsch and Calaby (1977:21) and
+     Husson (1955:299). George and Schuerer (1978)
+     rejected veterum as based on a Dendrolagus
+     (probably inustus), and employed muelleri; Groves
+     and Flannery (1989) agreed. The original name
+     Didelphis brunii Quoy and Gaimard, was preoccupied
+     and is now Macropus muelleri.
+
+Dorcopsulus Matschie, 1916. Sitzb. Ges. Naturf. Fr.,
+     Berlin, 57.
+TYPE SPECIES: Dorcopsis macleayi Miklouho-Maclay, 1885.
+COMMENTS: Formerly included in Dorcopsis but revived as
+     a full genus by Flannery (1990).
+
+Dorcopsulus macleayi (Miklouho-Maclay, 1885). Proc.
+     Linn. Soc. N.S.W., 10:145, 149.
+TYPE LOCALITY: Papua New Guinea, Central Prov., "inland
+     from Port Moresby".
+DISTRIBUTION: Extreme SE New Guinea.
+STATUS: IUCN - Rare.
+
+Dorcopsulus vanheurni (Thomas, 1922). Ann. Mag. Nat.
+     Hist., ser. 9, 9:264.
+TYPE LOCALITY: Indonesia, Irian Jaya, Djajawidjaja
+     Div., Doormanpad-bivak (3¯30'S, 138¯30'E), 1410 m.
+          
+DISTRIBUTION: Interior New Guinea.
+STATUS: Common.
+SYNONYMS: rothschildi. 
+COMMENTS: Regarded as conspecific with macleayi by
+     Kirsch and Calaby (1977:21). 
+
+Lagorchestes Gould, 1841. Monogr. Macropodidae, pt. 1,
+     pl. 12 (text).
+TYPE SPECIES: Macropus leporides Gould, 1841.
+SYNONYMS: Lagocheles (nomen nudum). 
+COMMENTS: This genus is probably polyphyletic.
+
+Lagorchestes asomatus Finlayson, 1943. Trans. R. Soc.
+     South Aust., 67:319.
+TYPE LOCALITY: Australia, Northern Territory, between
+     Mt. Farewell and Lake Mackay.
+DISTRIBUTION: Known only from the type locality.
+STATUS: IUCN - Extinct; probably extinct.
+COMMENTS: Known from a single unsexed skull (Kirsch and
+     Calaby, 1977:22). 
+
+Lagorchestes conspicillatus Gould, 1842. Proc. Zool.
+     Soc. Lond., 1841:82 [1842].
+TYPE LOCALITY: Australia, Western Australia, Barrow
+     Island.
+DISTRIBUTION: N Western Australia and adjacent islands,
+     N Northern Territory, N and W Queensland
+     (Australia).
+STATUS: Common locally.
+SYNONYMS: pallidior, leichardti. 
+COMMENTS: May consist of two or three distinct species.
+
+Lagorchestes hirsutus Gould, 1844. Proc. Zool. Soc.
+     Lond., 1844:32.
+TYPE LOCALITY: Australia, Western Australia, York
+     district.
+DISTRIBUTION: C Western Australia, C Australia, Dorre
+     Isl and Bernier Isl (Western Australia). Survives
+     only on Bernier and Dorre Isls, and a tiny area NW
+     of Alice Springs (Northern Territory, Australia).
+STATUS: CITES - Appendix I; U.S. ESA - Endangered; IUCN
+     - Rare.
+SYNONYMS: bernieri, dorreae. 
+
+Lagorchestes leporides (Gould, 1841). Proc. Zool. Soc.
+     Lond., 1840:93 [1841].
+TYPE LOCALITY: Australia, interior New South Wales.
+DISTRIBUTION: Formerly W New South Wales, E South
+     Australia, NW Victoria.
+STATUS: IUCN - Extinct.
+COMMENTS: Almost certainly extinct; not recorded for
+     more than a century (Kirsch and Calaby, 1977:22). 
+
+Lagostrophus Thomas, 1887. Proc. Zool. Soc. Lond.,
+     1886:544 [1887].
+TYPE SPECIES: Kangurus fasciatus PÇron and lesueur,
+     1807.
+COMMENTS: Placed in subfamily Sthenurinae by Flannery
+     (1983). The other Sthenurinae are giant fossil
+     kangaroos.
+
+Lagostrophus fasciatus (PÇron and Lesueur, 1807). In
+     PÇron, Voy. Decouv. Terres. Austral., Atlas, pl.
+     27, 1:114.
+TYPE LOCALITY: Australia, Western Australia, Bernier
+     Island (Shark Bay).
+DISTRIBUTION: Survives only on Bernier and Dorre Isls
+     (Western Australia); formerly in SW Western
+     Australia, perhaps South Australia.
+STATUS: CITES - Appendix I; U.S. ESA - Endangered; IUCN
+     - Rare.
+SYNONYMS: albipilis, elegans, striatus. 
+
+Macropus Shaw, 1790. Nat. Misc., 1, pl. 23 (text).
+TYPE SPECIES: Macropus giganteus Shaw, 1790.
+SYNONYMS: Boriogale, Dendrodorcopsis, Gerboides,
+     Gigantomys, Halmatopus, Halmaturus, Kangurus,
+     Megaleia, Notamacropus, Osphranter, Phascolagus,
+     Prionotemmus.  
+COMMENTS: Includes Megaleia and Protemnodon (sensu
+Haltenorth, 1958); see Kirsch and Calaby (1977:17).
+Rationale for present usage of Macropus given by Calaby
+(1966). Ride (1962) discussed generic nomenclature for
+all Macropodinae. Van Gelder (1977b) included Thylogale
+and Wallabia in this genus, but see Kirsch and Calaby
+(1977:17) and Corbet and Hill (1980:17-18). Dawson and
+Flannery (1985) divided this genus into three
+subgenera: Macropus, Notamacropus and Osphranter.
+
+Macropus agilis (Gould, 1842). Proc. Zool. Soc. Lond.,
+     1841:81 [1842].
+TYPE LOCALITY: Australia, Northern Territory, Port
+     Essington.
+DISTRIBUTION: NE Western Australia, Northern Territory,
+     Queensland; S New Guinea; Kiriwina Isls and other
+     islands off the SE coast of New Guinea.
+STATUS: Common.
+SYNONYMS: aurantiacus, aurescens, binoe, crassipes,
+     jardinii, nigrescens, papuanus, siva. 
+COMMENTS: Subgenus Notamacropus.
+
+Macropus antilopinus (Gould, 1842). Proc. Zool. Soc.
+     Lond., 1841:80 [1842].
+TYPE LOCALITY: Australia, Northern Territory, Port
+     Essington.
+DISTRIBUTION: N Queensland, Northern Territory, NE
+     Western Australia.
+STATUS: Common.
+COMMENTS: Subgenus Osphranter.
+
+Macropus bernardus Rothschild, 1904. Nov. Zool.,
+     10:543.
+TYPE LOCALITY: Australia, Northern Territory, head of
+     South Alligator River.
+DISTRIBUTION: Interior of N Northern Territory.
+STATUS: Rare.
+SYNONYMS: woodwardi.
+COMMENTS: Subgenus Osphranter. The original name
+     Dendrodorcopsis woodwardi was preoccupied. 
+
+Macropus dorsalis (Gray, 1837). Mag. Nat. Hist.
+     [Charlesworth's], 1:583.
+TYPE LOCALITY: Australia, New South Wales, probably
+     interior (Namoi Hills), according to Iredale and
+     Troughton (1934).
+DISTRIBUTION: Australia: E Queensland, E New South
+     Wales.
+STATUS: Common.
+COMMENTS: Subgenus Notamacropus.
+
+Macropus eugenii (Desmarest, 1817). Nouv. Dict. Hist.
+     Nat., Nouv. ed., 17:38.
+TYPE LOCALITY: Australia, South Australia, Nuyt's
+     Arch., St. Peter's Isl.
+DISTRIBUTION: SW Western Australia, South Australia,
+     Kangaroo Isl, Wallaby Isl and other islands.
+SYNONYMS: bedfordi, dama, decres, derbyanus, emiliae,
+     gracilis, houtmanni, obscurior, flindersi. 
+COMMENTS: Subgenus Notamacropus.
+
+Macropus fuliginosus (Desmarest, 1817). Nouv. Dict.
+     Hist. Nat., Nouv. ed., 17:35.
+TYPE LOCALITY: Australia, South Australia, Kangaroo
+     Island.
+DISTRIBUTION: SW New South Wales, NW Victoria, South
+     Australia, SW Western Australia, Tasmania, King
+     Isl, and Kangaroo Isl (Australia).
+STATUS: Abundant, yet U.S. ESA - Threatened.
+SYNONYMS: melanops, ocydromus. 
+COMMENTS: Subgenus Macropus; see Kirsch and Poole
+     (1972) for discussion of specific limits and
+     subspecies included in this taxon and in
+     giganteus. 
+
+Macropus giganteus Shaw, 1790. Nat. Misc., 1, pl. 33
+     (text).
+TYPE LOCALITY: Australia, Queensland, Cooktown (= "New
+     Holland"), King's Plains.
+DISTRIBUTION: E and C Queensland, Victoria, New South
+     Wales, SE South Australia, and Tasmania
+     (Australia).
+STATUS: U.S. ESA - Endangered as M. g. tasmaniensis;
+     otherwise Threatened; yet abundant throughout
+     eastern Australia.
+SYNONYMS: griseofuscus, labiatus, major, tasmaniensis,
+     tridactylus. 
+COMMENTS: Subgenus Macropus. Opinion 760 of the
+     International Commission on Zoological
+     Nomenclature (1966) placed this name on the
+     Official List of Specific Names in Zoology, see
+     Calaby et al. (1963) for discussion. Revised by
+     Kirsch and Poole (1972) who discussed specific
+     limits and the subspecies included in this taxon.
+     See Poole (1982, Mammalian Species, 187).
+
+Macropus greyi Waterhouse, 1846. Nat. Hist. Mamm.,
+     1:122.
+TYPE LOCALITY: Australia, South Australia, Coorong.
+DISTRIBUTION: Formerly SE South Australia and adjacent
+     Victoria.
+STATUS: IUCN - Extinct.
+COMMENTS: Subgenus Notamacropus. Almost certainly
+     extinct (Kirsch and Calaby, 1977:22; Ride,
+     1970:47). 
+
+Macropus irma (Jourdan, 1837). C. R. Acad. Sci. Paris,
+     5:523.
+TYPE LOCALITY: Australia, Western Australia, Swan
+     River.
+DISTRIBUTION: SW Western Australia.
+STATUS: Rare.
+SYNONYMS: manicatus, melanopus. 
+COMMENTS: Subgenus Notamacropus.
+
+Macropus parma Waterhouse, 1846. Nat. Hist. Mamm.,
+     1:149.
+TYPE LOCALITY: Australia, New South Wales.
+DISTRIBUTION: E New South Wales; introduced to Kawau
+     Isl (New Zealand), see Wodzicki and Flux (1967).
+STATUS: U.S. ESA - Endangered.
+COMMENTS: Subgenus Notamacropus (Dawson and Flannery,
+     1985). 
+
+Macropus parryi Bennett, 1835. Proc. Zool. Soc. Lond.,
+     1834:151 [1835].
+TYPE LOCALITY: Australia, New South Wales, Stroud (near
+     Port Stephens).
+DISTRIBUTION: Australia: E Queensland, NE New South
+     Wales.
+STATUS: Common.
+SYNONYMS: pallida. 
+COMMENTS: Subgenus Notamacropus (Dawson and Flannery,
+     1985). Formerly included in Protemnodon, see
+     Haltenorth (1958:39); but also see Kirsch and
+     Calaby (1977). 
+
+Macropus robustus Gould, 1841. Proc. Zool. Soc. Lond.,
+     1840:92 [1841].
+TYPE LOCALITY: Australia, New South Wales, interior
+     (summit of mountains).
+DISTRIBUTION: Australia: Western Australia, South
+     Australia, S Northern Territory, Queensland, New
+     South Wales, Barrow Isl.
+STATUS: Abundant.
+SYNONYMS: alligatoris, alexandriae, argentatus,
+     bracteator, cervinus, erubescens, hagenbecki,
+     isabellinus, magnus, reginae, rubens, woodwardi. 
+COMMENTS: Subgenus Osphranter. See Richardson and
+     Sharman (1976). McAllan and Bruce (1989) would
+     date robustus from: The Athenaeum, 670:685 [29
+     August 1840]. 
+
+Macropus rufogriseus (Desmarest, 1817). Nouv. Dict.
+     Hist. Nat., Nouv. ed., 17:36.
+TYPE LOCALITY: Australia, Tasmania, King Island.
+DISTRIBUTION: SE South Australia, Victoria, SE
+     Queensland, E New South Wales, Tasmania, King Isl
+     and adjacent islands (Australia); introduced in
+     England (Corbet and Hill, 1980:18).
+STATUS: Common.
+SYNONYMS: banksianus, bennetti, fruticus, griseus,
+     leptonyx, ruficollis, rutilus, vinosus. 
+COMMENTS: Subgenus Notamacropus. 
+
+Macropus rufus (Desmarest, 1822). Mammalogis. In
+     Encycl. MÇth., 2(Suppl.):541.
+TYPE LOCALITY: Australia, New South Wales, Blue Mtns.
+DISTRIBUTION: Mainland, mid-latitude Australia.
+STATUS: U.S. ESA - Threatened; yet very abundant.
+SYNONYMS: dissimulatus, griseolanosus, lanigerus,
+     occidentalis, pallidus, pictus, ruber. 
+COMMENTS: Subgenus Osphranter.
+
+Onychogalea Gray, 1841. Appendix C In J. Two Exped.
+     Aust., 2:402.
+TYPE SPECIES: Macropus unguifer Gould, 1841.
+
+Onychogalea fraenata (Gould, 1841). Proc. Zool. Soc.
+     Lond., 1840:92 [1841].
+TYPE LOCALITY: Australia, New South Wales, interior.
+DISTRIBUTION: Formerly in S Queensland, interior New
+     South Wales; survives only near Taunton,
+     Queensland (Australia).
+STATUS: CITES - Appendix I; U.S. ESA and IUCN -
+     Endangered.
+COMMENTS: McAllan and Bruce (1989) argued that the
+     original publication of this name was in The
+     Athenaeum, 670:685 [29 August 1840], as [Macropus]
+     frenatus. 
+
+Onychogalea lunata (Gould, 1841). Proc. Zool. Soc.
+     Lond., 1840:93 [1841].
+TYPE LOCALITY: Australia, Western Australia, coast.
+DISTRIBUTION: SC and SW Western Australia, S Northern
+     Territory.
+STATUS: CITES - Appendix I; U.S. ESA - Endangered; IUCN
+     - Extinct; probably extinct.
+COMMENTS: Extinct throughout most or all of its former
+     range. McAllan and Bruce (1989) argued that the
+     original publication of this name was in The
+     Athenaeum, 670:685 [29 August 1840]. 
+
+Onychogalea unguifera (Gould, 1841). Proc. Zool. Soc.
+     Lond., 1840:93 [1841].
+TYPE LOCALITY: Australia, Western Australia, Derby
+     (King Sound).
+DISTRIBUTION: N Australia: Western Australia, Northern
+     Territory, Queensland.
+STATUS: Secure.
+SYNONYMS: annulicauda. 
+COMMENTS: McAllan and Bruce (1989) argued that the
+     original description of this name was in The
+     Athenaeum, 670:685 [29 August 1840]. 
+
+Petrogale Gray, 1837. Mag. Nat. Hist. [Charlesworth's],
+     1:583.
+TYPE SPECIES: Kangurus penicillatus Gray, 1827.
+SYNONYMS: Heteropus, Peradorcas. 
+COMMENTS: Revision of this genus is underway by
+     Sharman, Eldridge et al.; a preliminary account of
+     their arrangement was provided by Poole (1979) and
+     Briscoe et al. (1982). Kitchener and Sanson (1978)
+     considered this genus as probably congeneric with
+     Peradorcas.
+
+Petrogale assimilis Ramsay, 1877. Proc. Linn. Soc.
+     N.S.W., 1:360.
+TYPE LOCALITY: Australia, Queensland, Palm Isl.
+DISTRIBUTION: Queensland.
+STATUS: Locally common.
+SYNONYMS: puella. 
+
+Petrogale brachyotis (Gould, 1841). Proc. Zool. Soc.
+     Lond., 1840:128 [1841].
+TYPE LOCALITY: Australia, Western Australia, Hanover
+     Bay.
+DISTRIBUTION: Coast of NW Australia, N Northern
+     Territory.
+STATUS: Common.
+SYNONYMS: longmani, signata, venustula, wilkinsi. 
+
+Petrogale burbidgei Kitchener and Sanson, 1978. Rec. W.
+     Aust. Mus., 6:269-285.
+TYPE LOCALITY: Australia, Western Australia, Mitchell
+     Plateau, Crystal Creek (14¯30'S, 125¯47'20"E).
+DISTRIBUTION: Kimberleys (Western Australia), Bonaparte
+     Arch., and adjacent islands.
+STATUS: Rare.
+
+Petrogale concinna Gould, 1842. Proc. Zool. Soc. Lond.,
+     1842:57.
+TYPE LOCALITY: Australia, Western Australia, Wyndham.
+DISTRIBUTION: Australia: NE and NW Northern Territory,
+     NE Western Australia.
+SYNONYMS: canescens, monastria. 
+COMMENTS: Formerly included in a separate genus
+     Peradorcas, see Kitchener and Samson (1978). 
+
+Petrogale godmani Thomas, 1923. Abstr. Proc. Zool. Soc.
+     Lond., 1923(235):13.
+TYPE LOCALITY: Australia, Queensland, Cooktown (Black
+     Mtn).
+DISTRIBUTION: Cape York Peninsula, N Queensland.
+STATUS: Threatened by genetic introgression from P.
+     assimilis.
+COMMENTS: Included in penicillata in a preliminary
+     account by Poole (1979:21). According to Eldridge
+     et al. (1989) this species is composite: P.
+     godmani from the region between Cooktown and
+     Mareeba, and an undescribed species from the
+     central Cape York Peninsula. 
+
+Petrogale inornata Gould, 1842. Monogr. Macropodidae,
+     pt. 2, pl. 25.
+TYPE LOCALITY: Australia, Queensland, Cape Upstart.
+DISTRIBUTION: N Queensland (Australia).
+STATUS: Localized.
+
+Petrogale lateralis Gould, 1842. Monogr. Macropodidae,
+     pt. 2, pl. 24.
+TYPE LOCALITY: Australia, Western Australia, Swan
+     River.
+DISTRIBUTION: Australia: Western Australia, South
+     Australia, Northern Territory, W Queensland.
+STATUS: Common.
+SYNONYMS: hacketti, pearsoni, purpureicollis.
+COMMENTS: McAllan and Bruce (1989) argued that the
+     original publication of this name is in The
+     Athenaeum, 670:685 [29 August 1840]. 
+
+Petrogale penicillata (Gray, 1827). In Griffith et al.,
+     Anim. Kingdom, Mamm., 3, plate only.
+TYPE LOCALITY: Australia, New South Wales, Sydney.
+DISTRIBUTION: E Australia.
+STATUS: Common.
+SYNONYMS: albogularis, herberti, longicauda.
+
+Petrogale persephone Maynes, 1982. Aust. Mamm., 5:47.
+TYPE LOCALITY: Australia, Queensland, 9.6 km N of
+     Proserpine, base of Mt. Dryander, 20¯19'S,
+     148¯33'E.
+DISTRIBUTION: Restricted to district around Proserpine.
+STATUS: IUCN - Rare; vulnerable.
+
+Petrogale rothschildi Thomas, 1904. Nov. Zool., 11:166.
+TYPE LOCALITY: Australia, Western Australia, Cossack.
+DISTRIBUTION: NW Western Australia.
+STATUS: Vulnerable.
+
+Petrogale xanthopus Gray, 1855. Proc. Zool. Soc. Lond.,
+     1854:259 [1855].
+TYPE LOCALITY: Australia, South Australia, Flinders
+     Range.
+DISTRIBUTION: Australia: SW Queensland, South
+     Australia, NW New South Wales.     
+STATUS: U.S. ESA - Endangered.
+SYNONYMS: celeris, xanthopygus. 
+
+Setonix Lesson, 1842. Nouv. Tabl. Regn. Anim.
+     Mammifäres, p. 194.
+TYPE SPECIES: Kangurus brachyurus Quoy and Gaimard,
+     1830.
+
+Setonix brachyurus (Quoy and Gaimard, 1830). In Dumont
+     d'Urville, Voy...de Astrolabe, Zool., 1(L'Homme,
+     Mamm. Oiseaux):114.
+TYPE LOCALITY: Australia, Western Australia, King
+     George Sound (Albany).
+DISTRIBUTION: SW Western Australia, Rottnest Isl, and
+     Bald Isl (Australia).
+STATUS: U.S. ESA - Endangered.
+SYNONYMS: brevicaudatus. 
+
+Thylogale Gray, 1837. Mag. Nat. Hist. [Charlesworth's],
+     1:583.
+TYPE SPECIES: Halmaturus (Thylogale) eugenii Gray, 1837
+     (= Halmaturus thetis Lesson, 1828).     
+SYNONYMS: Conoyces. 
+COMMENTS: Included in Macropus by Van Gelder (1977b),
+     but see Kirsch and Calaby (1977:17). See comments
+     under Dorcopsis. 
+
+Thylogale billardierii (Desmarest, 1822). Mammalogie.
+     In Encycl. MÇth., 2(Suppl.):542.
+TYPE LOCALITY: Australia, Tasmania.
+DISTRIBUTION: Australia: SE South Australia, Victoria,
+     Tasmania, islands in Bass Strait; probably
+     survives only in Tasmania.
+SYNONYMS: brachytarsus, rufiventer, tasmanei.
+
+Thylogale brunii (Schreber, 1778). Die SÑugethiere,
+     3:551.
+TYPE LOCALITY: Indonesia, Aru Isls.
+DISTRIBUTION: C and E New Guinea and adjacent small
+     islands; Bismarck Arch. (Papua New Guinea); Aru
+     Isls.
+STATUS: Uncommon.
+SYNONYMS: browni, gracilis, jukesii, keysseri,
+     lauterbachi, lugens, lanatus, tibol. 
+COMMENTS: T. bruijni is a later spelling (Haltenorth,
+     1958:38).
+
+Thylogale stigmatica (Gould, 1860). Mamm. Aust., 2, pt.
+     12, pl. 33-34.
+TYPE LOCALITY: Australia, Queensland, Point Cooper (N
+     of Rockingham Bay).
+DISTRIBUTION: E Queensland, E New South Wales
+     (Australia); SC New Guinea.
+STATUS: Uncommon.
+SYNONYMS: coxenii, gazella, oriomos, temporalis,
+     wilcoxi. 
+COMMENTS: Citation for original description given as
+     Proc. Zool. Soc. Lond., 1860:375, by some authors,
+     but this is dated Nov. 13, while Mammal. Aust.,
+     Part 12 was published Nov. 1. 
+
+Thylogale thetis (Lesson, 1828). Monogr. Mamm., p. 229.
+TYPE LOCALITY: Australia, New South Wales, Sydney.
+DISTRIBUTION: E Queensland, E New South Wales
+     (Australia).
+STATUS: Uncommon.
+SYNONYMS: eugenii, nuchalis. 
+
+Wallabia Trouessart, 1905. Cat. Mamm. Viv. Foss.,
+     Suppl. fasc., 4:834.
+TYPE SPECIES: Kangurus ualabatus Lesson and Garnot,
+     1826 (= Kangurus bicolor Desmarest, 1804).
+COMMENTS: Included in Macropus by Van Gelder (1977b),
+     but see Kirsch and Calaby (1977:17). 
+
+Wallabia bicolor (Desmarest, 1804). Tabl. MÇth Hist.
+     Nat., in Nouv. Dict. Hist. Nat., 24:357.
+TYPE LOCALITY: Unknown.  
+DISTRIBUTION: Australia: E Queensland, E New South Wales,
+Victoria, SE South Australia, Stradbroke Isl, Fraser
+Isl.
+STATUS: Common.
+SYNONYMS: apicalis, ingrami, lessonii, mastersii,
+     ualabatus, welsbyi. 
+
+Family Burramyidae Broom, 1898. Proc. Linn. Soc.
+     N.S.W., 10:564.
+
+Burramys Broom, 1896. Proc. Linn. Soc. N.S.W., 10:564.
+TYPE SPECIES: Burramys parvus Broom, 1896.
+
+Burramys parvus Broom, 1896. Proc. Linn. Soc. N.S.W.,
+     10:564 [fig. in pl. 25, p. 273].
+TYPE LOCALITY: Australia, New South Wales, Taralga
+     (fossil).
+DISTRIBUTION: Mountains of NE Victoria and S New South
+     Wales (Australia).
+STATUS: CITES - Appendix II; U.S. ESA - Endangered.
+
+Cercartetus Gloger, 1841. Gemein Hand.-Hilfsbuch. Nat.,
+     1:85.
+TYPE SPECIES: Phalangista nana Desmarest, 1818.
+SYNONYMS: Dromicia, Dromiciella, Dromiciola,
+     Eudromicia. 
+COMMENTS: Includes Eudromicia (see Kirsch and Calaby,
+     1977:16). 
+
+Cercartetus caudatus (Milne-Edwards, 1877). C. R. Acad.
+     Sci. Paris, 85:1079.
+TYPE LOCALITY: Indonesia, Irian Jaya, Vogelkop,
+     Manokwari Div., Arfak Mtns.
+DISTRIBUTION: Interior New Guinea; Fergusson Isl (Papua
+     New Guinea); NE Queensland (Australia).
+STATUS: Common.
+SYNONYMS: macrura. 
+COMMENTS: Includes macrura (see Ride, 1970:224).
+     Formerly included in Eudromicia; see comment under
+     genus. 
+
+Cercartetus concinnus (Gould, 1845). Proc. Zool. Soc.
+     Lond., 1845:2.
+TYPE LOCALITY: Australia, Western Australia, Swan
+     River.
+DISTRIBUTION: SW Western Australia, S and SE South
+     Australia, W Victoria, SW New South Wales.
+STATUS: Common.
+SYNONYMS: minor, neillii. 
+
+Cercartetus lepidus (Thomas, 1888). Cat. Marsup.
+     Monotr. Brit. Mus., p. 142.
+TYPE LOCALITY: Australia, Tasmania.
+DISTRIBUTION: Australia: Tasmania, NW Victoria/South
+     Australia border, and Kangaroo Island (South
+     Australia).
+STATUS: Common.
+COMMENTS: Formerly included in Eudromicia; see comment
+     under genus. 
+
+Cercartetus nanus (Desmarest, 1818). Nouv. Dict. Hist.
+     Nat., Nouv. ed., 25:477.
+TYPE LOCALITY: Australia, Tasmania, Ile Maria.
+DISTRIBUTION: Australia: SE South Australia, E New
+     South Wales, Victoria, and Tasmania.
+STATUS: Common.
+SYNONYMS: britta, gliriformis, unicolor. 
+
+Family Pseudocheiridae Winge, 1893. Med. Udsigt over
+     Pungdyrenes Slaegtskab. E. Mus. Lundii, 11. pt.
+     2:89.
+COMMENTS: Separated from Petauridae by Archer (1984).
+
+Hemibelideus Collett, 1884. Proc. Zool. Soc. London,
+     1884:385.
+TYPE SPECIES: Phalangista (Hemibelideus) lemuroides
+     Collett, 1884.
+COMMENTS: Formerly included in Pseudocheirus.
+
+Hemibelideus lemuroides (Collett, 1884). Proc. Zool.
+     Soc. Lond., 1884:385.
+TYPE LOCALITY: Australia, North Queensland.
+DISTRIBUTION: NE Queensland (Australia).
+STATUS: Localized but not endangered where it occurs.
+SYNONYMS: cervinus. 
+
+Petauroides Thomas, 1888. Cat. Marsup. Monotr. Brit.
+     Mus., p. 163.  
+TYPE SPECIES: Didelphis volans Kerr, 1792.
+SYNONYMS: Petaurista, Schoinobates, Volucella. 
+COMMENTS: Formerly Schoinobates Lesson, 1842. This name
+     was used by Lesson only for Petaurista leucogenys
+     Temminck, 1823, a giant flying squirrel (McKay,
+     1982). The names Volucella and Petaurista were
+     both preoccupied.
+
+Petauroides volans (Kerr, 1792) In Linnaeus, Anim.
+     Kingdom, 1:199.
+TYPE LOCALITY: Australia, New South Wales, Sydney.
+DISTRIBUTION: E Australia, from Dandenong Ranges
+     (Victoria) to Rockhampton (Queensland).
+STATUS: Common.
+SYNONYMS: armillatus, cinereus, didelphoides, incanus,
+     macroura, maximus, minor, peronii, taguanoides,
+     volucella.
+
+Petropseudes Thomas, 1923. Ann. Mag. Nat. Hist., ser.
+     9, 11:250.
+TYPE SPECIES: Pseudochirus dahli Collett, 1895.
+COMMENTS: Separated from Pseudocheirus by McKay
+     (1988:94). 
+
+Petropseudes dahli (Collett, 1895). Zool. Anz.,
+     18(490):464.
+TYPE LOCALITY: Australia, Northern Territory, Mary
+     River.
+DISTRIBUTION: N Northern Territory, NW Western
+     Australia.
+STATUS: Localized.
+
+Pseudocheirus Ogilby, 1837. Mag. Nat. Hist.
+     (Charlesworth), 1:457.
+TYPE SPECIES: Phalangista cookii Desmarest, 1818 (=
+     Didelphis peregrinus Boddaert, 1785), see Thomas
+     (1888).
+SYNONYMS: Hepoona, Pseudochirulus, Pseudochirus,
+     Ptenos. 
+COMMENTS: Pseudochirus Ogilby, 1836. Proc. Zool. Soc.
+     Lond., 1836:26 is a nomen nudum, see Palmer
+     (1904). 
+
+Pseudocheirus canescens (Waterhouse, 1846). Nat. Hist.
+     Mamm., 1:306.
+TYPE LOCALITY: Indonesia, Irian Jaya, Fakfak Div.,
+     Triton Bay.
+DISTRIBUTION: New Guinea and Salawati Isl.
+STATUS: Uncommon.
+SYNONYMS: avarus, bernsteini, dammermani, grisescenti,
+     gyrator. 
+
+Pseudocheirus caroli (Thomas, 1921). Ann. Mag. Nat.
+     Hist., ser. 9, 8:357.
+TYPE LOCALITY: Indonesia, Irian Jaya, Paniai Div.,
+     Weyland Range, Menoo Valley, Mt. Kunupi, 1830 m.
+DISTRIBUTION: WC New Guinea.
+STATUS: Rare.
+SYNONYMS: versteagi. 
+
+Pseudocheirus forbesi (Thomas, 1887). Ann. Mag. Nat.
+     Hist., ser. 5, 19:146.
+TYPE LOCALITY: Papua New Guinea, Central Prov.,
+     Astrolabe Range, near Port Moresby, Sogeri, 458 m.
+DISTRIBUTION: Interior E New Guinea.
+STATUS: Common.
+SYNONYMS: barbatus, capistratus, larvatus, lewisi,
+     longipilis. 
+
+Pseudocheirus herbertensis (Collett, 1884). Proc. Zool.
+     Soc. Lond., 1884:383.
+TYPE LOCALITY: Australia, Queensland, Herbert Vale.
+DISTRIBUTION: NE Queensland (Australia).
+STATUS: Localized but not uncommon.
+SYNONYMS: cinereus, colletti, mongan. 
+COMMENTS: P. h. cinereus may be a distinct species.
+
+Pseudocheirus mayeri (Rothschild and Dollman, 1932).
+     Abstr. Proc. Zool. Soc. Lond., 1932(353):15.
+TYPE LOCALITY: Indonesia, Irian Jaya, Paniai Div.,
+     Weyland Range, Gebroeders Mtns, 1830 m.
+DISTRIBUTION: C interior New Guinea.
+STATUS: Common.
+SYNONYMS: pygmaeus. 
+COMMENTS: See Laurie and Hill (1954:21). 
+
+Pseudocheirus peregrinus (Boddaert, 1785). Elench.
+     Anim., p. 78.
+TYPE LOCALITY: Australia, Queensland, Endeavour River.
+DISTRIBUTION: Australia: Cape York Peninsula
+     (Queensland) to SE South Australia and SW Western
+     Australia, Tasmania, islands of the Bass Straits.
+STATUS: Common.
+SYNONYMS: banksii, bassianus, caudivolvula, convolutor,
+     cookii, incana, incanens, laniginosa, modestus,
+     notialis, novaehollanidiae, occidentalis, oralis,
+     pulcher, rubidus, victoriae, viverrina.
+COMMENTS: Includes laniginosus, cookii (= convolutor),
+     victoriae, rubidus, and occidentalis; see Ride,
+     (1970:246). 
+
+Pseudocheirus schlegeli (Jentink, 1884). Notes Leyden
+     Mus., 6:110.
+TYPE LOCALITY: Indonesia, Irian Jaya, Vogelkop,
+     Manokwari Div., Arfak Mtns.
+DISTRIBUTION: Extreme NW New Guinea.
+STATUS: Rare.
+
+Pseudochirops Matschie, 1915. Sitzb. Ges. Naturf. Fr.
+     Berlin, 4:86.
+TYPE SPECIES: Phalangista (Pseudochirus) albertisii
+     Peters, 1874.
+COMMENTS: Separated from Pseudocheirus by McKay (1988).
+
+Pseudochirops albertisii (Peters, 1874). Ann. Mus. Civ.
+     Stor. Nat. Genova, 6:303.
+TYPE LOCALITY: Indonesia, Irian Jaya, Vogelkop,
+     Manokwari Div., Arfak Mtns, Hatam, 1520 m.
+DISTRIBUTION: N and W New Guinea, including Yapen Isl
+     (Indonesia).
+STATUS: Uncommon.
+SYNONYMS: coronatus, insularis, paradoxus, schultzei. 
+
+Pseudochirops archeri (Collett, 1884). Proc. Zool. Soc.
+     Lond., 1884:381.
+TYPE LOCALITY: Australia, N Queensland, Herbert River
+     District.
+DISTRIBUTION: NE Queensland (Australia).
+STATUS: Locally common, but restricted.
+
+Pseudochirops corinnae (Thomas, 1897). Ann. Mus. Civ.
+     Stor. Nat. Genova, 18:142.
+TYPE LOCALITY: Papua New Guinea, Central Prov., upper
+     Vanapa River.
+DISTRIBUTION: Interior New Guinea.
+STATUS: Common.
+SYNONYMS: argenteus, buergersi, caecias, fuscus. 
+
+Pseudochirops cupreus (Thomas, 1897). Ann. Mus. Civ.
+     Stor. Nat. Genova, 18:145.
+TYPE LOCALITY: Papua New Guinea, Owen Stanley Range.
+DISTRIBUTION: Interior New Guinea.
+STATUS: Common.
+SYNONYMS: beauforti, obscurior. 
+
+Family Petauridae Bonaparte, 1838. Nuovi Ann. Sci.
+     Nat., 2(1):112.
+
+Dactylopsila Gray, 1858. Proc. Zool. Soc. Lond.,
+     1858:109.
+TYPE SPECIES: Dactylopsila trivirgata Gray, 1858.
+SYNONYMS: Dactylonax. 
+COMMENTS: See Haltenorth (1958:28). 
+
+Dactylopsila megalura Rothschild and Dollman, 1932.
+     Abstr. Proc. Zool. Soc. Lond., 1932(353):14.
+TYPE LOCALITY: Indonesia, Irian Jaya, Paniai Div.,
+     Weyland Range, Gebroeders Mtns.
+DISTRIBUTION: Interior New Guinea.
+STATUS: Rare.
+COMMENTS: Considered a subspecies of trivirgata by
+     Ziegler (in Stonehouse and Gilmore, 1977:131). 
+
+Dactylopsila palpator Milne-Edwards, 1888. Mem. Cent.
+     Soc. Philom. Paris, p. 174.
+TYPE LOCALITY: "South coast of New Guinea".
+DISTRIBUTION: Interior New Guinea.
+STATUS: Common.
+SYNONYMS: ernstmayri, palpator. 
+COMMENTS: Formerly included in Dactylonax (see
+     Haltenorth, 1958). 
+
+Dactylopsila tatei Laurie, 1952. Bull. Br. Mus. (Nat.
+     Hist.), Zool., 1:278.
+TYPE LOCALITY: Papua New Guinea, Milne Bay Prov.,
+     Fergusson Isl, Faralulu Dist., mountains above
+     Taibutu Village, 610-915 m.
+DISTRIBUTION: Fergusson Isl; Papua New Guinea.
+STATUS: Rare.
+COMMENTS: Considered a subspecies of trivirgata by
+     Ziegler (in Stonehouse and Gilmore, 1977:131);
+     considered a distinct species by G. G. George
+     (1979:94). 
+
+Dactylopsila trivirgata Gray, 1858. Proc. Zool. Soc.
+     Lond., 1858:111.
+TYPE LOCALITY: Indonesia, Aru Isls.
+DISTRIBUTION: New Guinea and adjacent small islands;
+     Aru Isls; NE Queensland (Australia).
+STATUS: Common.
+SYNONYMS: albertisii, angustivittis, arfakensis,
+     biedermanni, hindenburgi, infumata, kataui,
+     malampus, occidentalis, picata. 
+
+Gymnobelideus McCoy, 1867. Ann. Mag. Nat. Hist., ser.
+     3, 20:287.
+TYPE SPECIES: Gymnobelideus leadbeateri McCoy, 1867.
+
+Gymnobelideus leadbeateri McCoy, 1867. Ann. Mag. Nat.
+     Hist., ser. 3, 20:287.
+TYPE LOCALITY: Australia, Victoria, Bass River.
+DISTRIBUTION: NE Victoria.
+STATUS: U.S. ESA - Endangered; IUCN - Vulnerable.
+
+Petaurus Shaw, 1791. Nat. Misc., 2, pl. 60.
+TYPE SPECIES: Petaurus australis Shaw, 1791.
+SYNONYMS: Belideus, Petaurella, Petaurula, Ptilotus,
+     Xenochirus. 
+
+Petaurus abidi Ziegler, 1981. Aust. Mamm., 4:81.
+TYPE LOCALITY: Papua New Guinea, West Sepik Prov., Mt.
+     Somoro, 3¯25'S, 142¯05'E.
+DISTRIBUTION: NC New Guinea.
+STATUS: Rare.
+
+Petaurus australis Shaw, 1791. Nat. Misc., 2, pl. 6.
+TYPE LOCALITY: Australia, New South Wales, Sydney.
+DISTRIBUTION: Coastal Queensland, New South Wales, and
+     Victoria (Australia).
+STATUS: Common locally.
+SYNONYMS: cunninghami, flaviventer, petaurus, reginae. 
+
+Petaurus breviceps Waterhouse, 1839. Proc. Zool. Soc.
+     Lond., 1838:152 [1839].
+TYPE LOCALITY: Australia, New South Wales.
+DISTRIBUTION: SE South Australia to Cape York Peninsula
+     (Queensland), Tasmania (introduction), N Northern
+     Territory, NE Western Australia; New Guinea and
+     adjacent small islands, including Bismarck Arch.;
+     Aru Isls and N Moluccas (Indonesia).
+STATUS: Common.
+SYNONYMS: ariel, biacensis, flavidus, kohlsi,
+     longicaudatus, notatus, papuanus, tafa. 
+COMMENTS: See Smith (1973, Mammalian Species, 30).
+     McAllan and Bruce (1989) argued that the original
+     publication of this name was in The Athenaeum,
+     580:880 [8 Dec 1838]. 
+
+Petaurus gracilis (de Vis, 1883). Abstr. Proc. Linn.
+     Soc. N.S.W., 20 Dec. 1882, ii.
+TYPE LOCALITY: Australia, Queensland, Cardwell region.
+DISTRIBUTION: Known only from the region of Barrett's
+     Lagoon, near Tully, Queensland, Australia.
+STATUS: Probably endangered.
+COMMENTS: History of description given by Van Dyck
+     (1990). Species resurrected from synonomy with P.
+     norfolcensis by Van Dyck (1991). 
+
+Petaurus norfolcensis (Kerr, 1792). In Linnaeus, Anim.
+     Kingdom, 1:270.
+TYPE LOCALITY: Australia, New South Wales, Sydney.
+DISTRIBUTION: Australia: E Queensland, E New South
+     Wales, E Victoria.
+STATUS: Common.
+SYNONYMS: sciurea.
+
+Family Tarsipedidae Gervais and Verreaux, 1842. Proc.
+     Zool. Soc. Lond., 1842:1.
+
+Tarsipes Gervais and Verreaux, 1842. L'Institut, l'ere
+     Section, Sci., Math, Phys., Nat., 427:75.
+TYPE SPECIES: Tarsipes rostratus Gervais and Verreaux,
+     1842.
+COMMENTS: For correct authorship see Mahoney (1981). 
+
+Tarsipes rostratus Gervais and Verreaux, 1842.
+     L'Institut, l'ere Section, Sci., Math, Phys.,
+     Nat., 427:75.
+TYPE LOCALITY: Australia, Western Australia, King
+     George Sound (Albany), see Gray (1842).
+DISTRIBUTION: SW Western Australia.
+STATUS: Rare.
+SYNONYMS: spencerae, spenserae. 
+COMMENTS: The name T. spenserae is considered a
+     misspelling because it was presented as a patronym
+     for Spencer (Gray, 1842:40). Ride (1970) emended
+     the name to spencerae; see Mahoney (1981) for
+     details. Mahoney (1981) presented evidence that
+     Tarsipes rostratus Gervais and Verreaux, 1842
+     predates T. spenserae Gray, 1842.
+
+Family Acrobatidae Aplin, 1987. In M. Archer (ed.),
+     Possums and Opossums, xxii.
+COMMENTS: Separated from Burramyidae by Aplin (in Aplin
+     and Archer, 1987).
+
+Acrobates Desmarest, 1818. Nouv. Dict. Hist. Nat.,
+     Nouv. ed., 25:405.
+TYPE SPECIES: Didelphis pygmaea.
+SYNONYMS: Ascobates, Cercoptenus. 
+
+Acrobates pygmaeus (Shaw, 1793). Zool. New Holland,
+     1:5.
+TYPE LOCALITY: Australia, New South Wales, Sydney.
+DISTRIBUTION: Australia: E Queensland to SE South
+     Australia, inland to Deniliquin (New South Wales).
+STATUS: Common.
+SYNONYMS: frontalis, pulchellus. 
+COMMENTS: Tate (1938:60) believed the single specimen
+     (of A. pulchellus which is considered a synonym of
+     pygmaeus) obtained in NW New Guinea was probably
+     an introduction as a pet. 
+
+Distoechurus Peters, 1874. Ann. Mus. Civ. Stor. Nat.
+     Genova, 6:303.
+TYPE SPECIES: Phalangista (Distoechurus) pennata
+     Peters, 1874.
+
+Distoechurus pennatus (Peters, 1874). Ann. Mus. Civ.
+     Stor. Nat. Genova, 6:303.
+TYPE LOCALITY: Indonesia, Irian Jaya, Vogelkop,
+     Manokwari Div., "Andai" (Probably = Arfak Mtns,
+     Hatam, 1520 m). See Van der Feen (1962:52).
+DISTRIBUTION: New Guinea.
+STATUS: Abundant.
+SYNONYMS: amoenus, dryas, neuhassi.  
+
+

@@ -1,0 +1,290 @@
+ORDER PERAMELEMORPHIA by Colin P. Groves
+
+ORDER PERAMELEMORPHIA
+SYNONYMS: Perameliformes, Perameloidea.
+COMMENTS: Recognized as an order by Aplin and Archer
+     (1987) who proposed a new syncretic classification
+     of the marsupials. 
+
+Family Peramelidae Gray, 1825. Ann. Philos., n.s.,
+     10:336.
+SYNONYMS: Thylocomyidae. 
+COMMENTS: Includes the family Thylacomyidae; see
+     Vaughan (1978:39) and Groves and Flannery (1990);
+     but also see Archer and Kirsch (1977). Revised by
+     Tate (1948b). 
+
+Chaeropus Ogilby, 1838. Proc. Zool. Soc. Lond.,
+     1838:26.
+TYPE SPECIES: Perameles ecaudatus Ogilby, 1838.
+SYNONYMS: Choeropus. 
+
+Chaeropus ecaudatus (Ogilby, 1838). Proc. Zool. Soc.
+     Lond., 1838:25.
+TYPE LOCALITY: Australia, New South Wales, banks of
+     Murray River, south of the junction with
+     Murrumbridge River.
+DISTRIBUTION: Australia: SW New South Wales, Victoria,
+     S Northern Territory, N South Australia, Western
+     Australia.
+STATUS: CITES - Appendix I pe [possibly extinct]; U.S.
+     ESA - Endangered; IUCN - Extinct.
+SYNONYMS: castanotis, occidentalis. 
+COMMENTS: Probably extinct, last taken in 1907; see
+     Ride (1970:200). 
+
+Isoodon Desmarest, 1817. Nouv. Dict. Hist. Nat., Nouv.
+     ed., 16:409.
+TYPE SPECIES: Didelphis obesula Shaw, 1797.
+SYNONYMS: Thylacis. 
+COMMENTS: Includes Thylacis of Haltenorth, 1958, which
+     was an incorrect usage; see Van Deusen and Jones
+     (1967:74) and Lidicker and Follett (1968). Revised
+     by Lyne and Mort (1981). 
+
+Isoodon auratus (Ramsay, 1887). Proc. Linn. Soc.
+     N.S.W., ser. 2, 2:551.
+TYPE LOCALITY: Australia, Western Australia, Derby.
+DISTRIBUTION: Australia: Formerly Northern Territory
+     and N Western Australia, survives in NW of Western
+     Australia and on Barrow Isl.
+STATUS: Rare.
+SYNONYMS: arnhemensis, barrowensis. 
+COMMENTS: See Ride (1970:96) and Lyne and Mort (1981). 
+
+Isoodon macrourus (Gould, 1842). Proc. Zool. Soc.
+     Lond., 1842:41.
+TYPE LOCALITY: Australia, Northern Territory, Port
+     Essington.
+DISTRIBUTION: NE Western Australia, N Northern
+     Territory, E Queensland, and NE New South Wales
+     (Australia); S and E New Guinea.
+STATUS: Common.
+SYNONYMS: macrura, moresbyensis, torosa. 
+
+Isoodon obesulus (Shaw, 1797). Nat. Misc., 8:298.
+TYPE LOCALITY: Australia, New South Wales, Sydney,
+     Ku-ring-gai Chase Natl. Park, 33¯36'S, 151¯16'E,
+     see Dixon (1981).
+DISTRIBUTION: SE New South Wales, S Victoria, SE South
+     Australia, N Queensland, SW Western Australia,
+     Nuyts Arch. (Great Australian Bight, S Australian
+     coast), and Tasmania.
+STATUS: Locally common.
+SYNONYMS: affinis, fusciventer, nauticus, peninsulae. 
+
+Macrotis Reid, 1837. Proc. Zool. Soc. Lond., 1836:131
+     [1837].
+TYPE SPECIES: Perameles lagotis Reid, 1837.
+SYNONYMS: Paragalia, Phalacomys, Thylacomys. 
+COMMENTS: Not preoccupied by Macrotis Dejean, 1833, a
+     nomen nudum (Troughton, 1932b). Archer and Kirsch
+     (1977) placed Macrotis (including its junior
+     synonym Thylacomys) in a separate family (the name
+     available being Thylacomyidae), rather than in
+     Peramelidae. Groves and Flannery (1990) placed
+     Macrotis back in Peramelidae.
+
+Macrotis lagotis (Reid, 1837). Proc. Zool. Soc. Lond.,
+     1836:129 [1837].
+TYPE LOCALITY: Australia, Western Australia, Swan
+     River.
+DISTRIBUTION: Formerly in Western Australia, South
+     Australia, Northern Territory, W New South Wales,
+     SW Queensland. Survives only in SW Queensland,
+     Northern Territory/Western Australia border region
+     and Kimberleys.
+STATUS: CITES - Appendix I; U.S. ESA and IUCN -
+     Endangered.
+SYNONYMS: cambrica, grandis, interjecta, nigripes,
+     sagitta. 
+
+Macrotis leucura (Thomas, 1887). Ann. Mag. Nat. Hist.,
+     ser. 5, 19:397.
+TYPE LOCALITY: Undesignated; as the specimen was sent
+     by the South Australian Museum's taxidermist to
+     London, Thomas (1887a) thought it might have
+     originated near Adelaide or in the northern part
+     of South Australia, whence others in the same
+     collection had come.
+DISTRIBUTION: C Australia.
+STATUS: CITES - Appendix I; U.S. ESA - Endangered; IUCN
+     - Extinct.
+SYNONYMS: minor, miselius. 
+COMMENTS: Possibly extinct; see Ride (1970:200). 
+
+Perameles ê. Geoffroy, 1804. Ann. Mus. Hist. Nat.
+     Paris, 4:56.
+TYPE SPECIES: Perameles nasuta E. Geoffroy, 1804.
+SYNONYMS: Thylacis. 
+COMMENTS: Perameles was also used by Geoffroy, 1804,
+     Bull. Sci. Soc. Philom. Paris, 3(80):249. 
+
+Perameles bougainville Quoy and Gaimard, 1824. In de
+     Freycinet, Voy. autour du monde...l'Uranie et al
+     Physicienne, Zool., p. 56.
+TYPE LOCALITY: Australia, Western Australia, Shark Bay,
+     Peron Peninsula.
+DISTRIBUTION: Formerly in S South Australia, NW
+     Victoria, W New South Wales, S Western Australia,
+     Bernier and Dorre Isls, survives only on Bernier
+     and Dorre Isls (off Western Australia).
+STATUS: CITES - Appendix I; U.S. ESA - Endangered; IUCN
+     - Rare.
+SYNONYMS: arenaria, fasciata, myosuros, notina. 
+COMMENTS: See Ride (1970:100).
+
+Perameles eremiana Spencer, 1897. Proc. R. Soc.
+     Victoria, 9 (n.s.):9.
+TYPE LOCALITY: Australia, Northern Territory, Burt
+     Plain (N of Alice Springs).
+DISTRIBUTION: N South Australia, S Northern Territory,
+     Great Victoria Desert (Western Australia).
+STATUS: U.S. ESA - Endangered; IUCN - Extinct.
+COMMENTS: Possibly extinct; see Ride (1970:200). 
+
+Perameles gunnii Gray, 1838. Ann. Nat. Hist., 1:107.
+TYPE LOCALITY: Australia, Tasmania.
+DISTRIBUTION: Australia: S Victoria, where restricted
+     to Hamilton, and Tasmania.
+STATUS: Common in Tasmania, Endangered in Victoria.
+
+Perameles nasuta ê. Geoffroy, 1804. Ann. Mus. Hist.
+     Nat. Paris, 4:62.
+TYPE LOCALITY: Australia, New South Wales, Sydney.
+DISTRIBUTION: Australia: E Queensland, E New South
+     Wales, E Victoria.
+STATUS: Common.
+SYNONYMS: lawsoni, major, musei, pallescens.
+
+Family Peroryctidae Groves and Flannery, 1990. In
+     Seebeck et al. (eds.), Bandicoots and Bilbies, p.
+     2.
+COMMENTS: See Groves and Flannery (1990).
+
+Echymipera Lesson, 1842. Nouv. Tabl. Regn. Anim.
+     Mammifäres, p. 192.
+TYPE SPECIES: Perameles kalubu J. Fischer, 1829.
+COMMENTS: See Groves and Flannery (1990).
+
+Echymipera clara Stein, 1932. Z. SÑugetierk., 7:256.
+TYPE LOCALITY: Indonesia, Irian Jaya, Tjenderawasih
+     Div., Japan Isl.
+DISTRIBUTION: NC New Guinea.
+STATUS: IUCN - Rare.
+COMMENTS: See Flannery (1990a) for an assessment of its
+     affinities.
+
+Echymipera davidi Flannery, 1990. In Seebeck et al.
+     (eds.), Bandicoots and Bilbies, p. 29.
+TYPE LOCALITY: Papua New Guinea, Trobriand Isls,
+     Kiriwina Isl (08¯30'S, 151¯00'E).
+DISTRIBUTION: Kiriwina Isl.
+STATUS: Unknown.
+COMMENTS: Not closely related to any other species of
+     Echymipera (Flannery, 1990a).
+
+Echymipera echinista Menzies, 1990. Science in New
+     Guinea, 16:92.
+TYPE LOCALITY: Papua New Guinea, Western (Fly River)
+     Province, Wipim, near Iamega (08¯51'S, 142¯58'E).
+DISTRIBUTION: Known only from Western (Fly River)
+     Province, Papua New Guinea.
+STATUS: Rare.
+
+Echymipera kalubu (J. Fischer, 1829). Synopsis Mamm.,
+     p. 274.
+TYPE LOCALITY: Indonesia, Irian Jaya, Sorong Div.,
+     Waigeo Isl.
+DISTRIBUTION: New Guinea and adjacent small islands
+     including Bismarck Arch., Mysol and Salawati Isls.
+STATUS: Common.
+SYNONYMS: albiceps, breviceps, cockerelli, doreyanus,
+     garagassi, hispida, myoides, oriomo, philipi,
+     rufiventris. 
+COMMENTS: The name kalubu has been attributed to
+     Lesson, 1828, Dict. Class. Hist. Nat., 13:200; but
+     see Husson (1955:290). 
+
+Echymipera rufescens (Peters and Doria, 1875). Ann.
+     Mus. Civ. Stor. Nat. Genova, 7:541.
+TYPE LOCALITY: Indonesia, Kei Isls.
+DISTRIBUTION: Cape York Peninsula (Queensland,
+     Australia); New Guinea and certain small islands
+     off SE coast; Kei and Aru Isls (Indonesia).
+STATUS: Uncommon.
+SYNONYMS: aruensis, australis, gargantua, keiensis,
+     welsianus. 
+
+Microperoryctes Stein, 1932. Z. SÑugetierk., 7:256.
+TYPE SPECIES: Microperoryctes murina Stein, 1932.
+SYNONYMS: Ornoryctes.
+COMMENTS: For synonymy of Ornoryctes with
+     Microperoryctes instead of with Peroryctes, see
+     Groves and Flannery (1990).
+
+Microperoryctes longicauda (Peters and Doria, 1876).
+     Ann. Mus. Civ. Stor. Nat. Genova, 8:335.
+TYPE LOCALITY: Indonesia, Irian Jaya, Vogelkop,
+     Manokwari Div., Arfak Mtns, Hatam, 1520 m.
+DISTRIBUTION: Interior New Guinea.
+STATUS: Common.
+SYNONYMS: dorsalis, magnus, ornatus. 
+COMMENTS: Formerly included in Peroryctes, but see
+     Groves and Flannery (1990).
+
+Microperoryctes murina Stein, 1932. Z. SÑugetierk.,
+     7:257.
+TYPE LOCALITY: Indonesia, Irian Jaya, Paniai Div.,
+     Weyland Mtns, Sumuri Mtn, 2500 m.
+DISTRIBUTION: W interior New Guinea.
+STATUS: Rare.
+
+Microperoryctes papuensis (Laurie, 1952). Bull. Brit.
+     Mus. (Nat. Hist.), Zool., 1:291.
+TYPE LOCALITY: Papua New Guinea, Milne Bay Prov., Mt.
+     Mura, (30 mi NW Mt. Simpson), Boneno, 1220-1525 m.
+DISTRIBUTION: SE interior New Guinea.
+STATUS: Rare.
+COMMENTS: Formerly included in Peroryctes, but see
+     Groves and Flannery (1990).
+
+Peroryctes Thomas, 1906. Proc. Zool. Soc. Lond.,
+     1906:476.
+TYPE SPECIES: Perameles raffrayana Milne-Edwards, 1878.
+
+Peroryctes broadbenti (Ramsay, 1879). Proc. Linn. Soc.
+     N.S.W., 3:402, pl. 27.
+TYPE LOCALITY: Papua New Guinea, Central Prov., banks
+     of Goldie River (a tributary of the Laloki River)
+     inland from Port Moresby.
+DISTRIBUTION: SE New Guinea.
+STATUS: Rare.
+COMMENTS: Included in raffrayana by Laurie and Hill
+     (1954:10), but considered a distinct species by
+     Van Deusen and Jones (1967:74).
+
+Peroryctes raffrayana (Milne-Edwards, 1878). Ann. Sci.
+     Nat. Zool. (Paris), ser. 6, 7(art. 11):1.
+TYPE LOCALITY: Indonesia, Irian Jaya, Vogelkop,
+     Manokwari Div., Amberbaki.
+DISTRIBUTION: New Guinea.
+STATUS: Uncommon.
+SYNONYMS: mainois, rothschildi. 
+COMMENTS: Laurie and Hill (1954:10) included broadbenti
+     in this species; but see Van Deusen and Jones
+     (1967:74).
+
+Rhynchomeles Thomas, 1920. Ann. Mag. Nat. Hist., ser.
+     9, 6:429-430.
+TYPE SPECIES: Rhynchomeles prattorum Thomas, 1920.
+
+Rhynchomeles prattorum Thomas, 1920. Ann. Mag. Nat.
+     Hist., ser. 9, 6:429-430.
+TYPE LOCALITY: Indonesia, Ceram Isl, Mt. Manusela, 1800
+     m.
+DISTRIBUTION: Ceram Isl (Indonesia).
+STATUS: Rare.
+COMMENTS: See Groves and Flannery (1990).
+
+

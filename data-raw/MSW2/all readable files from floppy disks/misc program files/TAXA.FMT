@@ -1,0 +1,7 @@
+* TAXA.FMT
+CLEAR
+@ 2, 5 SAY 'Memo fields for ' + PRINTNAME
+@ 5, 5 SAY 'Hit Ctrl-PgDn to edit memo field'
+@ 6, 5 SAY 'Hit Ctrl-End to save changes, or ESC to discard them'
+@ 9, 5 SAY 'Synonyms:' GET SYNON
+@ 11,5 SAY 'Comments:' GET NOTES

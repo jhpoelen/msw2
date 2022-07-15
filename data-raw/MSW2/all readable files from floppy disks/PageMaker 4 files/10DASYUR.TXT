@@ -1,0 +1,755 @@
+ORDER DASYUROMORPHIA by Colin P. Groves
+
+ORDER DASYUROMORPHIA
+SYNONYMS: Dasyuroidea, Dasyuriformes.
+COMMENTS: Recognized as an order by Aplin and Archer
+     (1987) who proposed a new syncretic classification
+     of the marsupials. Includes the Australian
+     component of Marsupicarnivora (see Ride, 1964b).
+
+Family Thylacinidae Bonaparte, 1838. Nuovi Ann. Sci.
+     Nat., 2(1):112.
+COMMENTS: Some authors include this family in the
+     Dasyuridae, see Vaughan (1978:39), but also see
+     Ride (1964b), Archer and Kirsch (1977), and Kirsch
+     and Calaby (1977:15) who retained this family.
+
+Thylacinus Temminck, 1824. Monogr. Mamm., 1:23.
+TYPE SPECIES: Didelphis cynocephala Harris, 1808.
+SYNONYMS: Lycaon (preoccupied by Lycaon Brooks, 1827, a
+     canid), Paracyon, Peralopex. 
+
+Thylacinus cynocephalus (Harris, 1808). Trans. Linn.
+     Soc. Lond., 9:174.
+TYPE LOCALITY: Australia, Tasmania.
+DISTRIBUTION: Tasmania.
+STATUS: CITES - Appendix I pe [possibly extinct]; U.S.
+     ESA - Endangered; IUCN - Extinct.
+SYNONYMS: breviceps, communis, harrisii, lucocephalus,
+     striatus. 
+COMMENTS: Probably extinct; but tracks and sightings
+     continue to be reported; see Ride (1970:201). 
+
+Family Myrmecobiidae Waterhouse, 1841. Nat. Hist.
+     Marsup. or Pouched Animals (Naturalist's Libr.,
+     10):60.
+COMMENTS: This citation is usually listed as "Cat.
+     Mamm. Mus. Zool Soc., 1838" but Myrmecobiidae is
+     not used in this catalogue; see Palmer (1904).
+     Some authors include this family in the
+     Dasyuridae; see Vaughan (1978:39); but also see
+     Ride (1964b), Archer and Kirsch (1977), and Kirsch
+     and Calaby (1977:15), who retained this family.
+
+Myrmecobius Waterhouse, 1836. Proc. Zool. Soc. Lond.,
+     1836:69.
+TYPE SPECIES: Myrmecobius fasciatus Waterhouse, 1836.
+
+Myrmecobius fasciatus Waterhouse, 1836. Proc. Zool.
+     Soc. Lond., 1836:69.
+TYPE LOCALITY: Australia, Western Australia, Mt.
+     Kokeby, S of Beverley.
+DISTRIBUTION: SW Western Australia; formerly in NW
+     South Australia and SW New South Wales.
+STATUS: U.S. ESA and IUCN - Endangered.
+SYNONYMS: rufus. 
+
+Family Dasyuridae Goldfuss, 1820. Handb. Zool., II:447.
+COMMENTS: Some authors include Thylacinidae and
+     Myrmecobiidae in this family; see Vaughan
+     (1978:39); but also see Ride (1964b), Archer and
+     Kirsch (1977), Kirsch and Calaby (1977:15), and
+     Archer (1982) who retained these families. Revised
+     by Tate (1947). 
+
+Antechinus Macleay, 1841. Ann. Mag. Nat. Hist., [ser.
+     1], 8:242.
+TYPE SPECIES: Antechinus stuartii Macleay, 1841.
+COMMENTS: For the exclusion of Parantechinus and
+     Pseudantechinus see Haltenorth (1958:18) and Ride
+     (1964a); and of Dasykaluta see Archer (1982:434). 
+
+Antechinus bellus (Thomas, 1904). Nov. Zool., 11:229.
+TYPE LOCALITY: Australia, Northern Territory, South
+     Alligator River.
+DISTRIBUTION: N Northern Territory (Australia).
+STATUS: Unknown.
+
+Antechinus flavipes (Waterhouse, 1838). Proc. Zool.
+     Soc. Lond., 1837:75 [1838].
+TYPE LOCALITY: Australia, New South Wales, north of
+     Hunter river.
+DISTRIBUTION: Cape York Peninsula (Queensland) to
+     Victoria and SE South Australia, SW Western
+     Australia.
+STATUS: Common.
+SYNONYMS: leucogaster, rubeculus, rufogaster.
+
+Antechinus godmani (Thomas, 1923). Ann. Mag. Nat.
+     Hist., ser. 9, 11:174.
+TYPE LOCALITY: Australia, Queensland, Ravenshoe, Dinner
+     Creek, 2900 ft. (884 m.), 17¯40'S, 145¯30'E.
+DISTRIBUTION: NE Queensland.
+STATUS: Common.
+COMMENTS: Included in flavipes by Haltenorth (1958:18);
+     but see Kirsch and Calaby (1977:15).
+
+Antechinus leo Van Dyck, 1980. Aust. Mamm., 3:1.
+TYPE LOCALITY: Australia, Queensland, Cape York
+     Penninsula, Nesbit River, Buthen Buthen (13¯21'S,
+     143¯28'E).
+DISTRIBUTION: Cape York Peninsula from the Iron Range
+     to the southern limit of the McIlwraith Range.
+STATUS: Unknown.
+
+Antechinus melanurus (Thomas, 1899). Ann. Mus. Civ.
+     Stor. Nat. Genova, 20:191.
+TYPE LOCALITY: Papua New Guinea, Central Prov.,
+     Astrolabe Range, Moroka, 1300 m.
+DISTRIBUTION: New Guinea.
+STATUS: Unknown.
+SYNONYMS: modesta.
+COMMENTS: Generic allocation uncertain.
+
+Antechinus minimus (ê. Geoffroy, 1803). Bull. Sci. Soc.
+     Philom. Paris, 81:159.
+TYPE LOCALITY: Australia, Tasmania; probably Waterhouse
+     Isl, Bass Strait (see Wakefield and Warneke,
+     1963:209-210).
+DISTRIBUTION: Coastal SE South Australia to Tasmania.
+STATUS: Probably common.
+SYNONYMS: affinis, concinnus, maritima, rolandensis.
+
+Antechinus naso (Jentink, 1911). Notes Leyden Mus.,
+     33:236.
+TYPE LOCALITY: Indonesia, Irian Jaya, Djajawidjaja
+     Div., Helwig Mtns, south of Mt. Wilhelmina, about
+     2000 m.
+DISTRIBUTION: Interior New Guinea, 5,000-9,000 ft.
+STATUS: Common.
+SYNONYMS: centralis, habbema, mayeri, misim, tafa.
+COMMENTS: Generic allocation uncertain.
+
+Antechinus stuartii Macleay, 1841. Ann. Mag. Nat.
+     Hist., [ser. 1], 8:242.
+TYPE LOCALITY: Australia, New South Wales, Manly
+     (Spring Cove, Sydney Harbour); neotype from
+     Waterfall, Royal National Park.
+DISTRIBUTION: E Queensland, E New South Wales, Victoria
+     (Australia).
+STATUS: Common.
+SYNONYMS: adusta, burrelli, unicolor.
+COMMENTS: Van Dyck (1982) stated that Antechinus
+     stuartii adustus, from the vine forest region
+     between Paluma (19¯00'S, 146¯12'E) and Mt.
+     Spurgeon (16¯25' S, 145¯12'E), is probably a valid
+     species. Dickman et al. (1988) showed that A.
+     stuartii in E New South Wales is actually divided
+     into two quite distinct species: A. stuartii north
+     of about 35¯S, and an undescribed species mainly
+     south of this latitude (but recurring farther
+     north and inland at Mt. Canobolas, 33¯10'S,
+     149¯00'E; and the two have been found together at
+     Kioloa, 35¯32'S, 150¯23'E). 
+
+Antechinus swainsonii (Waterhouse, 1840). Mag. Nat.
+     Hist. [Charlesworth's], 4:299.
+TYPE LOCALITY: Australia, Tasmania.
+DISTRIBUTION: SE Queensland, E New South Wales, E and
+     SE Victoria, coastal SE Australia, and Tasmania.
+STATUS: Common.
+SYNONYMS: assimilis, mimetes, moorei, niger.
+
+Antechinus wilhelmina Tate, 1947. Bull. Am. Mus. Nat.
+     Hist., 88:130.
+TYPE LOCALITY: Indonesia, Irian Jaya, Djajawidjaja
+     Div., 9 km. N. Lake Habbema, north of Mt.
+     Wilhelmina, 2800 m.
+DISTRIBUTION: C New Guinea, 7000-9000 ft.
+STATUS: Unknown.
+SYNONYMS: hageni.
+COMMENTS: Generic allocation uncertain.
+
+Dasycercus Peters, 1875. Sitzb. Ges. Naturf. Fr.
+     Berlin, 1875:73.    
+TYPE SPECIES: Chaetocercus cristicauda Krefft, 1867.
+SYNONYMS: Amperta, Chaetocercus, Dasyuroides 
+COMMENTS: Original name Chaetocercus Kreft, 1867 is
+     preoccupied. Includes Dasyuroides; see Mack (1961)
+     and Mahoney and Ride (in Walton, 1988:18).
+
+Dasycercus byrnei (Spencer, 1896). Rept. Horn Sci.
+     Exped. Cent. Aust., Zool., 2:36.
+TYPE LOCALITY: Australia, Northern Territory, Charlotte
+     Waters.
+DISTRIBUTION: Junction of Northern Territory, South
+     Australia, and Queensland (C Australia).
+STATUS: Rare.
+SYNONYMS: pallidius. 
+COMMENTS: Included in Dasycercus by Mack (1961);
+     accepted as a member of Dasycercus by Mahoney and
+     Ride (in Walton, 1988).
+
+Dasycercus cristicauda (Krefft, 1867). Proc. Zool. Soc.
+     Lond., 1866:435 [1867].
+TYPE LOCALITY: Australia, South Australia, probably
+     Lake Alexandrina.
+DISTRIBUTION: Arid Australia from NW Western Australia
+     to SW Queensland, N South Australia.
+STATUS: Rare or indeterminate.
+SYNONYMS: blighi, blythi, hillieri. 
+
+Dasykaluta Archer, 1982. In M. Archer, Carnivorous
+     Marsupials, 2:434.
+TYPE SPECIES: Antechinus rosamondae Ride, 1964.
+
+Dasykaluta rosamondae (Ride, 1964). W. Aust. Nat.,
+     9:58.
+TYPE LOCALITY: Australia, Western Australia, Woodstock
+     Station (via Marble Bar), 21¯35'S, 119¯E.
+DISTRIBUTION: NW Western Australia.
+STATUS: Rare.
+
+Dasyurus ê. Geoffroy, 1796. Mag. Encyclop., ser. 2,
+     3:469.
+TYPE SPECIES: Didelphis maculata Anon., 1791.
+SYNONYMS: Dasyurinus, Dasyurops, Nasira, Notoctonus,
+     Satanellus, Stictophonus. 
+COMMENTS: See Haltenorth (1958:20). 
+
+Dasyurus albopunctatus Schlegel, 1880. Notes Leyden
+     Mus., 2:51.
+TYPE LOCALITY: Indonesia, Irian Jaya, Vogelkop,
+     Manokwari Div., Arfak Mtns, Sapoea.
+DISTRIBUTION: New Guinea.
+STATUS: Uncommon.
+SYNONYMS: daemonellus, fuscus. 
+
+Dasyurus geoffroii Gould, 1841. Proc. Zool. Soc. Lond.,
+     1840:151 [1841].
+TYPE LOCALITY: Australia, New South Wales, Liverpool
+     Plains.
+DISTRIBUTION: Western Australia; formerly in South
+     Australia, Northern Territory, S Queensland, W New
+     South Wales, and NW Victoria (Archer, in Tyler,
+     1979; Waithman, 1979).
+STATUS: Rare.
+SYNONYMS: fortis. 
+COMMENTS: Formerly included in Dasyurinus. The New
+     Guinea records of this species actually refer to
+     D. spartacus.
+
+Dasyurus hallucatus Gould, 1842. Proc. Zool. Soc.
+     Lond., 1842:41.
+TYPE LOCALITY: Australia, Northern Territory, Port
+     Essington.
+DISTRIBUTION: Australia: N Northern Territory, N and NE
+     Queensland, and N Western Australia.    
+STATUS: Common.
+SYNONYMS: exilis, nesaeus, predator. 
+COMMENTS: Sometimes assigned to Satanellus. The
+     original name Mustela quoll Zimmermann, 1783, was
+     suppressed under Article 80 of the International
+     Code of Zoological Nomenclature (International
+     Commission on Zoological Nomenclature, 1985), now
+     correctly Dasyurus hallucatus. 
+
+Dasyurus maculatus (Kerr, 1792). In Linnaeus, Anim.
+     Kingdom, 1:170.
+TYPE LOCALITY: Australia, New South Wales, Port
+     Jackson.
+DISTRIBUTION: Australia: E Queensland, E New South
+     Wales, E and S Victoria, SE South Australia,
+     Tasmania. Formerly occurred in South Australia.
+STATUS: Widespread but rare; locally common in
+     Tasmania. 
+SYNONYMS: gracilis, macrourus, novaehollandiae, ursinus. 
+COMMENTS: Formerly included in Dasyurops; see
+     Haltenorth (1958). 
+
+Dasyurus spartacus Van Dyck, 1987. Aust. Mamm., 11:145.
+TYPE LOCALITY: Papua New Guinea, Trans-fly Plains,
+     Marehead, 8¯41'S, 141¯39'E.
+DISTRIBUTION: Fly Plains, Papua New Guinea.
+STATUS: Unknown.
+COMMENTS: Formerly included in D. geoffroii.
+
+Dasyurus viverrinus (Shaw, 1800). Gen. Zool. Syst. Nat.
+     Hist., 1(2), Mammalia, p. 491.
+TYPE LOCALITY: Australia, New South Wales, Sydney.
+DISTRIBUTION: Probably survives only in Tasmania;
+     formerly South Australia, New South Wales, and
+     Victoria (Archer, in Tyler, 1979).
+STATUS: U.S. ESA - Endangered.
+SYNONYMS: alboguttata, guttatus, maugei. 
+COMMENTS: Dasyurus quoll Zimmermann, 1777 (not Mustela
+     quoll Zimmermann, 1783), is invalid: this work was
+     rejected by Opinion 257 of the International
+     Commission on Zoological Nomenclature (1954a).
+     Also the name Dasyurus maculata Anon., 1791, was
+     suppressed under Article 80 of the International
+     Code of Zoological Nomenclature (International
+     Commission on Zoological Nomenclature, 1985).
+     "Original" name is now Didelphis viverrina Shaw,
+     1800. 
+
+Murexia Tate and Archbold, 1937. Bull. Am. Mus. Nat.
+     Hist., 73:335 (footnote), 339.
+TYPE SPECIES: Phascogale murex Thomas, 1913 (=
+     Phascogale longicaudata Schlegel, 1866).
+
+Murexia longicaudata (Schlegel, 1866). Ned. Tijdschr.
+     Dierk., 3:356.
+TYPE LOCALITY: Indonesia, Aru Islands, Wonoumbai.
+DISTRIBUTION: New Guinea, Aru Islands.
+STATUS: Uncommon.
+SYNONYMS: aspera, maxima, murex, parva. 
+
+Murexia rothschildi (Tate, 1938). Nov. Zool., 41:58.
+          
+TYPE LOCALITY: Papua New Guinea, Central Prov., head of Aroa
+River, about 1220 m.
+DISTRIBUTION: SE New Guinea.
+STATUS: Uncommon.
+
+Myoictis Gray, 1858. Proc. Zool. Soc. Lond., 1858:112.
+TYPE SPECIES: Myoictis wallacei Gray, 1858 (=
+     Phascogale melas MÅller, 1840).
+
+Myoictis melas (MÅller, 1840). In Temminck, Verh. Nat.
+     Ges. Ned. Overz. Bezitt., Land-en Volkenkunde, p.
+     20[1840], see comments.
+TYPE LOCALITY: "Nieuw-Guinea, in de triton's baai (op
+     3¯39'Z. breedte)" = Indonesia, Irian Jaya, Fakfak
+     Div., Lobo Dist., near Triton Bay, Mt.
+     Lamantsjieri.
+DISTRIBUTION: New Guinea; Salawati Isl and Aru Isls
+     (Indonesia).
+STATUS: Rare.
+SYNONYMS: bruijni, pilicauda, senex, thorbeckiana,
+     wallacei, wavicus. 
+COMMENTS: This species was further described by MÅller
+     and Schlegel, in Temminck, Verh. Nat. Gesch.
+     Nederland. Overz. Bezitt., Zool., Mammalia, p.
+     149[1845], pl. 25[1843]. 
+
+Neophascogale Stein, 1933. Z. SÑugetierk., 8:87.
+TYPE SPECIES: Phascogale venusta Thomas, 1921.
+
+Neophascogale lorentzi (Jentink, 1911). Notes Leyden
+     Mus., 33:234.
+TYPE LOCALITY: Indonesia, Irian Jaya, Djajawidjaja (=
+     Jayawijaya) Div., Helwig Mtns, south of Mt.
+     Wilhelmina, 2600 m.
+DISTRIBUTION: C New Guinea (highlands).
+STATUS: Uncommon.
+SYNONYMS: nouhuysii, rubrata, venusta. 
+
+Ningaui Archer, 1975. Mem. Queensl. Mus., 17(2):239.
+TYPE SPECIES: Ningaui timealeyi Archer, 1975.
+COMMENTS: An undescribed species of Ningaui occurs in
+     Northern Territory (Australia); see Johnson and
+     Roff (1980). 
+
+Ningaui ridei Archer, 1975. Mem. Queensl. Mus.,
+     17(2):246.
+TYPE LOCALITY: Australia, Western Australia, 38.6 km
+     ENE Laverton (28¯30'S, 122¯47'E).
+DISTRIBUTION: Northern Territory, South Australia, and
+     Western Australia (deserts).
+STATUS: Common.
+
+Ningaui timealeyi Archer, 1975. Mem. Queensl. Mus.,
+     17(2):244.
+TYPE LOCALITY: Australia, Western Australia, 32.2 km SE
+     Mt. Robinson.
+DISTRIBUTION: NW Western Australia.
+STATUS: Common.
+
+Ningaui yvonnae Kitchener, Stoddart, and Henry, 1983.
+     Aus. J. Zool., 31:366.
+TYPE LOCALITY: "Mt. Manning Area, Western Australia
+     Goldfields, 29¯58'S.,119¯32'E".
+DISTRIBUTION: Australia: Western Australia to New South
+     Wales, Victoria.
+STATUS: Common.
+
+Parantechinus Tate, 1947. Bull. Am. Mus. Nat. Hist.,
+     88:137.
+TYPE SPECIES: Phascogale apicalis Gray, 1842.
+COMMENTS: Kitchener and Caputi (1988) restricted this
+     genus to P. apicalis. 
+
+Parantechinus apicalis (Gray, 1842). Ann. Mag. Nat.
+     Hist., [ser. 1], 9:518.
+TYPE LOCALITY: Australia, SW Western Australia.
+DISTRIBUTION: Inland periphery of SW Western Australia.
+STATUS: U.S. ESA - Endangered; IUCN - Indeterminate.
+
+Parantechinus bilarni (Johnson, 1954). Proc. Biol. Soc.
+     Wash., 67:77.
+TYPE LOCALITY: Australia, Northern Territory, Oenpelli
+     (12¯20'S, 133¯3'E).
+DISTRIBUTION: Northern Territory (Australia).
+STATUS: Rare.
+COMMENTS: Included in Antechinus (= Pseudantechinus)
+     macdonnellensis by Ride (1970:116), but see Kirsch
+     and Calaby (1977:15). According to Kitchener and
+     Caputi (1988), this species should be transferred
+     to Pseudantechinus.
+
+Phascogale Temminck, 1824. Monogr. Mamm., 1:23, 56.
+TYPE SPECIES: Didelphis penicillata Shaw, 1800 (=
+     Vivera tapoatafa Meyer, 1793).
+SYNONYMS: Ascogale, Phascologale, Phascoloictis, Tapoa.
+
+Phascogale calura Gould, 1844. Proc. Zool. Soc. Lond.,
+     1844:104.
+TYPE LOCALITY: Australia, Western Australia, Williams
+     River, Military Station.
+DISTRIBUTION: Inland SW Western Australia, formerly in
+     Northern Territory, South Australia, NW Victoria,
+     SW New South Wales, but probably extinct in all
+     places except the Western Australia wheat belt.
+STATUS: IUCN - Indeterminate; limited distribution,
+     vulnerable.
+
+Phascogale tapoatafa (F. Meyer, 1793). Zool. Entdeck.,
+     p. 28.
+TYPE LOCALITY: Australia, New South Wales, Sydney.
+DISTRIBUTION: SW Western Australia, SE South Australia,
+     S Victoria, E New South Wales, SE and N
+     Queensland, Northern Territory.
+SYNONYMS: penicillata, pirata, tafa. 
+
+Phascolosorex Matschie, 1916. Mitt. Zool. Mus. Berlin,
+     8:263.
+TYPE SPECIES: Phascogale dorsalis Peters and Doria,
+     1876.
+
+Phascolosorex doriae (Thomas, 1886). Ann. Mus. Civ.
+     Stor. Nat. Genova, 4:208.
+TYPE LOCALITY: Indonesia, Irian Jaya, Vogelkop,
+     Manokwari Div., Arfak Mtns, Mori.
+DISTRIBUTION: W interior New Guinea.
+STATUS: Uncommon.
+SYNONYMS: pan, umbrosa. 
+
+Phascolosorex dorsalis (Peters and Doria, 1876). Ann.
+     Mus. Civ. Stor. Nat. Genova, 8:335.
+TYPE LOCALITY: Indonesia, Irian Jaya, Vogelkop,
+     Manokwari Div., Arfak Mtns, Hatam.
+DISTRIBUTION: W and E interior New Guinea (not known
+     from central region).
+STATUS: Common.
+SYNONYMS: brevicaudata, whartoni. 
+
+Planigale Troughton, 1928. Rec. Aust. Mus., 16:282.
+TYPE SPECIES: Planigale brunneus Troughton, 1928 (=
+     Phascogale ingrami Thomas, 1906).
+COMMENTS: Revised by Archer (1976). 
+
+Planigale gilesi Aitken, 1972. Rec. S. Aust. Mus.,
+     16(10):1.
+TYPE LOCALITY: Australia, South Australia, Ann Creek
+     Station (No. 3 bore) (28¯18'S, 136¯29'40"E).
+DISTRIBUTION: NE South Australia, NW New South Wales,
+     and SW Queensland (Australia).
+STATUS: Unknown.
+
+Planigale ingrami (Thomas, 1906). Abstr. Proc. Zool.
+     Soc. Lond., 1906(32):6.
+TYPE LOCALITY: Australia, Northern Territory,
+     Alexandria.
+DISTRIBUTION: Australia: N and E Queensland, NE
+     Northern Territory, NE Western Australia.
+STATUS: U.S. ESA - Endangered as P. i. subtilissima.
+SYNONYMS: brunnea, subtilissima. 
+COMMENTS: See Archer (1976:351). 
+
+Planigale maculata (Gould, 1851). Mamm. Aust., 1, pl.
+     44.
+TYPE LOCALITY: Australia, New South Wales, Clarence
+     River.
+DISTRIBUTION: E Queensland, NE New South Wales, and N
+     Northern Territory (Australia).
+STATUS: Unknown.
+SYNONYMS: minutissimus, sinualis. 
+COMMENTS: Transferred to Planigale from Antechinus by
+     Archer (1976:346). 
+
+Planigale novaeguineae Tate and Archbold, 1941. Am.
+     Mus. Novit., 1101:7.
+TYPE LOCALITY: Papua New Guinea, Central Prov., Rona
+     Falls, Laloki River (vicinity of Port Moresby),
+     250 m.
+DISTRIBUTION: S New Guinea.
+STATUS: Uncommon.
+
+Planigale tenuirostris Troughton, 1928. Rec. Aust.
+     Mus., 16:285.
+TYPE LOCALITY: Australia, "Collected at Bourke or
+     Wilcannia, New South Wales".
+DISTRIBUTION: NW New South Wales, and SC Queensland
+     (Australia).
+STATUS: U.S. ESA - Endangered.
+
+Pseudantechinus Tate, 1947. Bull. Am. Mus. Nat. Hist.,
+     88:139.
+TYPE SPECIES: Phascogale macdonnellensis Spencer, 1896.
+COMMENTS: Separated from Antechinus by Archer
+     (1982:434).
+
+Pseudantechinus macdonnellensis (Spencer, 1896). Rept.
+     Horn Sci. Exped. Cent. Aust., Zool., 2:27.
+TYPE LOCALITY: Australia, Northern Territory, south of
+     Alice Springs.
+DISTRIBUTION: N Western Australia, Northern Territory,
+     central deserts (Australia).
+STATUS: Unknown.
+SYNONYMS: mimulus.
+
+Pseudantechinus ningbing Kitchener, 1988. Rec. W. Aust.
+     Mus., 14:62.
+TYPE LOCALITY: Australia, Western Australia, Kimberley
+     region, Mitchell Plateau, ca. 220m, 14¯53'40"S,
+     125¯45'20"E.
+DISTRIBUTION: Kimberley region, Western Australia.
+
+Pseudantechinus woolleyae Kitchener and Caputi, 1988.
+     Rec. W. Aust. Mus., 14:39.
+TYPE LOCALITY: Australia, Western Australia, near
+     Newligunn bore, 10km.117¯ from Errabiddy
+     Homestead, 25¯33'00"S, 117¯08'00"E.
+DISTRIBUTION: Western Australia: Pilbara region and
+     further south - between ca. 21¯ and 28¯S, 115¯ and
+     122¯E.
+
+Sarcophilus F. Cuvier, 1837. In E. Geoffroy and F.
+     Cuvier, Hist. Nat. Mammifäres, pt. 4, 7(70):1-6,
+     "Sarcophile oursin".
+TYPE SPECIES: Didelphis ursina Harris, 1808 (= Dasyurus
+     laniarius Owen, 1838).
+SYNONYMS: Diabolus, Ursinus. 
+
+Sarcophilus laniarius (Owen, 1838). In T. L. Mitchell,
+     Three Exped. into the Interior of E. Australia. p.
+     363.
+TYPE LOCALITY: Australia, Wellington Caves
+     (Pleistocene).
+DISTRIBUTION: Australia: Tasmania, perhaps S Victoria,
+     where it is known as a subfossil.
+STATUS: Common.
+SYNONYMS: dixonae, harrisii, satanicus, ursina. 
+COMMENTS: Usually called S. harrisii, but see Werdelin
+     (1987:9).
+
+Sminthopsis Thomas, 1887. Ann. Mus. Civ. Stor. Nat.
+     Genova, ser. 2, 4:503.
+TYPE SPECIES: Phascogale crassicaudata Gould, 1844.
+SYNONYMS: Antechinomys, Podabrus. 
+COMMENTS: Includes Antechinomys as a subgenus; formerly
+     considered a valid genus by Archer (1977), but
+     considered a subgenus by Archer (1979:329); see
+     also Kirsch and Calaby (1977:15). On the basis of
+     other anatomic and isozymic data, Lidicker
+     (1983:1317) considered Antechinomys a distinct
+     genus, despite similarity in dental morphology
+     with Sminthopsis. An additional undescribed
+     species has been reported from S New Guinea and N
+     Australia; see Archer (in Tyler, 1979) and
+     Waithman (1979). Revised by Archer (1981).
+     Original name Podabrus, Gould, 1845, is
+     preoccupied.
+
+Sminthopsis aitkeni Kitchener, Stoddart and Henry,
+     1984. Rec. W. Aust. Mus., 11:204.
+TYPE LOCALITY: Australia, South Australia, Kangaroo
+     Isl, Section 46, Cassini.
+DISTRIBUTION: Kangaroo Isl (South Australia).
+STATUS: Unknown.
+COMMENTS: Separated from S. murina by Kitchener et al.
+     (1984b:204).
+
+Sminthopsis archeri Van Dyck, 1986. Aust. Mamm., 9:112.
+TYPE LOCALITY: Papua New Guinea, Trans-fly Plains,
+     Morehead (8¯04'S, 141¯39'E).
+DISTRIBUTION: S Papua New Guinea; Northern Gulf,
+     Queensland (Australia).
+STATUS: Common?
+
+Sminthopsis butleri Archer, 1979. Aust. Zool.,
+     20(2):329.     
+TYPE LOCALITY: Australia, Western Australia, Kalumburu
+(14¯15'S, 126¯40'E).
+DISTRIBUTION: In Australia known only from the type
+     locality; also in Papua New Guinea.
+COMMENTS: Name first mentioned by Kirsch (1977:47), but
+     first made available by Archer (1979).
+
+Sminthopsis crassicaudata (Gould, 1844). Proc. Zool.
+     Soc. Lond., 1844:105.
+TYPE LOCALITY: Australia, Western Australia, Williams
+     River.
+DISTRIBUTION: South Australia, SW Queensland, SE
+     Northern Territory, S Western Australia, W New
+     South Wales, W Victoria.
+STATUS: Common?
+SYNONYMS: centralis, ferruginea. 
+COMMENTS: See Archer (1979:329, 1981:176). 
+
+Sminthopsis dolichura Kitchener, Stoddart and Henry,
+     1984. Rec. W. Aust. Mus., 11:204.
+TYPE LOCALITY: Western Australia, 6 km SSE of
+     Buningonia Spring, 32¯28'S, 123¯36'E.
+DISTRIBUTION: Western Australia, South Australia.
+STATUS: Unknown.
+COMMENTS: Separated from S. murina by Kitchener et al.
+     (1984b). 
+
+Sminthopsis douglasi Archer, 1979. Aust. Zool.,
+     20(2):337.
+TYPE LOCALITY: Australia, Queensland, Cloncurry River
+     Watershed, Julia Creek (20¯40'S, 141¯40'E).
+DISTRIBUTION: Known only from type locality and
+     Richmond in Cloncurry River Watershed, Queensland,
+     and possibly Mitchell Plateau, Western Australia.
+STATUS: IUCN - Indeterminate.
+
+Sminthopsis fuliginosus (Gould, 1852). Mamm. Aust., 1,
+     pl. 41.
+TYPE LOCALITY: Western Australia, King George Sound.
+DISTRIBUTION: SW Western Australia.
+COMMENTS: Separated from S. murina by Kitchener et al.
+     (1984b). 
+
+Sminthopsis gilberti Kitchener, Stoddart, and Henry,
+     1984. Rec. W. Aust. Mus., 11:204.
+TYPE LOCALITY: Western Australia, Mt. Saddleback,
+     32¯58'S, 116¯20'E.
+DISTRIBUTION: SW Western Australia.
+STATUS: Unknown.
+
+Sminthopsis granulipes Troughton, 1932. Rec. Aust.
+     Mus., 18:350.
+TYPE LOCALITY: Australia, Western Australia, King
+     George Sound (Albany).
+DISTRIBUTION: SW Western Australia.
+STATUS: Unknown.
+
+Sminthopsis griseoventer Kitchener, Stoddart, and
+     Henry, 1984. Rec. W. Aust. Mus., 11:204.
+TYPE LOCALITY: Western Australia, Bindoon, 31¯18'S,
+     116¯01'E.
+DISTRIBUTION: SW Western Australia.
+STATUS: Unknown.
+SYNONYMS: caniventer. 
+
+Sminthopsis hirtipes Thomas, 1898. Nov. Zool., 5:3.
+TYPE LOCALITY: Australia, Northern Territory, Charlotte
+     Waters.
+DISTRIBUTION: Central deserts in Northern Territory and
+     Western Australia; also coastal scrub 500 km N of
+     Perth.
+STATUS: Common.
+
+Sminthopsis laniger (Gould, 1856). Mamm. Aust., 1, pl.
+     33.
+TYPE LOCALITY: Australia, interior New South Wales.
+DISTRIBUTION: Western Australia, S Northern Territory,
+     N Victoria, W New South Wales, SW Queensland, N
+     South Australia.
+STATUS: U.S. ESA - Endangered.
+SYNONYMS: spenceri. 
+COMMENTS: Subgenus Antechinomys; see Archer (1979:329,
+     1981:187). However, see Lidicker (1983:1317), who
+     considered Antechinomys a distinct genus. Includes
+     spenceri; see Archer (1977:19).
+
+Sminthopsis leucopus (Gray, 1842). Ann. Mag. Nat.
+     Hist., [ser. 1], 10:261.
+TYPE LOCALITY: Australia, Tasmania.
+DISTRIBUTION: S and SE Victoria, Tasmania, New South
+     Wales, and Queensland (Australia).
+STATUS: Common?
+SYNONYMS: ferruginifrons, leucogenys, mitchelli.
+COMMENTS: See Archer (1979:329, 1981:102). 
+
+Sminthopsis longicaudata Spencer, 1909. Proc. R. Soc.
+     Victoria, 21 (n.s.):449.
+TYPE LOCALITY: Australia, Western Australia.
+DISTRIBUTION: Western Australia.
+STATUS: CITES - Appendix I; U.S. ESA - Endangered; IUCN
+     - Insufficiently known.
+COMMENTS: Known from only four specimens; see Ride
+     (1970:201). 
+
+Sminthopsis macroura (Gould, 1845). Proc. Zool. Soc.
+     Lond., 1845:79.
+TYPE LOCALITY: Australia, Queensland, Darling Downs.
+DISTRIBUTION: Australia: NW New South Wales, W
+     Queensland, S Northern Territory, N South
+     Australia, N Western Australia.
+STATUS: Common.
+SYNONYMS: froggatti, larapinta, monticola, stalkeri. 
+COMMENTS: See Archer (1979:329, 1981:148). 
+
+Sminthopsis murina (Waterhouse, 1838). Proc. Zool. Soc.
+     Lond., 1837:76 [1838].
+TYPE LOCALITY: Australia, New South Wales, N of Hunter
+     River.
+DISTRIBUTION: SW Western Australia, SE South Australia,
+     Victoria, New South Wales, E Queensland.
+STATUS: Common.
+SYNONYMS: albipes, tatei. 
+COMMENTS: See Archer (1979:329, 1981:94-99). 
+
+Sminthopsis ooldea Troughton, 1965. Proc. Linn. Soc.
+     N.S.W., 1964, 89:316 [1965].
+TYPE LOCALITY: Australia, South Australia, Ooldea.
+DISTRIBUTION: Edge of Nullarbor Plain (South
+     Australia), Western Australia, S Northern
+     Territory.
+STATUS: Unknown.
+COMMENTS: Originally described as a subspecies of
+     murina, but considered a distinct species by
+     Archer (1975:243) and Kirsch and Calaby (1977:15).
+     
+
+Sminthopsis psammophila Spencer, 1895. Proc. R. Soc.
+     Victoria, 7 (n.s.):223.
+TYPE LOCALITY: Australia, Northern Territory, Lake
+     Amadeus.
+DISTRIBUTION: Australia: SW Northern Territory
+     (vicinity of Ayer's Rock) and Eyre Peninsula
+     (South Australia).
+STATUS: CITES - Appendix I; U.S. ESA - Endangered; IUCN
+     - Insufficiently known.
+COMMENTS: Known only from five specimens; see Archer
+     (1981:215). 
+
+Sminthopsis virginiae (de Tarragon, 1847). Rev. Zool.
+     Paris, p. 177.
+TYPE LOCALITY: None given; Archer (1981:132) designated
+     Australia, Queensland, Herbert Vale.
+DISTRIBUTION: N Queensland, N Northern Territory
+     (Australia); Aru Isls (Indonesia); S New Guinea.
+STATUS: Unknown.
+SYNONYMS: lumholtzi, nitela, rona, rufigenis. 
+COMMENTS: See Archer (1979:329, 1981:132) and Kirsch
+     and Calaby (1977:15). De Tarragon's 1847
+     description of S. virginiae did not specify a type
+     locality and his type specimen, now lost, had no
+     known locality. Collett (1886[1887]:548) named S.
+     nitela from Herbert Vale and it was subsequently
+     renamed S. lumholtzi, both of which are referable
+     to virginiae; see Archer (1981:136).
+
+Sminthopsis youngsoni McKenzie and Archer, 1982. Aust.
+     Mamm., 5:267.
+TYPE LOCALITY: Western Australia, Edgar Ranges,
+     18¯50'S, 123¯05'E.
+DISTRIBUTION: Western Australia, Northern Territory.
+STATUS: Unknown.
+
+

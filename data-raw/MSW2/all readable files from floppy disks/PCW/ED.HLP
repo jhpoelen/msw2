@@ -1,0 +1,1884 @@
+Basic editing   Deleting text   Formatting      Page layout     Shortcuts       
+Auto-numbering  DOS commands    Headers/footers Paragraph style Shorthand       
+Box operations  Dot lines       Index/contents  Printer setup   Spell checker   
+Change margins  Enhancing text  Margins/tabs    Printing        Status line     
+Characters      Entering text   Marking text    Problem solving Switching files 
+Columns         File conversion Measuring       Recording keys  Typewriter mode 
+Control files   File management Merging         Repaging        Windows         
+Copy/move text  Find/replace    Misc.operations Ruler lines     Support service 
+Cursor moves    Footnotes       Page elements   Shell to DOS    Shareware       
+
+B A S I C   E D I T I N G
+
+Using help screens
+Use the four arrow keys, Home, End, and Tab key to select a topic.
+Use the PgUp and PgDn keys to scroll a long help screen, like this one.
+Shifted PgUp and PgDn keys scroll a screenfull at once.
+
+File Operations
+1. Create or load a file   A>ED filename
+2. Enter text              type on keyboard
+3. Save the text to disk   Press F1 F3
+4. Edit the text           Bksp, Del, Ins
+5. Print the file          Press F1 then F7
+6. Save the file, exit     Press F1 then F2
+
+Turn on REMINDER LINES with Shf F1 for description of Function Keys available
+from various menus. Three additional lines of information are available.
+Shf F1 a second time hides these lines again.
+
+To view reminder lines for the Shift, Alt, or Ctl Menus, Press Esc, then
+Press Shift, Alt, or Ctl, depending upon which menu you want to see.
+You may select another menu by pressing Shift, Alt, or Ctl again.
+When you are done, Press Esc again to return to editing status.
+
+Watch the top line, or STATUS LINE for information about your current editing
+status and modes. See the STATUS LINE topic in these help screens.
+
+D E L E T I N G   T E X T
+
+Character or space
+under cursor   Del
+to the left    Bksp
+
+Word
+to the right   Ctl Esc
+to the left    Ctl Bksp
+
+Line
+entire line    Shf Ctl Enter
+ or            Home, Ctl Enter
+to end of line Ctl Enter
+to line start  Shf Ctl Bksp
+
+Block
+begin marking  F4
+ or (for box)  Ctl F7
+delete         F4
+undo delete    Ctl F4
+
+Files
+delete a file  Alt F1 F7
+
+Overwrite mode
+type over text Scroll lock (push/over mode)
+
+F O R M A T T I N G
+
+F7 does a manual reformat of a paragraph or marked block.
+
+Toggle between modes with Shf F7. Status line shows mode:
+Wrap-  Wordwrap and auto-reform off
+Wrap+  Wordwrap on, auto-reform off
+Para+  Automatic reformatting on
+
+N in Ruler line forces reformatting off, including F7 manual reformat key.
+A in Ruler line forces automatic reformatting on.
+
+Centering and Flush Right
+Shf F8 centers and Ctl F8 sets flush right a line or marked block of text
+to current Ruler spacing. For proportional fonts, use C or F in Ruler line
+instead of Shf F8 and Ctl F8.
+
+Controlling Reformatting
+To keep a paragraph from joining with the next one, end it with an Alt K,
+Keep Paragraph font character. To also justify the last line of a paragraph
+(normally not justified) end it with an Alt J, Justify font character.
+A #J or #K line in the print control file makes Alt J and Alt K printer
+fonts, instead of end paragraph fonts.
+
+To protect a section of text from reformatting place a .- Dot line at the
+start of the section and a .+ Dot line at the end.
+
+See CHANGING MARGINS, PAGE ELEMENTS, PAGE LAYOUT, PARAGRAPH STYLES, RULER LINES
+
+P A G E   L A Y O U T
+
+Put these Dot lines in the text file to control printing of pages.
+The Page Layout Menu (Alt F6, F8) assists you in preparing dot lines.
+* means Dot line takes effect at top of page only.
+  Number in parentheses is default value.
+
+.L:length*  (11") Length of page
+.LB:length* (10") Length of text body
+.M:number   ( 1 ) Multiple line spacing
+.N:number*  ( 1 ) Number for this page
+.S:length   (1/6) Line spacing
+.X:number   ( 0 ) Extra left margin
+.XL:number* ( 0 ) Extra margin, left pages
+.XR:number* ( 0 ) Extra margin, right pages
+.XT:length* ( 0 ) Top margin
+.XB:length* ( 1") Bottom margin
+
+Sample letter:
+
+.LB:54  body of text 9 inches (54 sixth-inches)
+.M:2    double spaced
+.X:15   moves text right 15 spaces
+.XT:3   top margin, 3/6 or 1/2 inch
+.R:P    changes to Pica font
+.F:$$$  print page number each page
+ Text
+ Text   pushes these to next page:
+.H:Joe  header, starting on page 2
+
+See DOT LINES, MEASURING
+
+S H O R T C U T S
+
+Loading Options - from DOS or from editing with F1, F6:
+Bypass prompt asking about backup: no backup      ED filename/e
+Bypass prompt asking about backup: create backup  ED filename/s
+Bypass prompt for creating file: no backup if old ED filename/c
+Bring up directory before loading                 ED *.*
+  (or use filename.* or *.ext instead of *.*)
+Edit the file in Read Only mode (for network)     ED filename/r
+Jump to a line in the file, nn is the line number ED filename/nn
+Pause and display each edit control file read     ED filename/w
+
+All / options may be used when switching files and in combination (eg. /e/w).
+
+
+File Switching, Prefixes, and Drive - from PC-Write
+Quick switch to another file                      F1, F6, filename, F10
+Quick switch to prior/next file in a series       F1, F6, F5/F7
+  (example: FILE1.TST, FILE2.TST, etc.)
+Switch to filename at the cursor                  F1, F6, F6
+
+Printing Options - from DOS (or from editing with F1, F7)
+Print file (from editing with F1, F7) then exit   ED filename/p
+Print every page of file, bypass prompts/menus    ED filename/e/p
+Print first page of file, bypass prompts/menus    ED filename/s/p
+Print a file to another file                      ED filename filename/p
+
+See BASIC EDITING, PRINTING, SWITCHING FILES
+
+A U T O - N U M B E R I N G
+
+Use automatic numbering for footnotes, lines, and outlines. You enter a
+Numbering Sequence that is translated into a sequential series of numbers
+when you repage. See REPAGING. See HEADERS/FOOTERS for page numbering.
+
+First create a unique numbering sequence. Each sequence element contains:
+1. An Alt N font character ()
+2. A number or letter
+3. A symbol (anything but a digit or letter, including a space)
+
+When you Repage, the numbers or letters become sequential.
+The symbol, which indicates the sequence, remains the same.
+
+
+Example
+( is the Alt N font character)
+ 1. Cats
+ 3. Dogs
+ 2. Mice
+
+After repage:
+ 1. Cats
+ 2. Dogs
+ 3. Mice
+
+
+Multiple Levels. Create multiple sequences for outlines or section numbering.
+  before an entry uses the number or letter shown as the series start.
+ before an entry re-uses the last value.
+
+Example:
+ 7. Chapter 1  (two sequences, ending with dot and a space)
+    A. Cats    (another sequence using capital letters ends with a dot)
+ 8. Chapter 3
+    A. Dogs
+    C. Mice
+
+When repaged is:
+ 1. Chapter 1
+    A. Cats
+ 2. Chapter 2
+    A. Dogs
+    B. Mice
+
+Footnote Numbering
+Use Alt N to number footnote entries. Start each entry with Alt N and the
+number or letter and symbol for the series. Repage, and the numbers update to
+the current order of the footnotes in the document. In this example, the actual
+footnote number ends with "." and the footnote reference with "]":
+
+This is the reference [9] to cats.
+.DB
+ 9. This is footnote text about cats.
+.DQ
+
+See DOT LINES, FOOTNOTES
+
+D O S  C O M M A N D S
+
+Here are some DOS COMMANDS you may find useful. PC-Write has keystrokes for
+most of these file operations. "A>" is the DOS prompt. See FILE MANAGEMENT.
+
+COPY
+A>COPY fromfile tofile
+  copies "fromfile" to "tofile"
+
+DEL
+A>DEL filename
+  deletes the file "filename"
+
+DIR
+A>DIR B:
+  lists files in drive B
+
+FORMAT
+A>FORMAT B:
+  formats diskette in drive B
+
+RENAME
+A>RENAME oldname newname
+  renames "oldname" to "newname"
+
+SORT
+A>SORT < infilename > outfilename
+  sorts lines in "infilename" and puts them in "outfilename"
+
+TYPE
+A>TYPE filename
+  displays contents of "filename"
+
+File Names
+DOS file names are 1 to 8 characters, plus an extension of 0 to 3 letters.
+The format is: filename.ext
+
+You can use the letters A-Z (upper and lower case are the same), numbers 0-9,
+and the symbols   $ & # @ ! % ( ) { } - _ ~   in a filename.
+
+The filename can be preceded by a drive specification, and/or a pathname,
+for example:   C:\PCW\filename.ext
+
+Think of the drive and path as part of the full filename. When no drive and/or
+path is specified DOS assumes the currently logged drive and subdirectory.
+
+H E A D E R S / F O O T E R S
+
+Header lines repeat at the top of each page; footer lines at the bottom.
+You can have up to 8 of each. Footnotes are not footers. See DOT LINES.
+Page Location                      Headers        Footers
+All pages                         .H:text        .F:text
+Left pages only                   .HL:text       .FL:text
+Right pages only                  .HR:text       .FR:text
+Header/footer width, right margin .HW:number     .FW:number
+Extra header/footer left margin   .XH:number     .XF:number
+
+Page Numbers/Positioning           Example Header Example Footer
+Page numbers                      .H:Page $$$    .F:Page $$$
+Blank line                        .HL:           .FR:
+Flush left                        .HR:Part 1...  .FR:$$$...
+Flush right                       .HL:...$$$     .FL:...Chapter 2
+Centered                          .H:...Heros... .F:...$$$...
+
+Other Options                      Example Header  Example Footer
+No header/footer, this page only  .HN             .FN
+Page number to use next page      .N:number       .N:number
+Print system date                 .H:$$Mon Year$$ .F:$$D Mon Year$$
+Print day of the week             .H:$$Day$$      .F:$$Day$$
+Print system time                 .H:$$H:MI$$     .F:$$Z:MI$$ (24hr)
+Print filename                    .H:$$filename$$ .F:$$filename.ext$$
+
+P A R A G R A P H   S T Y L E S
+
+L Left Margin:
+
+Normal - A normal paragraph is any line followed by lines that start at the
+current left margin setting. Wordwrap moves the cursor to L.
+
+   Not a Paragraph - This looks like a paragraph, but is not. The second line
+   starts a new paragraph, because it does not start at the L margin.
+
+Example:
+L---P---T1----+-T-2---T---3--T-+----R
+    The P margin (not a left margin)
+sets the first line of a paragraph.
+It can be left or right of the left
+margin for all paragraph styles. The
+P is optional. You can space or tab
+to the first line indent. The Enter
+key goes to the P margin.
+
+K Left Margin
+
+Keep - Forces all text to the K left margin.
+To indent or hang indent the first line, use a P margin.
+
+Example:
+K---+---T1----+-T-2---T---3--T-+-R
+   When reformatted, these
+     lines will all
+  line up with the K in the Ruler.
+
+I Left Margin
+
+For normal indented paragraphs with different left margins, such as quotes,
+use the I Ruler letter. Wordwrap goes to the indent of the line above.
+
+Example:
+I---+---T1----+-T-2---T---3--T-+-R
+Enter takes the cursor to the I.
+
+&&&&"Following lines will wrap
+    at the indent above. "
+    (& is a space you typed.)
+
+Hanging Indent - Several methods:
+
+1. Shf Enter: use to align new lines under the indent of the line above.
+   Good for lists. For example:
+
+L---+---T1---+-T-2---T---3--T-+-R
+Here's a list: <Enter>
+&&&1. Cats are cranky. <Shf Enter>
+   2. Cats drag in mice. <Shf Enter>
+   3. (& is a space you type)
+
+2. P margin outdent: If many sections are to use exactly the same hanging
+   outdent, a Ruler with a  P to the left of L is useful. For example:
+
+P---+---L1----+-T-2---T---3--T-+-R
+Press enter and cursor goes to P,
+        while wrapping will be to
+        the L margin.
+
+3. H left margin: For a quick hanging indent, or indenting to more than one
+   left margin use the H Ruler letter. Wordwrap goes to the indent of the
+   line above. For example:
+
+H---+---T1----+-T-2---T---3--T-+-R
+Enter takes the cursor to the H.
+&&&&&Wrap below this line uses the
+     indent of the line above.
+     (& is a space you typed)
+
+4. Tag text - E and G left margins
+
+Use Ruler left margins E ("Even") and G ("Glue") for paragraphs that have
+"tag text" like a number, bullet, or name, hanging on the left. The E margin
+aligns the left edge of tags while the G aligns right edges of tags. Examples:
+
+P---+---E1----+-T-2---T---3--T-+-R
+Sam:    "Look at our names!"
+Sally:  "Yes, they are flush left."
+
+P---+G--T1----+-T-2---T---3--T-+-J
+  9. This   text   is    justified.
+ 10. The numbers print flush right.
+
+See CHANGING MARGINS, FORMATTING (for A, N, .+ and .-), MARGINS, RULER LINES
+
+S H O R T H A N D
+
+Shorthand mode lets you type an abbreviation for a word and have it replaced by
+the full word, using a list you supply.
+
+To Create a Shorthand File
+1. Edit or create a file named WORDS.SHO.
+
+2. Enter one line per abbreviation and replacement, using the format:
+   abbreviation:replacement
+
+3. Create the file in alphabetical order, or use the DOS SORT command
+   after the file is created by issuing the following DOS commands:
+   COPY  WORDS.SHO  WORDS.TMP
+   SORT <WORDS.TMP >WORDS.SHO
+   DEL   WORDS.TMP
+
+To Turn on Shorthand Mode
+1. Press Alt F2, then F5.
+
+2. Press F9 for Shorthand mode.
+
+3. Enter name of shorthand file, if not WORDS.SHO.
+
+4. Edit text file as normal. When you type an abbreviation listed in the
+   shorthand file it is replaced by its corresponding word.
+
+See SPELL CHECKER
+
+B O X   O P E R A T I O N S
+
+To perform box operations on text:
+1. Place the cursor at any corner of the box.
+2. Press Ctl F7 (or Shf Ctl F6) to start Boxing mode.
+3. To mark the box, move the cursor to diagonal opposite corner.
+4. Some box operations first freeze the box size, creating BOXED mode.
+
+Notes:
+* Pressing Ctl F7 to mark a box forces Hide mode.
+  You can go to Show mode with Alt Space, but Hide mode works better.
+* Box moves and copies overwrite existing text or spaces.
+  If you're about to overwrite text, you get a warning.
+  If you're moving or copying, first clear the target area.
+* Column Boxing mode pushes text down instead of overwriting. (See COLUMNS.)
+
+Operations you can do in Boxing Mode:
+
+Press                To Do
+
+Ctl F7               Move the cursor to the upper left corner
+Ctl F5               Mark the entire file as a vertical slice
+F3, move cursor, F3  Set BOXED mode, Copy box
+F6, move cursor, F6  Set BOXED mode, Move box
+F4                   Delete box
+Ctl F6               Copy a box to another file
+Shf Ctl F6           Append box to the Hold Area
+Ctl F4               Undelete a just-deleted box
+Shf Ctl End          Move to upper left of moved or deleted box
+Ctl F3               Insert a file as a box
+Shf Ins or Shf Del   Slide box text right or left
+Alt F10 then F9      Repeat replace within box
+Alt F6 then F5       Delete font characters within box
+Alt F6 then F6       Insert font characters around box
+Ctl F9 then F2       Frame box, double line
+Ctl F9 then F3       Frame box, single line
+Ctl F9 then F4       Unframe box (frame with blanks)
+
+If you have a Marked or Boxed area and you use an operation that applies
+to the whole file, not just the marked or boxed part, you get a warning.
+
+D O T   L I N E S
+
+GUIDE LINES control formatting. Guide lines for editing are RULER LINES.
+Guide lines for printing are DOT LINES. All Guide lines begin with ALT G font
+character. Dot lines begin with an Alt G followed by a dot (period).
+
+Alt G characters are not normally visible, but guide lines are highlighted,
+and the word "Guide" appears in the status line when the cursor is on one.
+
+Several menus are available to help you enter Dot lines:
+Page Elements Menu   Press Alt F6 then F7
+Page Layout Menu     Press Alt F6 then F8
+Header/Footer Menu   Press Alt F6 then F9
+
+To delete Guide line, place the cursor at the start and press Ctl Enter.
+
+Guide lines and Dot lines do not print. To view your file with Guide lines
+and font characters hidden press Alt Space Bar. This "hides" these non-
+printing lines and characters. To "show" them, press Alt Space Bar again.
+Page breaks in Hide mode are displayed as a single dashed line for soft
+breaks, and a double dashed line for hard page breaks.
+
+Page layout Help topics:
+
+CHANGE MARGINS    MARGINS/TABS
+ENHANCING TEXT    PAGE ELEMENTS
+FOOTNOTES         PAGE LAYOUT
+FORMATTING        PARAGRAPH STYLES
+HEADERS/FOOTERS   RULER LINES
+
+
+Put each Dot line on its own line, preceded by Alt G.
+* means line breaks a paragraph.
+Default settings: .S:6, .R:F, .XT:0, .XB:0, .L:66, .M:1
+
+Operation                    Dot Line
+ Comment line              ..
+ Control line in text file .C:text
+*Entire text lines, begin  .EB
+*Entire text lines, end    .EQ
+*Entire blank space        .E:number
+*Entire text, keep next
+   "n" lines together      .EK:lines
+*Entire text, length
+   of included .T file     .EL:length
+ Font, start Regular font  .R:letter
+ Font, quit Regular font   .Q:letter
+ Fonts, quit all fonts     .QQ
+ Footer line, all pages    .F:text
+ Footer line, right pages  .FR:text
+ Footer line, left pages   .FL:text
+ Footer lines, quit all    .FQ
+ Footer, skip one page     .FN
+ Footer, extra left margin .XF:number
+ Footer, width for entry   .FW:number
+*Footnote entry, begin     .DB
+*Footnote forced to bottom .DD
+*Footnote entry, end       .DQ
+*Footnote file             .DF:filename
+*Footnote header (fence)   .DH:text
+*Footnote spacing          .DM:number
+ Force text to left page   .PL:text
+ Force text to right page  .PR:text
+ Header line, all pages    .H:text
+ Header line, left pages   .HL:text
+ Header line, right pages  .HR:text
+ Header lines, quit all    .HQ
+ Header, skip one page     .HN
+ Header, extra left margin .XH:number
+ Header, width of entry    .HW:number
+*Include file at printing  .T:filename
+*Include unprocessed file
+   (eg. graphics file)     .TI:file
+ Include ASCII codes       .TT:nnn,nnn,...
+*Included file, length     .TL:length
+ Index entry               .I:text
+ Index entry space         .IX:number
+ Index entry width         .IW:number
+ Index file name           .IF:filename
+*Keyboard input            .U
+*Keyboard input, prompt    .U:prompt
+ Length of page            .L:length
+ Length of text body       .LB:length
+ Line spacing, multiple    .M:number
+ Line spacing, per inch    .S:length
+ Line spacing, skip once   .SS:length
+ Extra margin, all pages   .X:number
+ Extra margin, left pages  .XL:number
+ Extra margin, right pages .XR:number
+ Extra margin, bottom      .XB:length
+ Extra margin, top         .XT:length
+ Output file               .O:filename
+ Page breaks, auto- off    .PQ
+ Page breaks, auto- on     .PB
+ Page number, this page    .N:number
+*Reformat protect begins   .-
+*Reformat protection ends  .+
+ Table of Contents entry   .K:text
+ Table of C. entry space   .KX:number
+ Table of Contents file    .KF:filename
+ Table of Contents width   .KW:number
+
+I N D E X I N G  /  T A B L E   O F   C O N T E N T S
+
+Enter references as Dot lines in your text file. The table of contents or index
+is created when you print. Each Dot line begins with an Alt G font character.
+
+                                  Index         Table of Contents
+Name of file to receive entries.. .IF:filename  .KF:filename
+Text for entry................... .I:entry      .K:entry
+Change width of entry............ .IW:number    .KW:number
+Change leading space (indent).... .IX:entry     .KX:entry
+Stop entries, include file here.. .IF:          .KF:
+  then........................... .T:filename   .T:filename
+
+Index Mode
+To create index entries quickly you can search for words
+in an index word list file. To use Index mode:
+1. Press Alt F2, then F5, then F8 to select Index mode.
+2. Type in the name of your index list file, press Enter.
+3. Press Grey+ or Grey- to search for a word in the list.
+4. When a word is found it is highlighted and you may:
+   1. Press F9 to insert a .I Dot line with this word
+   2. Grey+ or Grey- to continue searching
+   3. Esc to return to editing.
+
+See DOT LINES. Use DOS SORT to sort index files (see SHORTHAND for example).
+
+P R I N T E R   S E T U P
+
+For your printer to work correctly you must do the following.
+Double check these if you are having printer trouble, and see PROBLEM SOLVING.
+
+1. Note printer brand, model, and mode.
+Check printer and printer manual.
+Compare dip switch settings with manual to determine the mode.
+Mode often governs character set and/or type styles available.
+When making changes, write down settings as they were when you started.
+
+2. Run the Printer Picker.
+This creates a print control file for your printer, PR.DEF by default.
+It runs when you install PC-Write with WORKDISK.
+It can be run alone to change printers or modes. 
+With the PC-Write Utility Diskette in drive A:> type:
+
+   A> MENUPRT d:\subdir\filename  <Enter>
+
+Use MENULAZ in place of MENUPRT for laser printers. Make choices as prompted.
+"d:\subdir\" is the drive and subdirectory where the working copy of PC-Write
+is located. If you have only one printer, use PR.DEF as the "filename".
+If you have more than one printer connected to your computer, run the Printer
+Picker once for each printer, giving a unique filename for each.
+
+To check your current print control file for brand and model, edit or
+type the file and look at the first line.
+
+3. Know your printer port.
+PC-Write and DOS assume the printer is plugged into the LPT1 or PAR1 port
+(two names for the first parallel port).
+If it is on the second parallel port (LPT2 or PAR2) or a serial port
+(COM1, COM2, SER1, or SER2), you need to tell either PC-Write or DOS.
+
+Redirect printing with PC-Write by using the .O Dot line. 
+Edit the print control file. Add the line:
+  .O:SER1   (Dot lines start with Alt G)
+
+This directs all printing to the first serial port.
+Replace SER1 with SER2 or PAR2 depending on the port in use.
+The .O line may also be used in a text file to redirect single files.
+
+Redirect printing with DOS by adding the following line to the DOS
+file AUTOEXEC.BAT. Be sure to run AUTOEXEC.BAT before testing changes.
+  MODE LPT1:=COM1
+
+You can replace COM1 with COM2 or LPT2 (DOS doesn't use SERx or PARx).
+
+4. If your computer sends text to your printer too fast the printer may hang
+during printing, or output may be jumbled. You can send the file to the
+printer with a delay by using one of these special PC-Write names:
+
+  S<letter>D1   for a serial printer connected to COM1
+  S<letter>D2   for a serial printer connected to COM2
+  P<letter>D1   for a parallel printer connected to LPT1
+  P<letter>D2   for a parallel printer connected to LPT2
+
+The <letter> is from A to Z, A the shortest and Z the longest delay.
+Each letter is twice the delay as the one before it. Experiment to
+find one that works for you. Put the name in your print control file:
+  .O:SGD2
+
+S P E L L   C H E C K E R
+
+The master word list WORDS.MAS comes on the PC-Write reference diskette.
+Copy it to your working disk (or another disk if it doesn't fit).
+
+You can create a custom user word list called WORDS.USE. You can merge the
+words in WORDS.USE to WORDS.MAS with the program WORDS.EXE. To do this, have
+WORDS.MAS, WORDS.USE, and WORDS.EXE on the default disk or directory. Type:
+  WORDS <enter>   and follow the instructions.
+
+
+Check spelling
+check last word typed    Alt F2, F2
+check as you type        Alt F2, F7
+
+Scan for word not in lists
+scan to next word        Alt F2, Grey+
+scan to prior word       Alt F2, Grey-
+
+Guess at correction
+for misspelled word      Alt F2, F3
+
+User list
+load user word list      Alt F2, F5, F10
+add word to user list    Alt F2, F4
+save user list file      Alt F2, F6
+
+See INDEX, SHORTHAND
+
+C H A N G E   M A R G I N S
+
+Top Margin
+
+Change the top margin with a .XT:length Dot line in the text file. The new
+margin is counted when you repage a document with Alt F7, and will skip that
+length from the top of the page when you print. If you have a dot matrix
+printer, you may want to just position the printhead.
+
+Bottom Margin
+
+Change the bottom margin with a .XB:length Dot line in the text file. A change
+in .XB is reflected when you repage, and printing stops the specified length
+from the bottom of the page.
+
+Left Margin
+
+The simplest way to change the left margin is using .X:nn Dot line. .X lets
+you specify how many extra spaces of left margin to print. The left margin
+does not appear changed on screen, but when you print the document the text
+will be printed at the new margin.
+
+Sliding Text Left or Right
+
+Another way to change the left margin:
+1. Mark text with F3 or F6, or file with Ctl F5
+2. For slide right press Shf Ins, for slide left press Shf Del
+3. At prompt enter number of spaces to slide.
+
+Ruler Left Margin
+
+1. Press F2 to edit Ruler line
+   Change old "L" to "M", add new "L".
+   Change old "P" to "Q", add new "P".
+2. Mark text with F3 or F6, or file with Ctl F5
+2. Reformat with F7.
+
+You can keep blocks of text or lines (addresses) from being reformatted with
+Guide lines .- before and .+ after text.
+
+See FORMATTING to center and flush right.
+
+
+Right Margin
+
+Ruler Change and Reformat
+1. Press F2 to edit Ruler line
+2. Move cursor to location of new right margin, enter right margin letter.
+2. Reformat, as with Left Margin.
+
+See DOT LINES, FORMATTING, MARKING TEXT, PARAGRAPH STYLE, RULER LINES
+
+E N H A N C I N G   T E X T
+
+Turn on fonts and/or enhancements in one of three ways. Current font is
+shown on the Status Line when editing. See STATUS LINE.
+
+1. For a piece of text on a line, press Alt plus one of the letters listed
+below before and after the text, or mark the text and select from the Font
+Menu Alt F6, F6. Repeat for each line. Font characters do not print.
+To view text on screen without Font characters press Alt Space Bar.
+To see them again press Alt Space Bar again.
+
+2. For longer blocks of text use .R:letter to start font or enhancement.
+Use .Q:letter to stop a font or enhancement. See DOT LINES, PAGE LAYOUT.
+
+3. You may set the font or enhancement in the Ruler separately for each column
+by typing #letter into the Ruler line. See COLUMNS, RULER LINES.
+
+Many fonts, when selected with a .R:letter command, change Ruler spacing.
+For example, Elite and Quality set Ruler spacing to 12 characters per inch
+(cpi), Double wide to 5 cpi, Compressed to 15 cpi. Pica, Fast, and Variable
+set it to 10 cpi. Using Alt-letters does not affect Ruler spacing.
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+FONTS                         ³SPECIAL FONTS          ³ENHANCEMENTS
+Alt C  Compressed           ³ Alt B  Boldface     ³ Alt H  Superscript
+Alt D  Double wide          ³ Alt I  Italics      ³ Alt L  Subscript
+Alt E  Elite 12 cpi, fast   ³ Alt M  Marine blue  ³ Alt O  Overstrike
+Alt F  Fast, pica (default) ³ Alt R  Red          ³ Alt S  Second strike
+Alt P  Pica 10 cpi, quality ³ Alt Y  Yellow       ³ Alt U  Underline
+Alt Q  Quality mode, elite  ³ Alt V  Variable     ³ Alt W  Double under
+
+M A R G I N S / T A B S
+
+Press F2 to bring up Ruler line and type letter for setting. To keep with the
+file, embed Ruler line with F2, F4. Then F2, make changes, F2. See RULER LINES.
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³Left Margins                  ³Between Margins             ³Right Margins     ³
+³ E  Even; flush-left tag text ³ A  Auto-reformat always ON ³ C  Center text   ³
+³ G  Glue; flush-right tag text³ B  Bell ring               ³ F  Flush right   ³
+³ H  Autoindent, hanging para. ³ D  Decimal tab             ³ J  Justify right ³
+³ I  Autoindent, normal para.  ³ N  Auto-reform. always OFF ³ R  Ragged right  ³
+³ K  Keep; forces all margins  ³ P  Paragraph margin        ³ S  Spring        ³
+³ L  Left margin               ³ Q  Old paragraph margin    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
+³ M  Old left margin           ³ T  Tab stop                ³ V  Column bound  ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
+³ Temporary Margins   CTL [ Left      CTL \ Paragraph      CTL ] Right         ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+P R I N T I N G
+
+To Print While Editing
+
+1. Press F1 then F7.
+2. Change the filename, if you like.
+3. Enter any options after the filename:
+   Multiple copies           filename/m
+   Return to DOS when done   filename/p
+   Show control files        filename/w
+   Select control file       filename//ctlname
+4. Select the method:
+   Full options first        Enter
+   Print first page          Press F9
+   Print Continuously        Press F10
+
+
+Full Print Menu:
+Help                          F1
+Exit to DOS                   F2
+Go back to PC-Write editor    F3
+Go to DOS shell               F4
+Force end of current file     F5
+Enter text or dot line        F6
+Repeat a page                 F7
+Skip pages, or to a page      F8
+Print one page (current page) F9
+Print continuously            F10
+
+
+To Print from DOS
+Enter DOS command:
+  A:>ED filename/p
+
+Other options like /m can be used
+
+
+Dot Lines to Change Files
+output file            .O:filename
+input file             .T:filename
+input (graphics)       .TI:filename
+length of input file   .TL:length
+length;  on one page   .EL:length
+
+
+To Enter Text Lines While Printing
+dot line in file       .U
+dot line, with prompt  .U:prompt
+from DOS               ED /p
+from a file            F1, F7, Ctl Enter, Enter
+
+When you print the prompt "" appears.
+*  Enter text or Dot lines.
+*  Press Esc when done
+
+S T A T U S  L I N E
+
+Format of the Status Line:
+Esc:Menu Key-Status Ed-Status Sp-Status Font-Status n% n/n,n Edit/Read filename
+
+Esc:Menu      Reminds you to press the Esc key to bring up the Main Menu
+Key-Status    Current keyboard status
+  Over         Overwrite mode
+  Push         Pushright mode
+  Ocol         Overwrite in Column mode
+  Pcol         Pushright in Column mode
+  OVER/PUSH    Caps Lock mode
+  OveR/PusH    Num Lock mode
+  Shf          Next key will be Shifted
+  Ctl          Next key will be Ctl'd
+  Alt          Next key will be Alt'd
+  Fn           Next key will be Fn'd
+Ed-Status     Current edit status
+  Wrap-        Wordwrap and auto reform off
+  Wrap+        Wordwrap on, auto reform off
+  Para+        Wordwrap and auto reform on
+  ParA+        Auto reform on by A in Ruler
+  ParN-        Wrap/reform off by N in Ruler
+  Par.-        Wrap/reform off by .- line
+  ParU-        Wrap/reform off by %U line
+  Merging      Merge mode, press Shf F3 for menu
+  Marking      Marking mode
+  MARKED       Marked mode
+  Boxing       Boxing mode
+  BOXED        Boxed mode
+  CBoxing      Column Boxing mode
+  CBOXED       Column Boxed mode
+  IMPORT       F3, F6 insert block from last file
+  DECIMAL      Decimal tab entry mode
+  ACCENT       Next key is part of Accent pair
+  RECORD       Recording keystrokes
+  Guide        Cursor is on a Guide Line
+  <user>       Next key is user-defined
+  [,],\,û      Temporary margins in effect
+Sp-Status     Status of the spelling checker
+  Se-          Normal edit search on, auto spell off
+  Se+          Normal edit search on, auto spell on
+  Sp-          Spell search on, auto spell off
+  Sp+          Spell search on, auto spell on
+  Si-          Index word search on, auto spell off
+  sp-          Lower case "s" means shorthand mode on
+Font-Status   Current width font or font character
+R:<letter>     Current width font set with .R
+<char>a<letter>Cursor is on a font character
+<char>:<letter>Cursor is in a width font area
+#:<letter>     Width font set with #font-letter
+n%            Percentage of memory still free for editing
+n/n,n         Line on page/total page lines, page number
+               Repage for correct page numbers
+Edit/Read     File save status
+ Edit          File in memory needs to be saved
+ Read          File in memory same as on disk
+ EDIT/READ     Read-only mode
+ edit/read     File is locked on network
+filename      Name of the file you are editing
+
+Example:  Esc:Menu Push Wrap+Se- R:F 99%   1/1, 1    Read "filename"
+
+C H A R A C T E R S
+
+Box drawing Characters:  (See BOX OPERATIONS for Framing feature.)
+
+ÍÍÍËÍÍÍËÍÍÍËÍÍÍ»       ÉÍÍÍËÍÍÍËÍÍÍËÍÍÍ»ÉÍÍÍËÍÍÍËÍÍÍËÍÍÍ»       ÉÍÍÍËÍÍÍËÍÍÍËÍÍÍ
+ Q º W º E º R º       º U º I º O º P ºº Q º W º E º R º       º U º I º O º P
+ Ú º Â º ¿ º ³ º       º Ö º Ò º · º ² ºº É º Ë º » º º º       º Õ º Ñ º ¸ º Û
+ÍÍÍÊËÍÍÊËÍÍÊËÍÍÊËÍÍÍËÍÍÊËÍÍÊËÍÍÊËÍÍÊËÍÍ¼ÈËÍÍÊËÍÍÊËÍÍÊËÍÍÊËÍÍÍËÍÍÊËÍÍÊËÍÍÊËÍÍÊËÍÍ
+  A º S º D º F º G º H º J º K º L º    º A º S º D º F º G º H º J º K º L º
+  Ã º Å º ´ º®Ä º Ä¯º Ç º × º ¶ º ° º    º Ì º Î º ¹ º®Í º Í¯º Æ º Ø º µ º ± º
+ÍÍËÍÊÍËÍÊÍËÍÊÍËÍÊÍËÍÊÍËÍÊÍËÍÊÍËÍÊÍÍÍ¼    ÈÍËÍÊÍËÍÊÍËÍÊÍËÍÊÍËÍÊÍËÍÊÍËÍÊÍËÍÊÍÍÍ¼
+  º Z º X º C º V º B º N º M º            º Z º X º C º V º B º N º M º
+  º À º Á º Ù º ³ º Ó º Ð º ½ º            º È º Ê º ¼ º º º Ô º Ï º ¾ º
+  ÈÍÍÍÊÍÍÍÊÍÍÍÊÍÍÍÊÍÍÍÊÍÍÍÊÍÍÍ¼            ÈÍÍÍÊÍÍÍÊÍÍÍÊÍÍÍÊÍÍÍÊÍÍÍÊÍÍÍ¼
+           SHF-ALT BOX SET                          SHF-CTL BOX SET
+
+Math Characters:  Press first key, then Accent Key (~), then second key.
+
+ 1 Accent `   °   ³  a Accent /   à   ³  d Accent /   ë   ³  ) Accent `   õ
+ 2 Accent `   ±   ³  b Accent /   á   ³  f Accent /   í   ³  1 Accent 2   «
+ 3 Accent `   ²   ³  g Accent /   â   ³  e Accent /   î   ³  1 Accent 4   ¬
+ 4 Accent `   Û   ³  p Accent /   ã   ³  ! Accent `   ü   ³  : Accent `   ö
+ 5 Accent `   Ü   ³  S Accent /   ä   ³  # Accent `   þ   ³  / Accent `   û
+ 6 Accent `   Ý   ³  s Accent /   å   ³  $ Accent `   ì   ³  + Accent `   ñ
+ 7 Accent `   Þ   ³  m Accent /   æ   ³  % Accent `   ø   ³  . Accent `   ù
+ 8 Accent `   ß   ³  t Accent /   ç   ³  ^ Accent `   ï   ³  = Accent `   ð
+                  ³  F Accent /   è   ³  & Accent `   ú   ³  ~ Accent `   ÷
+ [ Accent `   ©   ³  h Accent /   é   ³  * Accent `   ý   ³  > Accent `   ò
+ ] Accent `   ª   ³  M Accent /   ê   ³  ( Accent `   ô   ³  < Accent `   ó
+
+
+Foreign Characters:  Press first key, then Accent Key (~), then second key
+
+ a Accent "   „   ³  a Accent `   …   ³  a Accent ^   ƒ   ³  o Accent a   †
+ A Accent "   Ž   ³  e Accent `   Š   ³  e Accent ^   ˆ   ³  A Accent o   
+ e Accent "   ‰   ³  i Accent `      ³  i Accent ^   Œ   ³
+ i Accent "   ‹   ³  o Accent `   •   ³  o Accent ^   “   ³  a Accent _   ¦
+ o Accent "   ”   ³  u Accent `   —   ³  u Accent ^   –   ³  o Accent _   §
+ O Accent "   ™   ³                   ³                   ³
+ u Accent "      ³  a Accent '       ³  c Accent ,   ‡   ³  c Accent /   ›
+ U Accent "   š   ³  E Accent '      ³  C Accent ,   €   ³  - Accent L   œ
+ y Accent "   ˜   ³  e Accent '   ‚   ³  n Accent ~   ¤   ³  = Accent Y   
+                  ³  i Accent '   ¡   ³  N Accent ~   ¥   ³  t Accent P   ž
+ a Accent e   ‘   ³  o Accent '   ¢   ³  ? Accent ?   ¨   ³  - Accent f   Ÿ
+ A Accent E   ’   ³  u Accent '   £   ³  ! Accent !   ­   ³
+
+E N T E R I N G   T E X T
+
+See COPY/MOVE TEXT, CURSOR MOVES, DELETING TEXT
+
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³ Text                             ³ Press                      ³Top Line reads³
+³ To enter letters and numbers.....³ letter or number keys      ³   (normal)   ³
+³ To enter special characters......³ key, Accent key (~), key   ³    ACCENT    ³
+³ To enter characters by code......³ Alt plus keypad number keys³   (normal)   ³
+³ Modes                            ³                            ³              ³
+³ To push existing text right..... ³ Scroll Lock  (Push/Over)   ³     Push     ³
+³ To overwrite existing text.......³ Scroll Lock  (Push/Over)   ³     Over     ³
+³ To type all capital letters......³ Caps Lock     (on/off)     ³   PUSH/OVER  ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+
+
+Spaces
+Normal space          Space bar
+To right of cursor    Ins
+Repeat (for column)   Shf Ins
+To next Tab stop      Ctl I
+Hard-Space            Ctl Space       (keeps words together)
+Soft-Space            Shf Ctl Space   (used in formatting)
+
+Hyphens
+Normal hyphen         Hyphen (- key)
+Hard-Hyphen           Ctl Hyphen      (keeps words together)
+Soft-Hyphen           Shf Ctl Hyphen  (conditional at end of line)
+
+Line Boundary
+Normal                Enter
+Beneath indent        Shf Enter
+Beneath cursor        Ctl N
+
+Special Inserts
+Find text at cursor   Alt F4 then F2
+System date at cursor Alt F4 then F5
+
+Transpose/Case
+Transpose left        Shf Bksp
+Transpose right       Shf Esc
+Upper/lower case      F8
+To upper case         Alt F8
+
+M A R K I N G   T E X T
+
+Block                          ÚÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄ¿
+                               ³ Copy ³Copy to file³ Move ³ Delete  ³  Box    ³
+1. Begin marking with any of...³  F3  ³   Ctl F6   ³  F6  ³   F4    ³ Ctl F7  ³
+                               ³      ³            ³      ³         ³         ³
+2. End marking with any of.....³  F3  ³   Ctl F6   ³  F6  ³   F4    ³ Ctl F7  ³
+                               ³      ³            ³      ³(delete) ³         ³
+3. Move cursor to new position.³      ³            ³      ³         ³         ³
+                               ³      ³            ³      ³         ³         ³
+4. Insert marked with..........³  F3  ³  filename  ³  F6  ³ Ctl F4  ³ F3 or F6³
+                               ³      ³            ³      ³(un-del) ³         ³
+5. Un-mark text with ..........³  F5  ³     F5     ³  F5  ³   F5    ³    F5   ³
+Options                        ÀÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÙ
+Mark ENTIRE file         Ctl F5    See BOX OPERATIONS, COLUMNS, COPY/MOVE TEXT,
+Un-delete last deletion  Ctl F4        DELETE TEXT, FILE MANAGEMENT.
+
+P R O B L E M   S O L V I N G
+
+The following are the most common problems encountered, and the usual solutions.
+
+Editing
+
+1. Make sure the PC-Write program is all in one subdirectory
+   or floppy disk, and it is the default drive and subdirectory.
+
+2. Try PC-Write without any memory resident software (any program
+   loaded into memory and active as you work with PC-Write).
+   If you are on a network, run PC-Write locally.
+
+   Memory resident software, network software, and the DOS APPEND command
+   sometimes interfere with the DOS PATH command. This may cause PC-Write
+   (and other programs) problems locating files.
+
+3. If you suspect damage to a PC-Write file, recopy the file from the original
+   diskettes, or make a new work diskette using WORKDISK with a new, blank,
+   formatted diskette. On a hard disk system, use a new subdirectory.
+   If these fail, try to run PC-Write from your original diskettes (not
+   recommended in the ordinary case). If PC-Write will not run from your
+   original diskettes, you may need a new set.
+
+4. If changes to the edit control file ED.DEF do not appear to take effect,
+   check for other ED.DEF files on the PATH and for ED.ext where .ext matches
+   the extension of the file you are editing. Use the /w switch to check which
+   control files have been read. Check the print control file (PR.DEF) for a
+   line that may override one in ED.DEF. Return to DOS and reload the editor
+   after changes to ED.DEF. See CONTROL FILES. Use the DOS command SET <enter>
+   to look for a SET ED=  command. SET ED= is read, not ED.DEF.
+
+Printing   (See PRINTER SETUP)
+Printers have more problems than any other part of a computer system. If
+your printer is not working with PC-Write, DON'T PANIC.
+
+If the printer is not working or PC-Write tells you it cannot print, check:
+
+1. Printer power is on. Turn the printer off and on to reset it.
+2. Printer is activated, the "online" or "selected" light is on.
+3. Printer has paper.
+4. All plugs and cables are secure and fully plugged in.
+
+5. All switches on your printer are set according to specifications.
+   (Look in your printer manual.)
+
+6. Printer is plugged into the correct port of your computer.
+   (Parallel and serial ports often look the same. Many computers have both.)
+
+7. If your printer is a serial printer, the output is redirected to a serial
+   port with the DOS MODE command. If your serial printer uses XON/XOFF
+   protocol (not PC-Write's normal) print to the special file SER1 or SER2.
+
+8. The PrtScreen Key (Shf Grey*) will work if your printer is hooked up
+   correctly.
+
+9. Program file ED.EXE is on your working diskette or directory.
+
+Check the PRINTER APPENDIX of the PC-Write User's Guide for a detailed list
+of printers, known problems, and solutions for your specific printer.
+
+If it is printing, but the results are incorrect, check that:
+
+1. You have the right print control file installed as PR.DEF.
+   The first line of the print control file lists brand and model.
+
+2. If your printer has more than one emulation mode, the print control file
+   matches the current emulation mode.
+
+3. The type style or characters you want are in the character set(s) shown in
+   your printer manual, in the current mode.
+
+4. If you are printing one page at a time with cut sheet paper, you
+   may need to disable your printer's "out of paper" switch.
+
+5. Make sure that the top of the page is just at the printhead, so
+   that if the printer were to print immediately, it would print in
+   the first sixth of an inch of the paper.
+
+If all else fails:
+
+Print your file to another file, instead of to the printer, using F1, F7, Enter,
+F9, filename, Enter. This file has everything normally sent to the printer
+including escape sequences and printer codes. Edit this processed file with
+PC-Write. You may see many strange looking symbols, but you should also see
+your text. You may be able to print the processed file successfully using the
+DOS PRINT command.
+
+S W I T C H I N G  F I L E S
+
+
+To switch from one file to another:
+1. Press F1 then F6.
+
+2. Type the filename you want to load. Press Enter. To load a file from a
+   drive or directory that is not the default, be sure to type the drive
+   and/or directory.
+
+3. The file currently being edited is saved. The new file is loaded. You
+   are prompted for a backup. Press Esc for no backup, or F9 if you want a
+   backup copy. The new file appears on screen.
+
+
+File and drive switching options after F1, F6:
+Change prefix for files..........................F2
+Change default drive for files...................F3
+Change default directory for files...............F4
+Quick switch to another file earlier/later in a
+ series (eg. FILE1.T, FILE2.T, FILE3.T, etc.)....F5/F7
+Display directory, select file to edit...........F8
+Switch to filename at the cursor.................F6
+Switch to file, with backup......................F9
+Switch to file, no for backup....................F10
+Switch to file, prompt for backup................Enter
+
+Import text from one file to another by marking text, switching files,
+and then inserting the text with F3, F6, or Ctl F4.
+See COPY/MOVE TEXT, SHORTCUTS, WINDOWS
+
+C O L U M N S
+
+Creating Columns
+
+1. Press F2 to bring up the Ruler line.
+2. Place the cursor at the left margin of the 1st column. Type a left margin
+   letter, like "L".
+3. Move the cursor to the right margin of the 1st column. Type a right
+   margin letter, like "J" or "R".
+4. Move the cursor to where you want the column division and type "V". Space
+   between R and V does not print. Put the V at least 4 spaces after the R.
+   For a proportional font, place the V at twice the R spacing.
+5. For each additional column, type another set of left, right, and "V"
+   margin letters in the Ruler line. To do columns easily, give each column
+   the same margins. Embed the Ruler line by pressing F4.
+
+Column Ruler example:
+  ---L----------------R---V--L----------------R---V--L----------------R---V
+
+
+Breaking Columns
+
+Columns break at:
+Column-Break line (Alt F6 then F10 then F8)
+Ruler line with different V margins
+Ruler line with "(" or ")"
+
+Columns Don't Break at:
+Ruler line with same V margins
+Hard Page Break
+Soft Page Break
+
+
+Moving Around Columns
+
+The cursor keys stay within their columns, except:
+Shf Home         At start of column, moves to left margin of prior column
+Shf End          At end of column, moves to the end of the next column
+Shf Up/Dn Arrow  Jump to top/bottom of column, stopping at Ruler lines
+                   or any Dot line that breaks the column
+Lt/Rt Arrow      Ignore column boundaries
+Shf Lt/Rt Arrow  Stop at column boundaries as well as edges of the screen
+Ctl/Shf Ctl Tab  Scroll horizontally by columns (extended keyboards only)
+
+
+
+Inserting and Deleting Lines in a Column
+
+Enter            Inserts a blank line in a column
+Shf Enter        Inserts a line across all columns
+Ctl Enter        Deletes from cursor to the end of column
+Del              At end of line in column, join with next line
+Shf Ctl Bksp     Deletes from the cursor to the start of the current column
+Shf Ctl Enter    Deletes a whole line across all columns
+Ctl F4           Undeletes text deleted with Ctl Enter or Shf Ctl Enter
+
+Setting the Font for a Column
+
+To set a font for a column, type #font letter on the Ruler between "L" and "V".
+  --L-------#f---------R----V--L-------#p---------R----V
+
+
+Reformatting a Paragraph in a Column
+
+Press Shf F7 to set Para+ mode for automatic reformatting.
+Press F7 to manually reformat a paragraph in a column.
+Press Ctl F5 then F7 to reformat all the columns in a file.
+
+Boxing Text in Column Mode
+
+1. Press Ctl F7 at one corner of the box.
+2. Press F9 to turn on Column Boxing mode. The whole line in the column is
+   highlighted. In Column Box mode, box operations push down or pull up text
+   in the column as necessary. This is handy for page layout.
+3. Now you can:
+   Select lines in the column   Move the cursor up or down.
+   Copy or move boxed text      Press F3 or F6 or Ctl F7, move to the new
+                                spot, then press F3 to copy or F6 to move.
+   Insert file or Hold Area     Press Ctl F3 to insert a file as a boxed
+                                column, or Ctl F4 to insert the Hold Area.
+   Delete boxed text            Press F4.
+   Copy box to another file     Press Ctl F6.
+
+F I L E   C O N V E R S I O N
+
+Convert Old Dot Commands
+Adds Alt G to Guide lines;
+ also converts page breaks   Alt F5, F3
+
+Convert Page Breaks
+Old style to current         Alt F5, F7, F7
+New style to old style       Alt F5, F7, F8
+
+Remove Page Breaks
+Both hard and soft           Alt F5, F7, F9
+Soft breaks only             Alt F5, F7, F10
+
+Convert Tabs and Spaces
+Tabs to spaces               Alt F5, F4, F9
+Spaces to tabs               Alt F5, F4, F10
+
+Fix Line Boundary Errors
+Add carriage return
+  to line feed               Alt F5, F6, F9
+
+Convert WordStar Files
+Clear high-order bits        Alt F5, F2, F9
+
+Remove Non-ASCII             Alt F4, F6, F10
+
+Remove Extra Spaces
+Cursor to next paragraph     Alt F5, F5, F9
+
+See MISC.OPERATIONS
+
+M E A S U R I N G
+
+A number of PC-Write commands can be set with spacing measurements. Here are
+the units of measurement, the defaults, and what they mean with the commands.
+See RULER LINES about Ruler spacing.
+          .L .LB .XT .XB .EL .TL                   .S .SS $S @Ruler @Font
+Units      Commands                      Units      Commands
+i          inches                        i          per inch
+c          centimeters                   c          per centimeter
+p          points                        p          points
+u          units                         u          units
+s          sixth inches                  s          sixth inches
+m          multiple of line spacing      m          (not available)
+default    sixth inches                  default    per inch
+maximum    172.6 inches                  maximum    .67 inches
+decimal    permitted                     decimal    not permitted
+
+R E C O R D I N G   K E Y S
+
+Repeat Last Keystroke       Alt F4, F7
+
+
+Recording Keystrokes
+1. Start recording.        Alt F3, F4  or Ctl @
+2. Press keys to record.
+3. Stop recording.         Alt F3, F4  or Ctl @
+4. Stop w/continuous play  Alt F3, F3  or Grey*
+
+
+Playback a Sequence       Alt F3, F3  or Grey*
+
+
+Options
+Assign recording to key    Alt F3, F2
+Save assignment in ED.DEF  Alt F3, F5, F10
+Unassign a key             Alt F3, F7
+Record on/off              Ctl @
+Playback sequence         Grey*
+Numbers mode               Alt F3, F6 or Ctl ^
+
+
+Notes
+* Read in modified editing file ED.DEF before playback with F2, F6
+* Assigned key is followed by ":" for instance:   104:93,435,105
+
+See CONTROL FILES
+
+T Y P E W R I T E R   M O D E
+
+With Typewriter mode you can move the printhead on your printer, then print
+marked lines, or lines you enter at a prompt. This allows easy addressing of
+an envelope, or quick printing of just a few lines. To enter Typewriter mode
+Press Shf F4. You can then:
+
+Tab space right         F8
+Print typed lines       F9
+Print marked or line    F10
+
+Printing always starts at the cursor column.
+
+C O N T R O L   F I L E S
+
+Edit control files and Print control files may be customized to meet your
+specific application, or to fix some keyboard problems. See RECORDING KEYS.
+You may specify a control file to use, or control information in a .C Dot line.
+See DOT LINES.
+
+Useful Edit Control File Customizations Place one to a line. Save changes
+(F1, F3) then reload the edit control file with F2, F6 to implement changes.
+
+429:"/e"    Default filename suffix, no backup on file switch
+400:725     Turn on automatic spell checking on loading a file
+270:420     Redefine Tab Key to insert spaces. Pushes text in
+            push mode, overwrites in overwrite mode.
+M:399       Redefine Ctl M to be Alt Space Bar (Hide/Show toggle)
+S:"T. Catz" Define Ctl S to enter name
+
+
+
+Switches
+%C          Turn on Color for color monitors
+%G          Help file never loads
+%I          Save every 2000 inserts
+%R          Save every 10 minutes
+%M          Menu descriptions on as default
+%O          Keyboard compatibility switch
+%P          Punctuation separates words
+%Q          Assume one space after sentence
+%U          Blocks all paragraph reformat
+
+
+
+
+
+Settings
+&B:7        Visual beep and bell, 0=no bell, 1=visual, 7=both
+&C:5        Cursor thickness, 1=thinnest, 5=thickest
+&I:n        Changes number inserts for %I, reminder if no %I
+&K:20       Keyboard repeat rate (0 to 31) and delay (32, 64, 96)
+&L:7        End line display character, decimal code
+&M:2        Multi-row screen display, 1=single, 2=double
+&R:n        Changes number of minutes for %R; reminder if no %R
+
+
+
+
+Useful Print Control File Customization
+
+Switches
+$A          Printer already prints accented characters
+$G          Use whole space justification as well as $H
+$H0         Don't use microspace justification
+$I          End of page sequence (code 12) opposite of $Q
+$Q          Suppress end of page sequence, advance line by line
+$nnn=nnn    Decimal code of character in file now prints with new code number
+
+# Font Lines
+
+# lines in both edit and print control files define fonts.
+In the print control file, the line has control code sequences for the font.
+In the Edit control file, the lines change screen display attributes.
+
+F I L E   M A N A G E M E N T
+
+These commands help you with file housekeeping.
+
+Organize
+Add prefix to file names     Alt F1, F2
+Display directory            Alt F1, F8
+Display extended directory,
+ add your notes about files  Ctl F1
+
+Rename
+File in memory               F1, F5
+File on disk                 Alt F1, F5
+
+Change Drive/Path
+Default disk drive           Alt F1, F3
+Current pathname             Alt F1, F4
+
+Copy
+File in memory to disk file  Alt F1, F6
+
+Delete
+disk file                    Alt F1, F7
+
+See SWITCHING FILES
+
+M E R G I N G
+
+Merge Overview
+1. Create the Input file.
+
+2. Create the Template file, with the Input template and Output template.
+
+3. Press Shf F3 in the Template file.
+
+4. Press F9 and type Input file name.
+   Press F10 and type Output file name.
+   Type PRN to send directly to printer.
+
+5. Merge one at a time or automatically.
+
+Merge One Record at a Time
+1. Press Shf F3 then F7 to merge one record.
+2. Press F5 to edit record if desired, then Shf F3 again.
+3. Press F8 to send to Output file.
+4. Repeat above steps for all records. To skip a record, do not press F8.
+
+Merge All Records Automatically
+1. Press Shf F3, F10. F6 stops merge.
+
+Note: After merging, you can edit Output file, then print it.
+
+The Input File contains the information (records) to be merged with your letter,
+form, or labels. Create an Input file with PC-Write or export one from a data
+base program. PC-Write accepts 3 Input file formats:
+
+Separate line    Each field on a separate line
+Comma-separated  Each record on a line, each field separated by a comma
+Fixed-length     Every field contains a fixed number of characters
+
+When creating an Input file:
+* A field can be empty.
+  In separate line format, leave empty line.
+  In comma-separated format, leave extra comma.
+  In fixed-length format, leave blanks.
+* Every record must have same number of fields.
+* The Input file can have any number of records.
+* Maximum Input field length is 255 characters.
+
+The Template File consists of 3 parts:
+
+Input template: describes the Input file format. List every field name
+(letters only) in the record, each one on a separate line in one of the formats:
+
+Type of field            Format               Example
+Separate line field      {fieldname}          {name}
+Comma-separated field    {fieldname,}         {city,}
+Fixed length field       {fieldname:length}   {code:10}
+
+Template divider: is {} between the Output and Input templates.
+
+Output template: contains the text to be duplicated and the field variables
+that specify where to place the text from the Input file. A field variable is
+a field name from the Input template surrounded by curly braces, like {name}.
+Field variables should not contain commas or field lengths.
+
+
+Input template options                  Format               Example
+To keep leading blanks                  # before field name  {#city,}
+To keep trailing blanks                 # after field name   {name#,}
+To assign default text for empty field  = after last brace   {num}= unknown
+For prompt at empty field               ? after last brace   {name}?Enter name
+
+Output template options                 Format                    Example
+To align field variable text left       < before field variable   {<name}
+To align field variable text right      > before field variable   {>city}
+To reformat during the merge            + after field variable    {address+}
+To delete a line if field is empty      - after field variable    {address2-}
+To delete a line if field is empty,     / after field variable    {address3/}
+ adding a blank line to end of Output
+
+Example Input file (comma-separated)
+John Smith,"Accounts Receivable, Portland",235008
+Susan Ho,"Marketing, Main Office",289445
+
+Example Template File
+{name,}
+{dept,}
+{personnel,}
+{}
+To: {name}
+Dept: {dept}
+
+The Personnel Dept. has assigned a new personnel number. Please use this
+number on all memos. Your number is {personnel}.
+
+Here is an Output document produced by merging the example Input
+file above with the example Template file.
+
+To: John Smith
+Dept: Accounts Receivable, Portland
+
+The Personnel Dept. has assigned a new personnel number. Please use this
+number on all memos. Your number is 235008.
+
+R E P A G I N G
+
+Repaging inserts soft page break characters in a file so you can see where page
+breaks occur, based on the page length (.L). In Hide mode (Alt Space Bar) soft
+page breaks display as a single dashed line, while hard breaks are a double
+line. The Page Breaks Menu (Alt F7) helps you locate, move, and convert
+page breaks.
+
+To repage an entire document, press Alt F7, F5, F5.
+
+After a repage, adjust the position of the page breaks in the following ways:
+* Move existing breaks with Alt F7, Ctl PgUp/Dn.
+* Enter Hard page break (Hard-Breaks) to force page breaks with:
+   Alt T or Alt F6, F10, F9.
+* Enter Soft page breaks with Shf Alt T (but Repage will move them).
+* Add or delete blank lines, and repage again.
+* Change the page length (default is 11 inches) with a .L or .LB Dot line,
+  and repage again.
+
+Repage and Pagebreak Options
+Set next page break, move to break   Alt F7, F7
+Adjust blank lines to fill page      Alt F7, F6
+Hard/Soft break toggle               Alt F7, F8
+Jump to page break last/next         Alt F7, Shf Pgup/Pgdn
+Move page break up/dn page           Alt F7, Ctl Pgup/Pgdn
+Repage file or marked block          Alt F7, F5, F5
+Renumber only without repage         Alt F7, F5, F6
+Repage and reformat file or marked   Alt F7, F5, F7
+
+See CURSOR MOVES, DOS COMMANDS, DOT LINES, PAGE LAYOUT, PRINTING, REPAGING
+
+W I N D O W S
+
+Windows are created by splitting the screen in two with the Ruler Line. You can
+display two portions of the same file or two different files, and mark and move
+blocks between them.
+
+To Create Windows
+1. Place cursor where you want to split the screen. Press F2.
+2. Press Up or Down Arrow to move to a window. All cursor and editing keys
+   stay in that window. You have two "windows" into the same file.
+3. To edit a second file in a window, press F1 then F6 to switch files.
+
+To Move Between Windows
+1. Press F2 to jump to Ruler line.
+2. Press Up or Down Arrow to move to the other window.
+
+To Close Windows
+1. Place cursor in the window you want to keep.
+2. Press F2 then F2. The cursor jumps to the Ruler and the Ruler is removed.
+
+To Move Text Between Windows - two windows into one file
+1. Press F3, F6, or Ctl F7 at the beginning and end of the block.
+2. Move between windows as described above (F2 then Up or Down Arrow).
+3. Position cursor and press F3 to copy or F6 to move.
+
+To Move Text Between Windows - two different files
+1. Press F3, F6, or Ctl F7  at the beginning and end of the block, as above.
+2. Move between windows as described above (F2 then Up or Down Arrow).
+3. Marked text is in the hold area. The status line says IMPORT.
+   Press F3, F6, or Ctl F4 to insert the marked text into the file.
+   When you move back into the first window, the old text is not marked.
+
+C O P Y / M O V E   T E X T
+
+Moving Within a File
+1. Start marking text with F6.
+2. Move cursor, end marking with F6.
+3. Move cursor to new location.
+4. Press F6 to move marked text.
+5. Press F5 to remove highlighting.
+
+Copying Within a File
+1. Start marking text with F3 (or F6).
+2. Move cursor, end marking with F3.
+3. Move cursor to new location.
+4. Press F3 to copy marked text.
+5. Press F5 to remove highlighting.
+
+Copying To a File - stay in this file, append to or replace named file
+1. Start marking text with Ctl F6 (or F6).
+2. End marking with Ctl F6.
+3. Type in file name, press Enter.
+
+Copying To a File - select block, switch to other file, insert at cursor
+1. Start marking with F3 or F6.
+2. Move cursor, end with F3 or F6
+3. Press F1, then F6 to switch files.
+4. Type filename, then press enter.
+5. Press Esc or F9 for backup option.
+6. The status line says IMPORT.
+7. Press F3, F6, or Ctl F4 to insert.
+8. Press F5 to remove highlighting.
+
+Insert a File
+1. Locate cursor at insert point.
+2. Press Ctl F3.
+3. Type file name, press Enter.
+
+Moving Characters  Transpose character left/right with Shf Bksp/Shf Esc.
+
+Slide Text Right/Left  (Slide boxes by marking with Ctl F7 first)
+1. Mark text with F3 or F6.
+2. Position cursor at insert/delete point.
+3. Press Shf Ins or Shf Del.
+4. Type number of spaces to move right (Ins) or left (Del).
+5. Press Enter.
+
+See BOX OPERATIONS, STATUS LINE, WINDOWS 
+
+F I N D / R E P L A C E
+
+Set Find and Replace Text
+1. Press F9.
+2. Insert chars/text to find.
+3. Press F10.
+4. Insert chars/text to replace.
+
+
+Search for Find Text
+Forward once           Grey+ or F12
+Backward once          Grey- or F11
+For next non-ASCII     Alt F4 F6
+
+
+Replace Text
+Replace once           F10
+Swap find and replace  Ctl F10
+Repeat replace         Alt F10, F9
+Un-replace             Alt F10, F10
+
+Find/Replace Wild Cards
+Current Find text      F2
+Marked text            F3
+"Unwild" Alt A,
+  D, J, M, X, Z        F4
+Letter or number       F5
+Symbol or blank        F6
+Any character          F7
+Line boundary          F8
+
+M I S C . O P E R A T I O N S
+
+Insert Current Find Text
+Insert in file              Alt F4, F2
+
+Word Count  Number of bytes, characters,
+  letters, words in file    Alt F4, F3
+
+Mark a Pair of Symbols
+Mark (), {}, [], <>, xx     Alt F4, F4
+
+Find Non-ASCII Characters
+Includes font characters    Alt F4, F6
+
+Repeat Last Keystroke
+Any text or command         Alt F4, F7
+
+R U L E R   L I N E S
+
+A Ruler Line is a guideline that sets paragraph margins and indents, tabs,
+and column boundaries. It can also set a bell, reformatting on or off, decimal
+tabs, ruler spacing, and column font. A Ruler Line starts with an invisible
+Alt-G, and contains capital letters used by PC-Write, and lower case letters, 
+dashes and so on for your own reference. For Ruler letters and options:
+ENHANCING TEXT, MARGINS, MEASURING, PAGE LAYOUT, PARAGRAPH STYLES, REFORMATTING
+
+A default Ruler is in the edit control file (ED.DEF). You can also EMBED a Ruler
+in a text file, or in your own edit control files. The current Ruler is the most
+recent embedded Ruler, or (if none) the most recently read control file.
+
+Display the current Ruler line and the Window/Ruler Menu with F2.
+The Default Ruler Line is the last Ruler line in the edit control file.
+The Current Ruler Line is the most recent Ruler, embedded or in a control file.
+
+Ruler Line Options:
+F2         Display/remove current Ruler line.
+F2, F4     Embed current Ruler into text; saved with file, doesn't print.
+F2, F6     Read a Ruler from a control file.
+F2, Grey+  Make the next Ruler line in the text the current Ruler.
+F2, Grey-  Make the prior Ruler line in the text the current Ruler.
+
+You can edit an embedded Ruler as text, or press F2 at or below it to edit in
+Ruler mode. To embed a modified version of a Ruler:
+1. Press F2.
+2. Find the Ruler you want with Grey-.
+3. Press F4 to embed it.
+4. Press F2 again to edit in Ruler mode.
+5. Edit the Ruler, either as text or in Ruler mode.
+
+Mini-Rulers are just an Alt-G  followed by a right margin letter.
+They only change the right margin in use.
+
+Example:
+L---+--T-1----+T---2---T+----3-T--+----4-------T-5----+T----6--T-+----7T--+--R
+C
+
+this mini-ruler has the same effect as:
+
+L---+--T-1----+T---2---T+----3-T--+----4-------T-5----+T----6--T-+----7T--+--C
+
+You might use the Mini-Ruler to center a title over text using the current
+Ruler by placing a "C" Mini-Ruler above the title, and a "R" Mini-Ruler below
+the title to return to a ragged right margin for the body of the text.
+
+The Width of your text is measured in Ruler spacing. Leading spaces (between
+the column or screen start and the text) print at the Ruler line position.
+Normally Ruler line spacing is the width of the current font. For example:
+
+.R:E
+L---+--T-1----+T---2---T+----3-T--+----4-------T-5----+T----6--T-+----7T--+--R
+
+changes the Regular font to Elite, a 12 character per inch (cpi) font, so Ruler
+spacing changes to 12 cpi too. Variable width fonts set 10 cpi Ruler spacing.
+If you change width fonts often in a file you should place a Ruler spacing
+command (@10i, @12i, etc.) in the Ruler line to standardize width measuring.
+
+See WINDOWS
+
+S U P P O R T  S E R V I C E
+
+If you need more help, Quicksoft has the following support services:
+
+Unregistered Users: Our technical support group will help you with the
+tutorial. If you need more help, you must register your copy of PC-Write.
+Registered Users with Current Support: You can call for help with technical
+questions. Have your PC-Write manual and printer manual (if you are having
+printer problems) handy. Please have the following information available:
+*  Your registration number.
+*  Your PC-Write version number 3.03 and your DOS version number.
+*  The type of hardware and peripherals you have.
+*  The name of any RAM-resident programs.
+*  The contents of your AUTOEXEC.BAT and CONFIG.SYS files, if any.
+For help, call (206) 282-0452, 7AM to 5PM Pacific time, except 1-3 Wed & Thur.
+
+C U R S O R   M O V E S
+
+Left
+Character       LftArrow
+Screen edge     Shf LftArrow
+Word            Ctl LftArrow
+Margin          Home
+
+Previous
+Sentence        Shf Ctl LftArrow
+Tab             Shf Tab
+Paragraph       Ctl PgUp
+Page            Shf Ctl PgUp
+
+Right
+Character       RtArrow
+Screen edge     Shf RtArrow
+Word            Ctl RtArrow
+Margin          Shf End
+
+Next
+Sentence        Shf Ctl RtArrow
+Tab             Tab
+Paragraph       Ctl PgDn
+Page            Shf Ctl PgDn
+
+Up
+Line            Up Arrow
+Screen top      Shf Up Arrow
+Start of block  Shf Alt -
+Top of file     Shf Grey + or Alt +
+Screen          Shf PgUp
+
+Down
+Line            Down Arrow
+Screen bottom   Shf Down Arrow
+End of block    Shf Alt +
+End of file     Shf Grey - or Alt -
+Screen          Shf PgDn
+
+Bookmarks
+Set first Bookmark       Ctl Home
+Jump to first Bookmark   Ctl End
+Set second Bookmark      Shf Ctl Home
+Jump to second Bookmark  Shf Ctl End
+
+The second bookmark is set before jumps and at the source of a moved block.
+
+Cursor Location
+Display                  Shf F9
+Jump to line in file     Alt F9 F7
+Jump to column           Alt F9 F8
+Jump to line on page     Alt F9 F9 F10
+
+When you press Shf F9, the Top Line reads and provides information:
+ Line x/xx in file. Column x/xx. Line x/xx on Page x/xx.
+
+When you press Alt F9, the Top Line is a menu:
+ F7:Line xx/xx in file.  F8:Column xx/xx.  F9:Line xx/xx on  F10:Page xx/xx.
+
+F O O T N O T E S
+
+To Create a Footnote
+
+1. Enter a footnote reference in the text.  Reference character is your choice.
+  Sequential numbering is an option. See AUTO-NUMBERING.
+2. Enter the footnote text just after the paragraph containing the references.
+3. Place a .DB Dot line above and a .DQ directly below the footnote text.
+See DOT LINES.
+
+Footnote Options
+
+Footnote separator      .DH:text (or dashes)
+Footnote line spacing   .DM:number
+Send footnotes to file  .DF:filename
+
+Example
+In 1975 the urban population of Venus [1] had not yet materialized.
+.DH:
+.DH:-------------
+.DB
+1. A warm, fragrant planet covered with clouds.
+.DQ
+Prints as:
+In 1975 the urban population of Venus [1] had not yet materialized.
+
+-------------
+1. A warm, fragrant planet covered with clouds.
+
+P A G E   E L E M E N T S
+
+Put these Dot lines in the text file to print blank space, include files, and
+keep a block of text on a single page. The Page Element Menu (Alt F6, F7)
+includes these dot lines.
+
+Dot Line     Action                       Examples
+
+.E:length    Insert blank space on page   .E:15     Blank space of 15 lines
+.EK:length   Keep on same page            .EK:10    Next 10 lines on same page
+.EB          Start same page section      .EB       Start, keep lines to page
+.EQ          End same page section         Lines between .EB and .EQ
+.EL:length   Length of inserted file,      stay entirely on one page
+               keep on same page          .EQ       End keep lines to one page
+.TL:length   Length of inserted file,     .TL:9     .T file is 9 lines long
+               can cross pages
+.T:filename  Insert file as text          .T:TEXT1  inserts file TEXT1
+.TI:filename Insert file directly, for    .TI:GRAPH inserts file, unprocessed
+               graphic files
+.U:prompt    Stop for user input          .U:name   prompts user for name ""
+
+See DOT LINES, HEADERS/FOOTERS, PAGE LAYOUT
+
+S H E L L   T O   D O S
+
+If your computer has enough memory you may temporarily exit PC-Write to run
+another program or a DOS command, while the editor and your document stay in
+the computer's memory. You can clip text from other program's screens.
+
+Exiting PC-Write to the Shell
+1. Press F1 to bring up the System/Help Menu.
+2. Press F4.  The top line reads:
+     Command file (Esc:cancel F8:dir): "drive:\COMMAND.COM"
+   where "drive" is the boot drive.
+3. Press Enter to do a DOS command, or type the name of the .COM or .EXE
+   file to execute. PC-Write looks first for a .COM, then for a.EXE file.
+4. When the DOS command has been run the computer screen looks as if
+   you are at DOS, and displays the DOS prompt.
+
+Reentering PC-Write, Exiting the Shell
+1. When you run a program directly from PC-Write, and the program finishes,
+   you are prompted with:
+     To return to the edit program, press any key
+2. Or, if at the DOS prompt in the shell type:
+     EXIT <Enter>.
+
+Notes: The shell from PC-Write is a temporary opening to DOS. When you return
+the shell is closed and all activities ended. So, the shell is suitable for
+applications that will be complete when you return to PC-Write, but not for
+loading a memory resident program that you wish to stay active upon return to
+PC-Write. To load a resident program, exit PC-Write normally (F1, F2), load the
+program, and then reenter the editor (ED filename).
+
+
+
+SCREEN CLIP lets you mark a box of text on the screen of another program and
+place it in the hold area. Later you can insert the text by inserting the
+Hold Area into your file.
+
+To Screen Clip
+1. Press Shf Ctl F5 to clear the Hold Area.
+2. Enter the DOS shell as shown above with F1, F4, <Enter>.
+3. Run the program until the text you want to copy to PC-Write is on screen.
+4. Press Shf Ctl F6. Move to one corner of the box you want to copy.
+5. Press Shf Ctl F6 again. Move to the opposite corner of the box to copy.
+6. Press Shf Ctl F6 a third time to copy the box to the end of Hold Area.
+7. Return to PC-Write, as shown above with Exit at DOS, or <Enter> at the
+   return to edit prompt.
+8. In the PC-Write file, Press Ctl F4 to insert Hold Area at the cursor.
+
+S H A R E W A R E
+
+Shareware is a  unique  marketing  approach. Quicksoft encourages you to freely
+distribute unmodified copies of PC-Write in the U.S. and Canada.
+You support Quicksoft and shareware by registering for support and by buying
+our products. As a registered user, you can get a $25 commission for every new
+PC-Write user who registers and gives us your registration number.
+
+To Register:
+By phone: Call 1-800-888-8088
+By mail:  Print an order form and fill it out.
+ Place PC-Write Reference diskette in drive A. At the A> prompt type:
+   COPY QUICK-OR.DER PRN <Enter>
+
+When you get your Registration Number:
+With your master program disk in the default drive or directory:
+To change front screen Registration # to your own, from DOS type:
+  ED = <Enter>
+To change front screen message "Compliments of..." to your own:
+  ED + <Enter>
+
