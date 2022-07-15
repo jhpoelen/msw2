@@ -1,7 +1,7 @@
 # msw2
 This is an incomplete digital archive of original resources used to compile:
 
-DE Wilson and DM Reeder (eds.). 1993. Mammal Species of the World, A Taxonomic and Geographic Reference, Second Edition. Smithsonian Institution Press, Washington D.C., 1206 pp. ISBN 1-56098-217-9
+E Wilson and DM Reeder (eds.). 1993. Mammal Species of the World, A Taxonomic and Geographic Reference, Second Edition. Smithsonian Institution Press, Washington D.C., 1206 pp. ISBN 1-56098-217-9
 
 Included digital resources in ```data-raw/``` folder were provided by DeeAnn M. Reeder in July 2022.
 
@@ -14,6 +14,41 @@ Note that these files were transferred from a collection of [floppy disks](https
 A Preston archive was generated from a all files in the ```'data-raw/MSW2/all readable files from floppy disks/DBASE FILES/'``` directory, subset of the provided MSW2 digital files. A preston archive packages the digital resources in a location-agnostic, verifiable, digital archive format. For more information see [https://preston.guoda.bio](https://preston.guoda.bio), [https://github.com/bio-guoda/preston](https://github.com/bio-guoda/preston), or Poelen, Jorrit, Elliott, Michael, & Alzuru, Icaro. (2022). bio-guoda/preston: (0.3.10). Zenodo. https://doi.org/10.5281/zenodo.1410543. 
 
 Also, the ```preston dbase-stream``` command was used to extract TAXON records into [msw2.csv](./msw2.csv) and [msw2.json](./msw2.json) files. For ease of inspection, the first 10 records of these files are available in [msw2-sample.csv](./msw2-sample.csv) and [msw2-sample.json](./msw2-sample.json) respectively.
+
+See [make.sh](./make.sh) for scripts used to generate preston archive and derived tabular and json perspective on the MSW2 resources.
+
+# sample table
+
+First 10 lines from MSW2 taxon records generated using ```cat msw2-sample.csv | mlr --icsv --omd cat``` :
+
+| http://www.w3.org/ns/prov#wasDerivedFrom | http://purl.org/dc/elements/1.1/format | ME | MYPARENT | RORDER | NAME | TAXON | PRINTNAME | AUTHOR | CITATION | COMMON_NM | ORIG_NM | TYPE_SPEC | TYPES | TYPE_LOC | DISTRIB | DISTRIB2 | NOTES | STATUS_ | SYNON |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| hash://sha256/d5e62cc9b8dd2679339d61d0ebe64c7b0c481572a49d48a640c5713d8ec5a407 | application/dbase | 0 | -1 | 0 | -0- |  | -0- |  |  |  |  |  |  |  |  |  |  |  |  |
+| hash://sha256/d5e62cc9b8dd2679339d61d0ebe64c7b0c481572a49d48a640c5713d8ec5a407 | application/dbase | 1 | 0 | 0 | MAMMALIA | CLASS | MAMMALIA |  |  |  |  |  |  |  |  |  |  |  |  |
+| hash://sha256/d5e62cc9b8dd2679339d61d0ebe64c7b0c481572a49d48a640c5713d8ec5a407 | application/dbase | 2 | 1 | 0 | Scandentia | ORDER | Scandentia | Wagner, 1855. | <^In^> Schreber, Die Sa[..]ugethiere, Suppl., pt. 1, p. 268. | Tree Shrews. |  |  |  |  | SE Asia. |  |  |  |  |
+| hash://sha256/d5e62cc9b8dd2679339d61d0ebe64c7b0c481572a49d48a640c5713d8ec5a407 | application/dbase | 3 | 2 | 0 | Tupaiidae | FAMILY | Tupaiidae | Gray, 1825. | Ann. Philos., n.s., 10:339. | Tree Shrews. |  |  |  |  | SE Asia. |  |  |  |  |
+| hash://sha256/d5e62cc9b8dd2679339d61d0ebe64c7b0c481572a49d48a640c5713d8ec5a407 | application/dbase | 4 | 3 | 0 | Tupaiinae | SUBFAMILY | Tupaiinae | Gray, 1825. | Ann. Philos., n.s., 10:339. | Tree Shrews. |  |  |  |  | SE Asia. |  |  |  |  |
+| hash://sha256/d5e62cc9b8dd2679339d61d0ebe64c7b0c481572a49d48a640c5713d8ec5a407 | application/dbase | 5 | 4 | 0 | Anathana | GENUS | Anathana | Lyon, 1913. | Proc. U.S. Natl. Mus., 45:120. | Indian Tree Shrews. |  | <^Tupaia ellioti^> Waterhouse, 1850. |  |  | India. |  |  |  |  |
+| hash://sha256/d5e62cc9b8dd2679339d61d0ebe64c7b0c481572a49d48a640c5713d8ec5a407 | application/dbase | 6 | 5 | 0 | ellioti | SPECIES | Anathana ellioti | (Waterhouse, 1850). | Proc. Zool. Soc. Lond., 1849:107 [1850]. | Madras Tree Shrew. | <^Tupaia ellioti^>. |  | BM(NH) 50.1.21.5. | India, Andhra Pradesh, "hills between Cuddapah and Nellox," (= Velikanda Range). | India, south of Ganges River. |  |  |  |  |
+| hash://sha256/d5e62cc9b8dd2679339d61d0ebe64c7b0c481572a49d48a640c5713d8ec5a407 | application/dbase | 7 | 4 | 0 | Dendrogale | GENUS | Dendrogale | Gray, 1848. | Proc. Zool. Soc. Lond., 1848:23. | Smooth-tailed Tree Shrews. |  | <^Hylogalea murina^> Schlegel and Mu[..]ller, 1843. |  |  | Malaysia, Cambodia, Vietnam. |  |  |  |  |
+| hash://sha256/d5e62cc9b8dd2679339d61d0ebe64c7b0c481572a49d48a640c5713d8ec5a407 | application/dbase | 8 | 7 | 0 | melanura | SPECIES | Dendrogale melanura | (Thomas, 1892). | Ann. Mag. Nat. Hist., ser. 6, 9:252. | Bornean Smooth-tailed Tree Shrews. |  |  |  | Malaysia, Sarawak, Mt. Dulit, 5,000 ft. (1,524 m). | Mountains of NE Sarawak and Kinabalu and Trus Madi, Sabah, nowhere below 3,000 ft. (914 m). |  |  |  |  |
+| hash://sha256/d5e62cc9b8dd2679339d61d0ebe64c7b0c481572a49d48a640c5713d8ec5a407 | application/dbase | 9 | 7 | 0 | murina | SPECIES | Dendrogale murina | (Schlegel and Mu[..]ller, 1843). | <^In^> Temminck, Verh. Nat. Gesch. Nederland. Overz. Bezitt., Zool., p. 167[1845], pls. 26, 27[1843]. | Northern Smooth-tailed Tree Shrew. |  |  |  | Indonesia, Kalimantan Barat Prov., "Pontianak" (Probably erroneous, see Lyon, 1913{#1101}). | From E Thailand, Chatraburi and Trat Provinces, through Cambodia to Vietnam. |  |  |  |  |
+
+# summary statistics
+
+According to the script below, the digital resources contain 3819 species level records, 926 genus level records.  
+
+Aggregate MSW2 taxon records sorted by taxonomic rank in decreasing frequency was calculated using:
+
+```
+preston ls | grep -v DBT| preston dbase-stream  | grep TAXON |  mlr --ijson --ocsv cut -f TAXON | tail -n+2 | grep -P "[A-Z]+" | sort | uniq -c | sort -nr
+   3819 SPECIES
+    926 GENUS
+    105 SUBFAMILY
+    104 FAMILY
+     28 ORDER
+      4 CLASS
+```
 
 # feedback 
 
