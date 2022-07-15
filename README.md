@@ -13,7 +13,7 @@ Note that these files were transferred from a collection of [floppy disks](https
 
 A Preston archive was generated from a all files in the ```'data-raw/MSW2/all readable files from floppy disks/DBASE FILES/'``` directory, subset of the provided MSW2 digital files. A preston archive packages the digital resources in a location-agnostic, verifiable, digital archive format. For more information see [https://preston.guoda.bio](https://preston.guoda.bio), [https://github.com/bio-guoda/preston](https://github.com/bio-guoda/preston), or Poelen, Jorrit, Elliott, Michael, & Alzuru, Icaro. (2022). bio-guoda/preston: (0.3.10). Zenodo. https://doi.org/10.5281/zenodo.1410543. 
 
-Also, the ```preston dbase-stream``` command was used to extract TAXON records into [msw2.csv](./msw2.csv) and [msw2.json](./msw2.json) files. For ease of inspection, the first 10 records of these files are available in [msw2-sample.csv](./msw2-sample.csv) and [msw2-sample.json](./msw2-sample.json) respectively.
+Also, the ```preston dbase-stream``` command was used to extract TAXON records into [msw2.csv](../../raw/main/msw2.csv) and [msw2.json](../../raw/main/msw2.json) files. For ease of inspection, the first 10 records of these files are available in [msw2-sample.csv](./msw2-sample.csv) and [msw2-sample.json](./msw2-sample.json) respectively.
 
 See [make.sh](./make.sh) for scripts used to generate preston archive and derived tabular and json perspective on the MSW2 resources.
 
